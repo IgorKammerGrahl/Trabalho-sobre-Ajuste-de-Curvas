@@ -1,0 +1,44 @@
+version: "3.9"
+
+services:
+  server:
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    container_name: flask-server
+    ports:
+      - "5000:5000"
+    networks:
+      - project_network
+    volumes:
+      - ./server:/app
+    environment:
+      - FLASK_ENV=${FLASK_ENV:-production}
+
+  client:
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+    container_name: flask-client
+    networks:
+      - project_network
+    depends_on:
+      - server
+    command: python client.py
+
+  wrk:
+    image: williamyeh/wrk
+    container_name: wrk-tester
+    networks:
+      - project_network
+    depends_on:
+      - server
+    volumes:
+      - ./wrk-logs:/logs
+    command: >
+      sh -c "sleep 5 && for i in $(seq 1 100); do size=$(awk -v min=10 -v max=1000 'BEGIN{srand(); print int(min+rand()*(max-min+1))}');
+      wrk -t12 -c400 -d2s http://server:5000/file/$size; done > /logs/results.log"
+
+networks:
+  project_network:
+    driver: bridge
