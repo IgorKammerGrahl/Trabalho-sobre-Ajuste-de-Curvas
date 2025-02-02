@@ -1,0 +1,7002 @@
+[
+    {
+        "client_id": 0,
+        "file_size": 229.36,
+        "status_code": 200,
+        "elapsed_time": 0.0521,
+        "error": null
+    },
+    {
+        "client_id": 1,
+        "file_size": 248.8,
+        "status_code": 200,
+        "elapsed_time": 0.0799,
+        "error": null
+    },
+    {
+        "client_id": 2,
+        "file_size": 527.55,
+        "status_code": 200,
+        "elapsed_time": 0.1588,
+        "error": null
+    },
+    {
+        "client_id": 3,
+        "file_size": 185.66,
+        "status_code": 200,
+        "elapsed_time": 0.0583,
+        "error": null
+    },
+    {
+        "client_id": 4,
+        "file_size": 333.22,
+        "status_code": 200,
+        "elapsed_time": 0.137,
+        "error": null
+    },
+    {
+        "client_id": 5,
+        "file_size": 32.94,
+        "status_code": 200,
+        "elapsed_time": 0.0191,
+        "error": null
+    },
+    {
+        "client_id": 6,
+        "file_size": 1886.92,
+        "status_code": 200,
+        "elapsed_time": 0.3682,
+        "error": null
+    },
+    {
+        "client_id": 7,
+        "file_size": 248.53,
+        "status_code": 200,
+        "elapsed_time": 0.0679,
+        "error": null
+    },
+    {
+        "client_id": 8,
+        "file_size": 388.96,
+        "status_code": 200,
+        "elapsed_time": 0.0859,
+        "error": null
+    },
+    {
+        "client_id": 9,
+        "file_size": 420.44,
+        "status_code": 200,
+        "elapsed_time": 0.0974,
+        "error": null
+    },
+    {
+        "client_id": 10,
+        "file_size": 1531.37,
+        "status_code": 200,
+        "elapsed_time": 0.3609,
+        "error": null
+    },
+    {
+        "client_id": 11,
+        "file_size": 1128.14,
+        "status_code": 200,
+        "elapsed_time": 0.2571,
+        "error": null
+    },
+    {
+        "client_id": 12,
+        "file_size": 28.79,
+        "status_code": 200,
+        "elapsed_time": 0.05,
+        "error": null
+    },
+    {
+        "client_id": 13,
+        "file_size": 363.57,
+        "status_code": 200,
+        "elapsed_time": 0.1088,
+        "error": null
+    },
+    {
+        "client_id": 14,
+        "file_size": 1229.55,
+        "status_code": 200,
+        "elapsed_time": 0.3486,
+        "error": null
+    },
+    {
+        "client_id": 15,
+        "file_size": 935.82,
+        "status_code": 200,
+        "elapsed_time": 0.2907,
+        "error": null
+    },
+    {
+        "client_id": 16,
+        "file_size": 754.87,
+        "status_code": 200,
+        "elapsed_time": 0.2226,
+        "error": null
+    },
+    {
+        "client_id": 17,
+        "file_size": 370.89,
+        "status_code": 200,
+        "elapsed_time": 0.1431,
+        "error": null
+    },
+    {
+        "client_id": 18,
+        "file_size": 305.13,
+        "status_code": 200,
+        "elapsed_time": 0.1014,
+        "error": null
+    },
+    {
+        "client_id": 19,
+        "file_size": 356.25,
+        "status_code": 200,
+        "elapsed_time": 0.1412,
+        "error": null
+    },
+    {
+        "client_id": 20,
+        "file_size": 989.45,
+        "status_code": 200,
+        "elapsed_time": 0.2945,
+        "error": null
+    },
+    {
+        "client_id": 21,
+        "file_size": 491.67,
+        "status_code": 200,
+        "elapsed_time": 0.1531,
+        "error": null
+    },
+    {
+        "client_id": 22,
+        "file_size": 434.33,
+        "status_code": 200,
+        "elapsed_time": 0.1635,
+        "error": null
+    },
+    {
+        "client_id": 23,
+        "file_size": 356.77,
+        "status_code": 200,
+        "elapsed_time": 0.1281,
+        "error": null
+    },
+    {
+        "client_id": 24,
+        "file_size": 2911.87,
+        "status_code": 200,
+        "elapsed_time": 0.5362,
+        "error": null
+    },
+    {
+        "client_id": 25,
+        "file_size": 311.29,
+        "status_code": 200,
+        "elapsed_time": 0.1417,
+        "error": null
+    },
+    {
+        "client_id": 26,
+        "file_size": 1671.51,
+        "status_code": 200,
+        "elapsed_time": 0.4148,
+        "error": null
+    },
+    {
+        "client_id": 27,
+        "file_size": 572.85,
+        "status_code": 200,
+        "elapsed_time": 0.2011,
+        "error": null
+    },
+    {
+        "client_id": 28,
+        "file_size": 840.07,
+        "status_code": 200,
+        "elapsed_time": 0.3048,
+        "error": null
+    },
+    {
+        "client_id": 29,
+        "file_size": 211.75,
+        "status_code": 200,
+        "elapsed_time": 0.1119,
+        "error": null
+    },
+    {
+        "client_id": 30,
+        "file_size": 206.46,
+        "status_code": 200,
+        "elapsed_time": 0.1496,
+        "error": null
+    },
+    {
+        "client_id": 31,
+        "file_size": 381.07,
+        "status_code": 200,
+        "elapsed_time": 0.2395,
+        "error": null
+    },
+    {
+        "client_id": 32,
+        "file_size": 1591.8,
+        "status_code": 200,
+        "elapsed_time": 0.4903,
+        "error": null
+    },
+    {
+        "client_id": 33,
+        "file_size": 312.14,
+        "status_code": 200,
+        "elapsed_time": 0.2037,
+        "error": null
+    },
+    {
+        "client_id": 34,
+        "file_size": 191.49,
+        "status_code": 200,
+        "elapsed_time": 0.1552,
+        "error": null
+    },
+    {
+        "client_id": 35,
+        "file_size": 1608.89,
+        "status_code": 200,
+        "elapsed_time": 0.4682,
+        "error": null
+    },
+    {
+        "client_id": 36,
+        "file_size": 370.25,
+        "status_code": 200,
+        "elapsed_time": 0.2351,
+        "error": null
+    },
+    {
+        "client_id": 37,
+        "file_size": 161.69,
+        "status_code": 200,
+        "elapsed_time": 0.1611,
+        "error": null
+    },
+    {
+        "client_id": 38,
+        "file_size": 302.84,
+        "status_code": 200,
+        "elapsed_time": 0.2101,
+        "error": null
+    },
+    {
+        "client_id": 39,
+        "file_size": 380.63,
+        "status_code": 200,
+        "elapsed_time": 0.2558,
+        "error": null
+    },
+    {
+        "client_id": 40,
+        "file_size": 1075.28,
+        "status_code": 200,
+        "elapsed_time": 0.3822,
+        "error": null
+    },
+    {
+        "client_id": 41,
+        "file_size": 1938.49,
+        "status_code": 200,
+        "elapsed_time": 0.5057,
+        "error": null
+    },
+    {
+        "client_id": 42,
+        "file_size": 513.16,
+        "status_code": 200,
+        "elapsed_time": 0.2711,
+        "error": null
+    },
+    {
+        "client_id": 43,
+        "file_size": 75.21,
+        "status_code": 200,
+        "elapsed_time": 0.135,
+        "error": null
+    },
+    {
+        "client_id": 44,
+        "file_size": 760.64,
+        "status_code": 200,
+        "elapsed_time": 0.3205,
+        "error": null
+    },
+    {
+        "client_id": 45,
+        "file_size": 509.53,
+        "status_code": 200,
+        "elapsed_time": 0.3004,
+        "error": null
+    },
+    {
+        "client_id": 46,
+        "file_size": 230.81,
+        "status_code": 200,
+        "elapsed_time": 0.2022,
+        "error": null
+    },
+    {
+        "client_id": 47,
+        "file_size": 462.61,
+        "status_code": 200,
+        "elapsed_time": 0.2714,
+        "error": null
+    },
+    {
+        "client_id": 48,
+        "file_size": 1035.55,
+        "status_code": 200,
+        "elapsed_time": 0.4508,
+        "error": null
+    },
+    {
+        "client_id": 49,
+        "file_size": 930.11,
+        "status_code": 200,
+        "elapsed_time": 0.3842,
+        "error": null
+    },
+    {
+        "client_id": 50,
+        "file_size": 362.63,
+        "status_code": 200,
+        "elapsed_time": 0.2664,
+        "error": null
+    },
+    {
+        "client_id": 51,
+        "file_size": 356.56,
+        "status_code": 200,
+        "elapsed_time": 0.2376,
+        "error": null
+    },
+    {
+        "client_id": 52,
+        "file_size": 308.61,
+        "status_code": 200,
+        "elapsed_time": 0.2345,
+        "error": null
+    },
+    {
+        "client_id": 53,
+        "file_size": 305.59,
+        "status_code": 200,
+        "elapsed_time": 0.2259,
+        "error": null
+    },
+    {
+        "client_id": 54,
+        "file_size": 472.16,
+        "status_code": 200,
+        "elapsed_time": 0.3001,
+        "error": null
+    },
+    {
+        "client_id": 55,
+        "file_size": 1946.88,
+        "status_code": 200,
+        "elapsed_time": 0.7952,
+        "error": null
+    },
+    {
+        "client_id": 56,
+        "file_size": 226.49,
+        "status_code": 200,
+        "elapsed_time": 0.2496,
+        "error": null
+    },
+    {
+        "client_id": 57,
+        "file_size": 240.54,
+        "status_code": 200,
+        "elapsed_time": 0.2674,
+        "error": null
+    },
+    {
+        "client_id": 58,
+        "file_size": 368.03,
+        "status_code": 200,
+        "elapsed_time": 0.2937,
+        "error": null
+    },
+    {
+        "client_id": 59,
+        "file_size": 326.05,
+        "status_code": 200,
+        "elapsed_time": 0.2914,
+        "error": null
+    },
+    {
+        "client_id": 60,
+        "file_size": 1350.78,
+        "status_code": 200,
+        "elapsed_time": 0.5485,
+        "error": null
+    },
+    {
+        "client_id": 61,
+        "file_size": 273.46,
+        "status_code": 200,
+        "elapsed_time": 0.2689,
+        "error": null
+    },
+    {
+        "client_id": 62,
+        "file_size": 66.58,
+        "status_code": 200,
+        "elapsed_time": 0.2365,
+        "error": null
+    },
+    {
+        "client_id": 63,
+        "file_size": 284.7,
+        "status_code": 200,
+        "elapsed_time": 0.3009,
+        "error": null
+    },
+    {
+        "client_id": 64,
+        "file_size": 783.6,
+        "status_code": 200,
+        "elapsed_time": 0.3842,
+        "error": null
+    },
+    {
+        "client_id": 65,
+        "file_size": 337.27,
+        "status_code": 200,
+        "elapsed_time": 0.2945,
+        "error": null
+    },
+    {
+        "client_id": 66,
+        "file_size": 198.2,
+        "status_code": 200,
+        "elapsed_time": 0.2721,
+        "error": null
+    },
+    {
+        "client_id": 67,
+        "file_size": 1308.55,
+        "status_code": 200,
+        "elapsed_time": 0.5935,
+        "error": null
+    },
+    {
+        "client_id": 68,
+        "file_size": 347.52,
+        "status_code": 200,
+        "elapsed_time": 0.3344,
+        "error": null
+    },
+    {
+        "client_id": 69,
+        "file_size": 338.91,
+        "status_code": 200,
+        "elapsed_time": 0.3337,
+        "error": null
+    },
+    {
+        "client_id": 70,
+        "file_size": 985.79,
+        "status_code": 200,
+        "elapsed_time": 0.5038,
+        "error": null
+    },
+    {
+        "client_id": 71,
+        "file_size": 357.03,
+        "status_code": 200,
+        "elapsed_time": 0.3619,
+        "error": null
+    },
+    {
+        "client_id": 72,
+        "file_size": 228.94,
+        "status_code": 200,
+        "elapsed_time": 0.5247,
+        "error": null
+    },
+    {
+        "client_id": 73,
+        "file_size": 1424.39,
+        "status_code": 200,
+        "elapsed_time": 0.9932,
+        "error": null
+    },
+    {
+        "client_id": 74,
+        "file_size": 537.61,
+        "status_code": 200,
+        "elapsed_time": 0.6286,
+        "error": null
+    },
+    {
+        "client_id": 75,
+        "file_size": 872.43,
+        "status_code": 200,
+        "elapsed_time": 0.6382,
+        "error": null
+    },
+    {
+        "client_id": 76,
+        "file_size": 1693.9,
+        "status_code": 200,
+        "elapsed_time": 0.777,
+        "error": null
+    },
+    {
+        "client_id": 77,
+        "file_size": 818.19,
+        "status_code": 200,
+        "elapsed_time": 0.4751,
+        "error": null
+    },
+    {
+        "client_id": 78,
+        "file_size": 211.04,
+        "status_code": 200,
+        "elapsed_time": 0.5334,
+        "error": null
+    },
+    {
+        "client_id": 79,
+        "file_size": 1065.57,
+        "status_code": 200,
+        "elapsed_time": 0.4916,
+        "error": null
+    },
+    {
+        "client_id": 80,
+        "file_size": 341.23,
+        "status_code": 200,
+        "elapsed_time": 0.3556,
+        "error": null
+    },
+    {
+        "client_id": 81,
+        "file_size": 263.08,
+        "status_code": 200,
+        "elapsed_time": 0.5157,
+        "error": null
+    },
+    {
+        "client_id": 82,
+        "file_size": 1267.1,
+        "status_code": 200,
+        "elapsed_time": 0.8439,
+        "error": null
+    },
+    {
+        "client_id": 83,
+        "file_size": 1237.23,
+        "status_code": 200,
+        "elapsed_time": 0.8877,
+        "error": null
+    },
+    {
+        "client_id": 84,
+        "file_size": 1286.97,
+        "status_code": 200,
+        "elapsed_time": 0.7013,
+        "error": null
+    },
+    {
+        "client_id": 85,
+        "file_size": 290.15,
+        "status_code": 200,
+        "elapsed_time": 0.2815,
+        "error": null
+    },
+    {
+        "client_id": 86,
+        "file_size": 198.16,
+        "status_code": 200,
+        "elapsed_time": 0.4645,
+        "error": null
+    },
+    {
+        "client_id": 87,
+        "file_size": 1807.48,
+        "status_code": 200,
+        "elapsed_time": 0.9982,
+        "error": null
+    },
+    {
+        "client_id": 88,
+        "file_size": 12.87,
+        "status_code": 200,
+        "elapsed_time": 0.4487,
+        "error": null
+    },
+    {
+        "client_id": 89,
+        "file_size": 817.14,
+        "status_code": 200,
+        "elapsed_time": 0.519,
+        "error": null
+    },
+    {
+        "client_id": 90,
+        "file_size": 1186.44,
+        "status_code": 200,
+        "elapsed_time": 0.8153,
+        "error": null
+    },
+    {
+        "client_id": 91,
+        "file_size": 903.87,
+        "status_code": 200,
+        "elapsed_time": 0.5559,
+        "error": null
+    },
+    {
+        "client_id": 92,
+        "file_size": 364.7,
+        "status_code": 200,
+        "elapsed_time": 0.4149,
+        "error": null
+    },
+    {
+        "client_id": 93,
+        "file_size": 340.03,
+        "status_code": 200,
+        "elapsed_time": 0.5064,
+        "error": null
+    },
+    {
+        "client_id": 94,
+        "file_size": 933.28,
+        "status_code": 200,
+        "elapsed_time": 0.5938,
+        "error": null
+    },
+    {
+        "client_id": 95,
+        "file_size": 174.73,
+        "status_code": 200,
+        "elapsed_time": 0.314,
+        "error": null
+    },
+    {
+        "client_id": 96,
+        "file_size": 334.74,
+        "status_code": 200,
+        "elapsed_time": 0.3373,
+        "error": null
+    },
+    {
+        "client_id": 97,
+        "file_size": 414.64,
+        "status_code": 200,
+        "elapsed_time": 0.4424,
+        "error": null
+    },
+    {
+        "client_id": 98,
+        "file_size": 1690.77,
+        "status_code": 200,
+        "elapsed_time": 0.808,
+        "error": null
+    },
+    {
+        "client_id": 99,
+        "file_size": 163.33,
+        "status_code": 200,
+        "elapsed_time": 0.3625,
+        "error": null
+    },
+    {
+        "client_id": 100,
+        "file_size": 1329.88,
+        "status_code": 200,
+        "elapsed_time": 0.7263,
+        "error": null
+    },
+    {
+        "client_id": 101,
+        "file_size": 2707.77,
+        "status_code": 200,
+        "elapsed_time": 1.2348,
+        "error": null
+    },
+    {
+        "client_id": 102,
+        "file_size": 223.57,
+        "status_code": 200,
+        "elapsed_time": 0.3255,
+        "error": null
+    },
+    {
+        "client_id": 103,
+        "file_size": 466.42,
+        "status_code": 200,
+        "elapsed_time": 0.4137,
+        "error": null
+    },
+    {
+        "client_id": 104,
+        "file_size": 169.4,
+        "status_code": 200,
+        "elapsed_time": 0.3091,
+        "error": null
+    },
+    {
+        "client_id": 105,
+        "file_size": 939.38,
+        "status_code": 200,
+        "elapsed_time": 0.6672,
+        "error": null
+    },
+    {
+        "client_id": 106,
+        "file_size": 340.38,
+        "status_code": 200,
+        "elapsed_time": 0.4261,
+        "error": null
+    },
+    {
+        "client_id": 107,
+        "file_size": 1775.15,
+        "status_code": 200,
+        "elapsed_time": 0.7941,
+        "error": null
+    },
+    {
+        "client_id": 108,
+        "file_size": 10339.9,
+        "status_code": 200,
+        "elapsed_time": 4.6197,
+        "error": null
+    },
+    {
+        "client_id": 109,
+        "file_size": 186.79,
+        "status_code": 200,
+        "elapsed_time": 0.4303,
+        "error": null
+    },
+    {
+        "client_id": 110,
+        "file_size": 1338.75,
+        "status_code": 200,
+        "elapsed_time": 0.795,
+        "error": null
+    },
+    {
+        "client_id": 111,
+        "file_size": 2379.85,
+        "status_code": 200,
+        "elapsed_time": 1.0113,
+        "error": null
+    },
+    {
+        "client_id": 112,
+        "file_size": 464.63,
+        "status_code": 200,
+        "elapsed_time": 0.5146,
+        "error": null
+    },
+    {
+        "client_id": 113,
+        "file_size": 36.13,
+        "status_code": 200,
+        "elapsed_time": 0.3717,
+        "error": null
+    },
+    {
+        "client_id": 114,
+        "file_size": 1200.0,
+        "status_code": 200,
+        "elapsed_time": 0.8347,
+        "error": null
+    },
+    {
+        "client_id": 115,
+        "file_size": 171.54,
+        "status_code": 200,
+        "elapsed_time": 0.4289,
+        "error": null
+    },
+    {
+        "client_id": 116,
+        "file_size": 1408.17,
+        "status_code": 200,
+        "elapsed_time": 0.8648,
+        "error": null
+    },
+    {
+        "client_id": 117,
+        "file_size": 220.94,
+        "status_code": 200,
+        "elapsed_time": 0.455,
+        "error": null
+    },
+    {
+        "client_id": 118,
+        "file_size": 286.14,
+        "status_code": 200,
+        "elapsed_time": 0.3219,
+        "error": null
+    },
+    {
+        "client_id": 119,
+        "file_size": 80.83,
+        "status_code": 200,
+        "elapsed_time": 0.4335,
+        "error": null
+    },
+    {
+        "client_id": 120,
+        "file_size": 279.54,
+        "status_code": 200,
+        "elapsed_time": 0.4691,
+        "error": null
+    },
+    {
+        "client_id": 121,
+        "file_size": 929.12,
+        "status_code": 200,
+        "elapsed_time": 0.6809,
+        "error": null
+    },
+    {
+        "client_id": 122,
+        "file_size": 101.39,
+        "status_code": 200,
+        "elapsed_time": 0.4438,
+        "error": null
+    },
+    {
+        "client_id": 123,
+        "file_size": 686.67,
+        "status_code": 200,
+        "elapsed_time": 0.5973,
+        "error": null
+    },
+    {
+        "client_id": 124,
+        "file_size": 351.75,
+        "status_code": 200,
+        "elapsed_time": 0.3903,
+        "error": null
+    },
+    {
+        "client_id": 125,
+        "file_size": 278.57,
+        "status_code": 200,
+        "elapsed_time": 0.4862,
+        "error": null
+    },
+    {
+        "client_id": 126,
+        "file_size": 252.16,
+        "status_code": 200,
+        "elapsed_time": 0.4816,
+        "error": null
+    },
+    {
+        "client_id": 127,
+        "file_size": 251.61,
+        "status_code": 200,
+        "elapsed_time": 0.5677,
+        "error": null
+    },
+    {
+        "client_id": 128,
+        "file_size": 277.52,
+        "status_code": 200,
+        "elapsed_time": 0.5578,
+        "error": null
+    },
+    {
+        "client_id": 129,
+        "file_size": 173.29,
+        "status_code": 200,
+        "elapsed_time": 0.4709,
+        "error": null
+    },
+    {
+        "client_id": 130,
+        "file_size": 296.96,
+        "status_code": 200,
+        "elapsed_time": 0.4295,
+        "error": null
+    },
+    {
+        "client_id": 131,
+        "file_size": 169.08,
+        "status_code": 200,
+        "elapsed_time": 0.5091,
+        "error": null
+    },
+    {
+        "client_id": 132,
+        "file_size": 277.01,
+        "status_code": 200,
+        "elapsed_time": 0.5519,
+        "error": null
+    },
+    {
+        "client_id": 133,
+        "file_size": 258.82,
+        "status_code": 200,
+        "elapsed_time": 0.4232,
+        "error": null
+    },
+    {
+        "client_id": 134,
+        "file_size": 933.63,
+        "status_code": 200,
+        "elapsed_time": 0.7988,
+        "error": null
+    },
+    {
+        "client_id": 135,
+        "file_size": 481.3,
+        "status_code": 200,
+        "elapsed_time": 0.6334,
+        "error": null
+    },
+    {
+        "client_id": 136,
+        "file_size": 166.16,
+        "status_code": 200,
+        "elapsed_time": 0.5129,
+        "error": null
+    },
+    {
+        "client_id": 137,
+        "file_size": 864.46,
+        "status_code": 200,
+        "elapsed_time": 0.7121,
+        "error": null
+    },
+    {
+        "client_id": 138,
+        "file_size": 286.01,
+        "status_code": 200,
+        "elapsed_time": 0.5819,
+        "error": null
+    },
+    {
+        "client_id": 139,
+        "file_size": 211.28,
+        "status_code": 200,
+        "elapsed_time": 0.4343,
+        "error": null
+    },
+    {
+        "client_id": 140,
+        "file_size": 224.58,
+        "status_code": 200,
+        "elapsed_time": 0.4368,
+        "error": null
+    },
+    {
+        "client_id": 141,
+        "file_size": 229.86,
+        "status_code": 200,
+        "elapsed_time": 0.5596,
+        "error": null
+    },
+    {
+        "client_id": 142,
+        "file_size": 660.42,
+        "status_code": 200,
+        "elapsed_time": 0.6641,
+        "error": null
+    },
+    {
+        "client_id": 143,
+        "file_size": 448.06,
+        "status_code": 200,
+        "elapsed_time": 0.6519,
+        "error": null
+    },
+    {
+        "client_id": 144,
+        "file_size": 222.72,
+        "status_code": 200,
+        "elapsed_time": 0.5416,
+        "error": null
+    },
+    {
+        "client_id": 145,
+        "file_size": 647.23,
+        "status_code": 200,
+        "elapsed_time": 0.7077,
+        "error": null
+    },
+    {
+        "client_id": 146,
+        "file_size": 1755.09,
+        "status_code": 200,
+        "elapsed_time": 0.873,
+        "error": null
+    },
+    {
+        "client_id": 147,
+        "file_size": 1362.63,
+        "status_code": 200,
+        "elapsed_time": 0.9115,
+        "error": null
+    },
+    {
+        "client_id": 148,
+        "file_size": 270.51,
+        "status_code": 200,
+        "elapsed_time": 0.5538,
+        "error": null
+    },
+    {
+        "client_id": 149,
+        "file_size": 174.92,
+        "status_code": 200,
+        "elapsed_time": 0.5375,
+        "error": null
+    },
+    {
+        "client_id": 150,
+        "file_size": 780.96,
+        "status_code": 200,
+        "elapsed_time": 0.7417,
+        "error": null
+    },
+    {
+        "client_id": 151,
+        "file_size": 1854.86,
+        "status_code": 200,
+        "elapsed_time": 1.1083,
+        "error": null
+    },
+    {
+        "client_id": 152,
+        "file_size": 948.89,
+        "status_code": 200,
+        "elapsed_time": 0.7925,
+        "error": null
+    },
+    {
+        "client_id": 153,
+        "file_size": 265.94,
+        "status_code": 200,
+        "elapsed_time": 0.5833,
+        "error": null
+    },
+    {
+        "client_id": 154,
+        "file_size": 1178.65,
+        "status_code": 200,
+        "elapsed_time": 0.934,
+        "error": null
+    },
+    {
+        "client_id": 155,
+        "file_size": 349.98,
+        "status_code": 200,
+        "elapsed_time": 0.6456,
+        "error": null
+    },
+    {
+        "client_id": 156,
+        "file_size": 434.74,
+        "status_code": 200,
+        "elapsed_time": 0.6233,
+        "error": null
+    },
+    {
+        "client_id": 157,
+        "file_size": 1081.49,
+        "status_code": 200,
+        "elapsed_time": 0.8952,
+        "error": null
+    },
+    {
+        "client_id": 158,
+        "file_size": 595.45,
+        "status_code": 200,
+        "elapsed_time": 0.6689,
+        "error": null
+    },
+    {
+        "client_id": 159,
+        "file_size": 173.72,
+        "status_code": 200,
+        "elapsed_time": 0.4276,
+        "error": null
+    },
+    {
+        "client_id": 160,
+        "file_size": 351.37,
+        "status_code": 200,
+        "elapsed_time": 0.6136,
+        "error": null
+    },
+    {
+        "client_id": 161,
+        "file_size": 374.05,
+        "status_code": 200,
+        "elapsed_time": 0.4783,
+        "error": null
+    },
+    {
+        "client_id": 162,
+        "file_size": 67.1,
+        "status_code": 200,
+        "elapsed_time": 0.5036,
+        "error": null
+    },
+    {
+        "client_id": 163,
+        "file_size": 287.52,
+        "status_code": 200,
+        "elapsed_time": 0.6155,
+        "error": null
+    },
+    {
+        "client_id": 164,
+        "file_size": 1408.29,
+        "status_code": 200,
+        "elapsed_time": 1.0204,
+        "error": null
+    },
+    {
+        "client_id": 165,
+        "file_size": 633.21,
+        "status_code": 200,
+        "elapsed_time": 0.7285,
+        "error": null
+    },
+    {
+        "client_id": 166,
+        "file_size": 1123.22,
+        "status_code": 200,
+        "elapsed_time": 0.8762,
+        "error": null
+    },
+    {
+        "client_id": 167,
+        "file_size": 360.24,
+        "status_code": 200,
+        "elapsed_time": 0.6534,
+        "error": null
+    },
+    {
+        "client_id": 168,
+        "file_size": 1587.32,
+        "status_code": 200,
+        "elapsed_time": 1.0904,
+        "error": null
+    },
+    {
+        "client_id": 169,
+        "file_size": 381.99,
+        "status_code": 200,
+        "elapsed_time": 0.6848,
+        "error": null
+    },
+    {
+        "client_id": 170,
+        "file_size": 190.76,
+        "status_code": 200,
+        "elapsed_time": 0.4166,
+        "error": null
+    },
+    {
+        "client_id": 171,
+        "file_size": 1640.93,
+        "status_code": 200,
+        "elapsed_time": 0.8689,
+        "error": null
+    },
+    {
+        "client_id": 172,
+        "file_size": 214.0,
+        "status_code": 200,
+        "elapsed_time": 0.6116,
+        "error": null
+    },
+    {
+        "client_id": 173,
+        "file_size": 724.79,
+        "status_code": 200,
+        "elapsed_time": 0.8015,
+        "error": null
+    },
+    {
+        "client_id": 174,
+        "file_size": 276.62,
+        "status_code": 200,
+        "elapsed_time": 0.629,
+        "error": null
+    },
+    {
+        "client_id": 175,
+        "file_size": 541.21,
+        "status_code": 200,
+        "elapsed_time": 0.7189,
+        "error": null
+    },
+    {
+        "client_id": 176,
+        "file_size": 287.84,
+        "status_code": 200,
+        "elapsed_time": 0.6509,
+        "error": null
+    },
+    {
+        "client_id": 177,
+        "file_size": 407.69,
+        "status_code": 200,
+        "elapsed_time": 0.545,
+        "error": null
+    },
+    {
+        "client_id": 178,
+        "file_size": 226.21,
+        "status_code": 200,
+        "elapsed_time": 0.4385,
+        "error": null
+    },
+    {
+        "client_id": 179,
+        "file_size": 320.48,
+        "status_code": 200,
+        "elapsed_time": 0.6682,
+        "error": null
+    },
+    {
+        "client_id": 180,
+        "file_size": 305.45,
+        "status_code": 200,
+        "elapsed_time": 0.6477,
+        "error": null
+    },
+    {
+        "client_id": 181,
+        "file_size": 1064.95,
+        "status_code": 200,
+        "elapsed_time": 0.875,
+        "error": null
+    },
+    {
+        "client_id": 182,
+        "file_size": 382.73,
+        "status_code": 200,
+        "elapsed_time": 0.7257,
+        "error": null
+    },
+    {
+        "client_id": 183,
+        "file_size": 383.31,
+        "status_code": 200,
+        "elapsed_time": 0.5125,
+        "error": null
+    },
+    {
+        "client_id": 184,
+        "file_size": 1179.34,
+        "status_code": 200,
+        "elapsed_time": 0.9855,
+        "error": null
+    },
+    {
+        "client_id": 185,
+        "file_size": 312.94,
+        "status_code": 200,
+        "elapsed_time": 0.4941,
+        "error": null
+    },
+    {
+        "client_id": 186,
+        "file_size": 720.49,
+        "status_code": 200,
+        "elapsed_time": 0.8332,
+        "error": null
+    },
+    {
+        "client_id": 187,
+        "file_size": 411.37,
+        "status_code": 200,
+        "elapsed_time": 0.7009,
+        "error": null
+    },
+    {
+        "client_id": 188,
+        "file_size": 1760.74,
+        "status_code": 200,
+        "elapsed_time": 1.1551,
+        "error": null
+    },
+    {
+        "client_id": 189,
+        "file_size": 1660.69,
+        "status_code": 200,
+        "elapsed_time": 1.0992,
+        "error": null
+    },
+    {
+        "client_id": 190,
+        "file_size": 1653.23,
+        "status_code": 200,
+        "elapsed_time": 1.1635,
+        "error": null
+    },
+    {
+        "client_id": 191,
+        "file_size": 280.42,
+        "status_code": 200,
+        "elapsed_time": 0.66,
+        "error": null
+    },
+    {
+        "client_id": 192,
+        "file_size": 473.41,
+        "status_code": 200,
+        "elapsed_time": 0.7737,
+        "error": null
+    },
+    {
+        "client_id": 193,
+        "file_size": 2033.17,
+        "status_code": 200,
+        "elapsed_time": 1.2987,
+        "error": null
+    },
+    {
+        "client_id": 194,
+        "file_size": 113.94,
+        "status_code": 200,
+        "elapsed_time": 0.6642,
+        "error": null
+    },
+    {
+        "client_id": 195,
+        "file_size": 198.88,
+        "status_code": 200,
+        "elapsed_time": 0.4757,
+        "error": null
+    },
+    {
+        "client_id": 196,
+        "file_size": 1463.46,
+        "status_code": 200,
+        "elapsed_time": 1.149,
+        "error": null
+    },
+    {
+        "client_id": 197,
+        "file_size": 323.29,
+        "status_code": 200,
+        "elapsed_time": 0.7112,
+        "error": null
+    },
+    {
+        "client_id": 198,
+        "file_size": 1365.56,
+        "status_code": 200,
+        "elapsed_time": 1.1006,
+        "error": null
+    },
+    {
+        "client_id": 199,
+        "file_size": 366.94,
+        "status_code": 200,
+        "elapsed_time": 0.4754,
+        "error": null
+    },
+    {
+        "client_id": 200,
+        "file_size": 541.4,
+        "status_code": 200,
+        "elapsed_time": 0.8442,
+        "error": null
+    },
+    {
+        "client_id": 201,
+        "file_size": 146.52,
+        "status_code": 200,
+        "elapsed_time": 0.6561,
+        "error": null
+    },
+    {
+        "client_id": 202,
+        "file_size": 424.63,
+        "status_code": 200,
+        "elapsed_time": 0.7644,
+        "error": null
+    },
+    {
+        "client_id": 203,
+        "file_size": 1620.39,
+        "status_code": 200,
+        "elapsed_time": 1.1955,
+        "error": null
+    },
+    {
+        "client_id": 204,
+        "file_size": 338.56,
+        "status_code": 200,
+        "elapsed_time": 0.7375,
+        "error": null
+    },
+    {
+        "client_id": 205,
+        "file_size": 289.92,
+        "status_code": 200,
+        "elapsed_time": 0.7629,
+        "error": null
+    },
+    {
+        "client_id": 206,
+        "file_size": 353.33,
+        "status_code": 200,
+        "elapsed_time": 0.7505,
+        "error": null
+    },
+    {
+        "client_id": 207,
+        "file_size": 279.8,
+        "status_code": 200,
+        "elapsed_time": 0.5447,
+        "error": null
+    },
+    {
+        "client_id": 208,
+        "file_size": 288.51,
+        "status_code": 200,
+        "elapsed_time": 0.5098,
+        "error": null
+    },
+    {
+        "client_id": 209,
+        "file_size": 224.0,
+        "status_code": 200,
+        "elapsed_time": 0.4524,
+        "error": null
+    },
+    {
+        "client_id": 210,
+        "file_size": 326.41,
+        "status_code": 200,
+        "elapsed_time": 0.778,
+        "error": null
+    },
+    {
+        "client_id": 211,
+        "file_size": 245.76,
+        "status_code": 200,
+        "elapsed_time": 0.7378,
+        "error": null
+    },
+    {
+        "client_id": 212,
+        "file_size": 471.79,
+        "status_code": 200,
+        "elapsed_time": 0.8116,
+        "error": null
+    },
+    {
+        "client_id": 213,
+        "file_size": 194.43,
+        "status_code": 200,
+        "elapsed_time": 0.4042,
+        "error": null
+    },
+    {
+        "client_id": 214,
+        "file_size": 304.58,
+        "status_code": 200,
+        "elapsed_time": 0.732,
+        "error": null
+    },
+    {
+        "client_id": 215,
+        "file_size": 531.13,
+        "status_code": 200,
+        "elapsed_time": 0.768,
+        "error": null
+    },
+    {
+        "client_id": 216,
+        "file_size": 195.58,
+        "status_code": 200,
+        "elapsed_time": 0.4277,
+        "error": null
+    },
+    {
+        "client_id": 217,
+        "file_size": 262.74,
+        "status_code": 200,
+        "elapsed_time": 0.6982,
+        "error": null
+    },
+    {
+        "client_id": 218,
+        "file_size": 330.94,
+        "status_code": 200,
+        "elapsed_time": 0.6924,
+        "error": null
+    },
+    {
+        "client_id": 219,
+        "file_size": 589.35,
+        "status_code": 200,
+        "elapsed_time": 0.5388,
+        "error": null
+    },
+    {
+        "client_id": 220,
+        "file_size": 336.75,
+        "status_code": 200,
+        "elapsed_time": 0.7348,
+        "error": null
+    },
+    {
+        "client_id": 221,
+        "file_size": 170.28,
+        "status_code": 200,
+        "elapsed_time": 0.689,
+        "error": null
+    },
+    {
+        "client_id": 222,
+        "file_size": 497.46,
+        "status_code": 200,
+        "elapsed_time": 0.7872,
+        "error": null
+    },
+    {
+        "client_id": 223,
+        "file_size": 51.76,
+        "status_code": 200,
+        "elapsed_time": 0.6463,
+        "error": null
+    },
+    {
+        "client_id": 224,
+        "file_size": 165.4,
+        "status_code": 200,
+        "elapsed_time": 0.4229,
+        "error": null
+    },
+    {
+        "client_id": 225,
+        "file_size": 1016.3,
+        "status_code": 200,
+        "elapsed_time": 0.9654,
+        "error": null
+    },
+    {
+        "client_id": 226,
+        "file_size": 373.55,
+        "status_code": 200,
+        "elapsed_time": 0.7721,
+        "error": null
+    },
+    {
+        "client_id": 227,
+        "file_size": 1346.94,
+        "status_code": 200,
+        "elapsed_time": 1.1411,
+        "error": null
+    },
+    {
+        "client_id": 228,
+        "file_size": 1686.67,
+        "status_code": 200,
+        "elapsed_time": 1.2615,
+        "error": null
+    },
+    {
+        "client_id": 229,
+        "file_size": 340.76,
+        "status_code": 200,
+        "elapsed_time": 0.7462,
+        "error": null
+    },
+    {
+        "client_id": 230,
+        "file_size": 1528.17,
+        "status_code": 200,
+        "elapsed_time": 1.198,
+        "error": null
+    },
+    {
+        "client_id": 231,
+        "file_size": 283.79,
+        "status_code": 200,
+        "elapsed_time": 0.4606,
+        "error": null
+    },
+    {
+        "client_id": 232,
+        "file_size": 208.13,
+        "status_code": 200,
+        "elapsed_time": 0.4362,
+        "error": null
+    },
+    {
+        "client_id": 233,
+        "file_size": 460.58,
+        "status_code": 200,
+        "elapsed_time": 0.7783,
+        "error": null
+    },
+    {
+        "client_id": 234,
+        "file_size": 278.21,
+        "status_code": 200,
+        "elapsed_time": 0.75,
+        "error": null
+    },
+    {
+        "client_id": 235,
+        "file_size": 944.21,
+        "status_code": 200,
+        "elapsed_time": 0.9521,
+        "error": null
+    },
+    {
+        "client_id": 236,
+        "file_size": 2864.54,
+        "status_code": 200,
+        "elapsed_time": 1.7464,
+        "error": null
+    },
+    {
+        "client_id": 237,
+        "file_size": 1717.87,
+        "status_code": 200,
+        "elapsed_time": 1.2569,
+        "error": null
+    },
+    {
+        "client_id": 238,
+        "file_size": 308.52,
+        "status_code": 200,
+        "elapsed_time": 0.4604,
+        "error": null
+    },
+    {
+        "client_id": 239,
+        "file_size": 277.72,
+        "status_code": 200,
+        "elapsed_time": 0.4698,
+        "error": null
+    },
+    {
+        "client_id": 240,
+        "file_size": 300.85,
+        "status_code": 200,
+        "elapsed_time": 0.7518,
+        "error": null
+    },
+    {
+        "client_id": 241,
+        "file_size": 237.11,
+        "status_code": 200,
+        "elapsed_time": 0.7333,
+        "error": null
+    },
+    {
+        "client_id": 242,
+        "file_size": 160.52,
+        "status_code": 200,
+        "elapsed_time": 0.3872,
+        "error": null
+    },
+    {
+        "client_id": 243,
+        "file_size": 1203.69,
+        "status_code": 200,
+        "elapsed_time": 1.0286,
+        "error": null
+    },
+    {
+        "client_id": 244,
+        "file_size": 492.98,
+        "status_code": 200,
+        "elapsed_time": 0.8085,
+        "error": null
+    },
+    {
+        "client_id": 245,
+        "file_size": 1257.81,
+        "status_code": 200,
+        "elapsed_time": 1.0807,
+        "error": null
+    },
+    {
+        "client_id": 246,
+        "file_size": 342.44,
+        "status_code": 200,
+        "elapsed_time": 0.7251,
+        "error": null
+    },
+    {
+        "client_id": 247,
+        "file_size": 1923.94,
+        "status_code": 200,
+        "elapsed_time": 1.4089,
+        "error": null
+    },
+    {
+        "client_id": 248,
+        "file_size": 178.63,
+        "status_code": 200,
+        "elapsed_time": 0.735,
+        "error": null
+    },
+    {
+        "client_id": 249,
+        "file_size": 358.33,
+        "status_code": 200,
+        "elapsed_time": 0.8075,
+        "error": null
+    },
+    {
+        "client_id": 250,
+        "file_size": 292.38,
+        "status_code": 200,
+        "elapsed_time": 0.7324,
+        "error": null
+    },
+    {
+        "client_id": 251,
+        "file_size": 1843.13,
+        "status_code": 200,
+        "elapsed_time": 1.4145,
+        "error": null
+    },
+    {
+        "client_id": 252,
+        "file_size": 1350.82,
+        "status_code": 200,
+        "elapsed_time": 1.2082,
+        "error": null
+    },
+    {
+        "client_id": 253,
+        "file_size": 349.57,
+        "status_code": 200,
+        "elapsed_time": 0.7441,
+        "error": null
+    },
+    {
+        "client_id": 254,
+        "file_size": 546.56,
+        "status_code": 200,
+        "elapsed_time": 0.8358,
+        "error": null
+    },
+    {
+        "client_id": 255,
+        "file_size": 2488.26,
+        "status_code": 200,
+        "elapsed_time": 1.6315,
+        "error": null
+    },
+    {
+        "client_id": 256,
+        "file_size": 212.16,
+        "status_code": 200,
+        "elapsed_time": 0.453,
+        "error": null
+    },
+    {
+        "client_id": 257,
+        "file_size": 538.76,
+        "status_code": 200,
+        "elapsed_time": 0.8356,
+        "error": null
+    },
+    {
+        "client_id": 258,
+        "file_size": 25.45,
+        "status_code": 200,
+        "elapsed_time": 0.6295,
+        "error": null
+    },
+    {
+        "client_id": 259,
+        "file_size": 483.69,
+        "status_code": 200,
+        "elapsed_time": 0.8257,
+        "error": null
+    },
+    {
+        "client_id": 260,
+        "file_size": 231.92,
+        "status_code": 200,
+        "elapsed_time": 0.7207,
+        "error": null
+    },
+    {
+        "client_id": 261,
+        "file_size": 202.11,
+        "status_code": 200,
+        "elapsed_time": 0.4219,
+        "error": null
+    },
+    {
+        "client_id": 262,
+        "file_size": 4219.96,
+        "status_code": 200,
+        "elapsed_time": 2.3299,
+        "error": null
+    },
+    {
+        "client_id": 263,
+        "file_size": 1972.63,
+        "status_code": 200,
+        "elapsed_time": 1.4235,
+        "error": null
+    },
+    {
+        "client_id": 264,
+        "file_size": 399.95,
+        "status_code": 200,
+        "elapsed_time": 0.7693,
+        "error": null
+    },
+    {
+        "client_id": 265,
+        "file_size": 1780.61,
+        "status_code": 200,
+        "elapsed_time": 1.4231,
+        "error": null
+    },
+    {
+        "client_id": 266,
+        "file_size": 247.69,
+        "status_code": 200,
+        "elapsed_time": 0.411,
+        "error": null
+    },
+    {
+        "client_id": 267,
+        "file_size": 290.97,
+        "status_code": 200,
+        "elapsed_time": 0.3967,
+        "error": null
+    },
+    {
+        "client_id": 268,
+        "file_size": 214.61,
+        "status_code": 200,
+        "elapsed_time": 0.3694,
+        "error": null
+    },
+    {
+        "client_id": 269,
+        "file_size": 575.76,
+        "status_code": 200,
+        "elapsed_time": 0.7974,
+        "error": null
+    },
+    {
+        "client_id": 270,
+        "file_size": 436.9,
+        "status_code": 200,
+        "elapsed_time": 0.7303,
+        "error": null
+    },
+    {
+        "client_id": 271,
+        "file_size": 230.47,
+        "status_code": 200,
+        "elapsed_time": 0.4027,
+        "error": null
+    },
+    {
+        "client_id": 272,
+        "file_size": 193.7,
+        "status_code": 200,
+        "elapsed_time": 0.7076,
+        "error": null
+    },
+    {
+        "client_id": 273,
+        "file_size": 1309.08,
+        "status_code": 200,
+        "elapsed_time": 1.1009,
+        "error": null
+    },
+    {
+        "client_id": 274,
+        "file_size": 412.59,
+        "status_code": 200,
+        "elapsed_time": 0.4626,
+        "error": null
+    },
+    {
+        "client_id": 275,
+        "file_size": 1301.67,
+        "status_code": 200,
+        "elapsed_time": 1.2039,
+        "error": null
+    },
+    {
+        "client_id": 276,
+        "file_size": 250.57,
+        "status_code": 200,
+        "elapsed_time": 0.3794,
+        "error": null
+    },
+    {
+        "client_id": 277,
+        "file_size": 1601.34,
+        "status_code": 200,
+        "elapsed_time": 1.4186,
+        "error": null
+    },
+    {
+        "client_id": 278,
+        "file_size": 1055.81,
+        "status_code": 200,
+        "elapsed_time": 1.0231,
+        "error": null
+    },
+    {
+        "client_id": 279,
+        "file_size": 507.3,
+        "status_code": 200,
+        "elapsed_time": 0.7691,
+        "error": null
+    },
+    {
+        "client_id": 280,
+        "file_size": 1823.34,
+        "status_code": 200,
+        "elapsed_time": 1.4819,
+        "error": null
+    },
+    {
+        "client_id": 281,
+        "file_size": 244.05,
+        "status_code": 200,
+        "elapsed_time": 0.7023,
+        "error": null
+    },
+    {
+        "client_id": 282,
+        "file_size": 1365.57,
+        "status_code": 200,
+        "elapsed_time": 1.2017,
+        "error": null
+    },
+    {
+        "client_id": 283,
+        "file_size": 1991.39,
+        "status_code": 200,
+        "elapsed_time": 1.411,
+        "error": null
+    },
+    {
+        "client_id": 284,
+        "file_size": 390.48,
+        "status_code": 200,
+        "elapsed_time": 0.4018,
+        "error": null
+    },
+    {
+        "client_id": 285,
+        "file_size": 1630.82,
+        "status_code": 200,
+        "elapsed_time": 1.3142,
+        "error": null
+    },
+    {
+        "client_id": 286,
+        "file_size": 612.69,
+        "status_code": 200,
+        "elapsed_time": 0.8119,
+        "error": null
+    },
+    {
+        "client_id": 287,
+        "file_size": 1807.22,
+        "status_code": 200,
+        "elapsed_time": 1.0516,
+        "error": null
+    },
+    {
+        "client_id": 288,
+        "file_size": 757.6,
+        "status_code": 200,
+        "elapsed_time": 0.9016,
+        "error": null
+    },
+    {
+        "client_id": 289,
+        "file_size": 362.43,
+        "status_code": 200,
+        "elapsed_time": 0.4272,
+        "error": null
+    },
+    {
+        "client_id": 290,
+        "file_size": 443.94,
+        "status_code": 200,
+        "elapsed_time": 0.8052,
+        "error": null
+    },
+    {
+        "client_id": 291,
+        "file_size": 613.89,
+        "status_code": 200,
+        "elapsed_time": 0.8789,
+        "error": null
+    },
+    {
+        "client_id": 292,
+        "file_size": 276.69,
+        "status_code": 200,
+        "elapsed_time": 0.7098,
+        "error": null
+    },
+    {
+        "client_id": 293,
+        "file_size": 247.32,
+        "status_code": 200,
+        "elapsed_time": 0.4075,
+        "error": null
+    },
+    {
+        "client_id": 294,
+        "file_size": 155.62,
+        "status_code": 200,
+        "elapsed_time": 0.6413,
+        "error": null
+    },
+    {
+        "client_id": 295,
+        "file_size": 414.17,
+        "status_code": 200,
+        "elapsed_time": 0.7628,
+        "error": null
+    },
+    {
+        "client_id": 296,
+        "file_size": 1477.37,
+        "status_code": 200,
+        "elapsed_time": 0.8571,
+        "error": null
+    },
+    {
+        "client_id": 297,
+        "file_size": 177.7,
+        "status_code": 200,
+        "elapsed_time": 0.3773,
+        "error": null
+    },
+    {
+        "client_id": 298,
+        "file_size": 1410.65,
+        "status_code": 200,
+        "elapsed_time": 1.209,
+        "error": null
+    },
+    {
+        "client_id": 299,
+        "file_size": 521.54,
+        "status_code": 200,
+        "elapsed_time": 0.8064,
+        "error": null
+    },
+    {
+        "client_id": 300,
+        "file_size": 299.59,
+        "status_code": 200,
+        "elapsed_time": 0.4277,
+        "error": null
+    },
+    {
+        "client_id": 301,
+        "file_size": 175.9,
+        "status_code": 200,
+        "elapsed_time": 0.6249,
+        "error": null
+    },
+    {
+        "client_id": 302,
+        "file_size": 386.56,
+        "status_code": 200,
+        "elapsed_time": 0.7438,
+        "error": null
+    },
+    {
+        "client_id": 303,
+        "file_size": 182.89,
+        "status_code": 200,
+        "elapsed_time": 0.6603,
+        "error": null
+    },
+    {
+        "client_id": 304,
+        "file_size": 855.03,
+        "status_code": 200,
+        "elapsed_time": 0.9778,
+        "error": null
+    },
+    {
+        "client_id": 305,
+        "file_size": 344.05,
+        "status_code": 200,
+        "elapsed_time": 0.4273,
+        "error": null
+    },
+    {
+        "client_id": 306,
+        "file_size": 3195.53,
+        "status_code": 200,
+        "elapsed_time": 1.9864,
+        "error": null
+    },
+    {
+        "client_id": 307,
+        "file_size": 301.34,
+        "status_code": 200,
+        "elapsed_time": 0.7365,
+        "error": null
+    },
+    {
+        "client_id": 308,
+        "file_size": 65.6,
+        "status_code": 200,
+        "elapsed_time": 0.3266,
+        "error": null
+    },
+    {
+        "client_id": 309,
+        "file_size": 1298.44,
+        "status_code": 200,
+        "elapsed_time": 1.0785,
+        "error": null
+    },
+    {
+        "client_id": 310,
+        "file_size": 196.06,
+        "status_code": 200,
+        "elapsed_time": 0.6917,
+        "error": null
+    },
+    {
+        "client_id": 311,
+        "file_size": 328.37,
+        "status_code": 200,
+        "elapsed_time": 0.6786,
+        "error": null
+    },
+    {
+        "client_id": 312,
+        "file_size": 3988.01,
+        "status_code": 200,
+        "elapsed_time": 2.1013,
+        "error": null
+    },
+    {
+        "client_id": 313,
+        "file_size": 992.63,
+        "status_code": 200,
+        "elapsed_time": 1.0231,
+        "error": null
+    },
+    {
+        "client_id": 314,
+        "file_size": 431.41,
+        "status_code": 200,
+        "elapsed_time": 0.8028,
+        "error": null
+    },
+    {
+        "client_id": 315,
+        "file_size": 89.83,
+        "status_code": 200,
+        "elapsed_time": 0.6494,
+        "error": null
+    },
+    {
+        "client_id": 316,
+        "file_size": 435.29,
+        "status_code": 200,
+        "elapsed_time": 0.843,
+        "error": null
+    },
+    {
+        "client_id": 317,
+        "file_size": 1635.72,
+        "status_code": 200,
+        "elapsed_time": 1.3204,
+        "error": null
+    },
+    {
+        "client_id": 318,
+        "file_size": 820.69,
+        "status_code": 200,
+        "elapsed_time": 0.9638,
+        "error": null
+    },
+    {
+        "client_id": 319,
+        "file_size": 343.66,
+        "status_code": 200,
+        "elapsed_time": 0.7833,
+        "error": null
+    },
+    {
+        "client_id": 320,
+        "file_size": 29.9,
+        "status_code": 200,
+        "elapsed_time": 0.6531,
+        "error": null
+    },
+    {
+        "client_id": 321,
+        "file_size": 324.29,
+        "status_code": 200,
+        "elapsed_time": 0.425,
+        "error": null
+    },
+    {
+        "client_id": 322,
+        "file_size": 1034.9,
+        "status_code": 200,
+        "elapsed_time": 1.0923,
+        "error": null
+    },
+    {
+        "client_id": 323,
+        "file_size": 452.09,
+        "status_code": 200,
+        "elapsed_time": 0.506,
+        "error": null
+    },
+    {
+        "client_id": 324,
+        "file_size": 354.94,
+        "status_code": 200,
+        "elapsed_time": 0.7999,
+        "error": null
+    },
+    {
+        "client_id": 325,
+        "file_size": 289.68,
+        "status_code": 200,
+        "elapsed_time": 0.4266,
+        "error": null
+    },
+    {
+        "client_id": 326,
+        "file_size": 220.51,
+        "status_code": 200,
+        "elapsed_time": 0.4106,
+        "error": null
+    },
+    {
+        "client_id": 327,
+        "file_size": 427.67,
+        "status_code": 200,
+        "elapsed_time": 0.8247,
+        "error": null
+    },
+    {
+        "client_id": 328,
+        "file_size": 338.65,
+        "status_code": 200,
+        "elapsed_time": 0.4377,
+        "error": null
+    },
+    {
+        "client_id": 329,
+        "file_size": 243.31,
+        "status_code": 200,
+        "elapsed_time": 0.7507,
+        "error": null
+    },
+    {
+        "client_id": 330,
+        "file_size": 762.79,
+        "status_code": 200,
+        "elapsed_time": 0.9429,
+        "error": null
+    },
+    {
+        "client_id": 331,
+        "file_size": 280.51,
+        "status_code": 200,
+        "elapsed_time": 0.4141,
+        "error": null
+    },
+    {
+        "client_id": 332,
+        "file_size": 331.99,
+        "status_code": 200,
+        "elapsed_time": 0.4241,
+        "error": null
+    },
+    {
+        "client_id": 333,
+        "file_size": 273.38,
+        "status_code": 200,
+        "elapsed_time": 0.436,
+        "error": null
+    },
+    {
+        "client_id": 334,
+        "file_size": 394.01,
+        "status_code": 200,
+        "elapsed_time": 0.5133,
+        "error": null
+    },
+    {
+        "client_id": 335,
+        "file_size": 150.99,
+        "status_code": 200,
+        "elapsed_time": 0.3695,
+        "error": null
+    },
+    {
+        "client_id": 336,
+        "file_size": 376.58,
+        "status_code": 200,
+        "elapsed_time": 0.7567,
+        "error": null
+    },
+    {
+        "client_id": 337,
+        "file_size": 110.56,
+        "status_code": 200,
+        "elapsed_time": 0.6742,
+        "error": null
+    },
+    {
+        "client_id": 338,
+        "file_size": 1789.97,
+        "status_code": 200,
+        "elapsed_time": 1.3609,
+        "error": null
+    },
+    {
+        "client_id": 339,
+        "file_size": 553.18,
+        "status_code": 200,
+        "elapsed_time": 0.8728,
+        "error": null
+    },
+    {
+        "client_id": 340,
+        "file_size": 509.41,
+        "status_code": 200,
+        "elapsed_time": 0.8494,
+        "error": null
+    },
+    {
+        "client_id": 341,
+        "file_size": 1649.9,
+        "status_code": 200,
+        "elapsed_time": 1.4146,
+        "error": null
+    },
+    {
+        "client_id": 342,
+        "file_size": 317.88,
+        "status_code": 200,
+        "elapsed_time": 0.7458,
+        "error": null
+    },
+    {
+        "client_id": 343,
+        "file_size": 1303.18,
+        "status_code": 200,
+        "elapsed_time": 1.1638,
+        "error": null
+    },
+    {
+        "client_id": 344,
+        "file_size": 1840.51,
+        "status_code": 200,
+        "elapsed_time": 1.3333,
+        "error": null
+    },
+    {
+        "client_id": 345,
+        "file_size": 797.09,
+        "status_code": 200,
+        "elapsed_time": 0.9638,
+        "error": null
+    },
+    {
+        "client_id": 346,
+        "file_size": 881.58,
+        "status_code": 200,
+        "elapsed_time": 1.0465,
+        "error": null
+    },
+    {
+        "client_id": 347,
+        "file_size": 620.44,
+        "status_code": 200,
+        "elapsed_time": 1.0024,
+        "error": null
+    },
+    {
+        "client_id": 348,
+        "file_size": 303.95,
+        "status_code": 200,
+        "elapsed_time": 0.4522,
+        "error": null
+    },
+    {
+        "client_id": 349,
+        "file_size": 12.05,
+        "status_code": 200,
+        "elapsed_time": 0.3486,
+        "error": null
+    },
+    {
+        "client_id": 350,
+        "file_size": 293.17,
+        "status_code": 200,
+        "elapsed_time": 0.8182,
+        "error": null
+    },
+    {
+        "client_id": 351,
+        "file_size": 654.52,
+        "status_code": 200,
+        "elapsed_time": 0.94,
+        "error": null
+    },
+    {
+        "client_id": 352,
+        "file_size": 208.18,
+        "status_code": 200,
+        "elapsed_time": 0.7367,
+        "error": null
+    },
+    {
+        "client_id": 353,
+        "file_size": 484.69,
+        "status_code": 200,
+        "elapsed_time": 0.9164,
+        "error": null
+    },
+    {
+        "client_id": 354,
+        "file_size": 2802.09,
+        "status_code": 200,
+        "elapsed_time": 1.8338,
+        "error": null
+    },
+    {
+        "client_id": 355,
+        "file_size": 54.86,
+        "status_code": 200,
+        "elapsed_time": 0.6893,
+        "error": null
+    },
+    {
+        "client_id": 356,
+        "file_size": 1775.56,
+        "status_code": 200,
+        "elapsed_time": 1.3612,
+        "error": null
+    },
+    {
+        "client_id": 357,
+        "file_size": 981.95,
+        "status_code": 200,
+        "elapsed_time": 0.8206,
+        "error": null
+    },
+    {
+        "client_id": 358,
+        "file_size": 1202.84,
+        "status_code": 200,
+        "elapsed_time": 1.0728,
+        "error": null
+    },
+    {
+        "client_id": 359,
+        "file_size": 335.97,
+        "status_code": 200,
+        "elapsed_time": 0.817,
+        "error": null
+    },
+    {
+        "client_id": 360,
+        "file_size": 405.59,
+        "status_code": 200,
+        "elapsed_time": 0.8305,
+        "error": null
+    },
+    {
+        "client_id": 361,
+        "file_size": 393.73,
+        "status_code": 200,
+        "elapsed_time": 0.4732,
+        "error": null
+    },
+    {
+        "client_id": 362,
+        "file_size": 290.63,
+        "status_code": 200,
+        "elapsed_time": 0.7939,
+        "error": null
+    },
+    {
+        "client_id": 363,
+        "file_size": 930.48,
+        "status_code": 200,
+        "elapsed_time": 1.0291,
+        "error": null
+    },
+    {
+        "client_id": 364,
+        "file_size": 236.03,
+        "status_code": 200,
+        "elapsed_time": 0.7843,
+        "error": null
+    },
+    {
+        "client_id": 365,
+        "file_size": 434.33,
+        "status_code": 200,
+        "elapsed_time": 0.5118,
+        "error": null
+    },
+    {
+        "client_id": 366,
+        "file_size": 284.36,
+        "status_code": 200,
+        "elapsed_time": 0.7682,
+        "error": null
+    },
+    {
+        "client_id": 367,
+        "file_size": 335.37,
+        "status_code": 200,
+        "elapsed_time": 0.475,
+        "error": null
+    },
+    {
+        "client_id": 368,
+        "file_size": 300.18,
+        "status_code": 200,
+        "elapsed_time": 0.7698,
+        "error": null
+    },
+    {
+        "client_id": 369,
+        "file_size": 399.42,
+        "status_code": 200,
+        "elapsed_time": 0.5596,
+        "error": null
+    },
+    {
+        "client_id": 370,
+        "file_size": 1698.9,
+        "status_code": 200,
+        "elapsed_time": 1.3531,
+        "error": null
+    },
+    {
+        "client_id": 371,
+        "file_size": 208.76,
+        "status_code": 200,
+        "elapsed_time": 0.7083,
+        "error": null
+    },
+    {
+        "client_id": 372,
+        "file_size": 245.17,
+        "status_code": 200,
+        "elapsed_time": 0.7423,
+        "error": null
+    },
+    {
+        "client_id": 373,
+        "file_size": 499.35,
+        "status_code": 200,
+        "elapsed_time": 0.5316,
+        "error": null
+    },
+    {
+        "client_id": 374,
+        "file_size": 1144.21,
+        "status_code": 200,
+        "elapsed_time": 1.2093,
+        "error": null
+    },
+    {
+        "client_id": 375,
+        "file_size": 1052.85,
+        "status_code": 200,
+        "elapsed_time": 1.0074,
+        "error": null
+    },
+    {
+        "client_id": 376,
+        "file_size": 354.71,
+        "status_code": 200,
+        "elapsed_time": 0.4751,
+        "error": null
+    },
+    {
+        "client_id": 377,
+        "file_size": 478.05,
+        "status_code": 200,
+        "elapsed_time": 0.8265,
+        "error": null
+    },
+    {
+        "client_id": 378,
+        "file_size": 282.92,
+        "status_code": 200,
+        "elapsed_time": 0.7546,
+        "error": null
+    },
+    {
+        "client_id": 379,
+        "file_size": 1353.35,
+        "status_code": 200,
+        "elapsed_time": 1.3018,
+        "error": null
+    },
+    {
+        "client_id": 380,
+        "file_size": 352.2,
+        "status_code": 200,
+        "elapsed_time": 0.8173,
+        "error": null
+    },
+    {
+        "client_id": 381,
+        "file_size": 342.94,
+        "status_code": 200,
+        "elapsed_time": 0.7872,
+        "error": null
+    },
+    {
+        "client_id": 382,
+        "file_size": 505.55,
+        "status_code": 200,
+        "elapsed_time": 0.8736,
+        "error": null
+    },
+    {
+        "client_id": 383,
+        "file_size": 1445.47,
+        "status_code": 200,
+        "elapsed_time": 1.4128,
+        "error": null
+    },
+    {
+        "client_id": 384,
+        "file_size": 1712.2,
+        "status_code": 200,
+        "elapsed_time": 1.4501,
+        "error": null
+    },
+    {
+        "client_id": 385,
+        "file_size": 360.36,
+        "status_code": 200,
+        "elapsed_time": 0.5826,
+        "error": null
+    },
+    {
+        "client_id": 386,
+        "file_size": 1714.67,
+        "status_code": 200,
+        "elapsed_time": 1.4615,
+        "error": null
+    },
+    {
+        "client_id": 387,
+        "file_size": 385.05,
+        "status_code": 200,
+        "elapsed_time": 0.7996,
+        "error": null
+    },
+    {
+        "client_id": 388,
+        "file_size": 305.51,
+        "status_code": 200,
+        "elapsed_time": 0.5137,
+        "error": null
+    },
+    {
+        "client_id": 389,
+        "file_size": 153.35,
+        "status_code": 200,
+        "elapsed_time": 0.7491,
+        "error": null
+    },
+    {
+        "client_id": 390,
+        "file_size": 559.09,
+        "status_code": 200,
+        "elapsed_time": 0.9148,
+        "error": null
+    },
+    {
+        "client_id": 391,
+        "file_size": 414.99,
+        "status_code": 200,
+        "elapsed_time": 0.5248,
+        "error": null
+    },
+    {
+        "client_id": 392,
+        "file_size": 3162.64,
+        "status_code": 200,
+        "elapsed_time": 2.1676,
+        "error": null
+    },
+    {
+        "client_id": 393,
+        "file_size": 213.28,
+        "status_code": 200,
+        "elapsed_time": 0.7679,
+        "error": null
+    },
+    {
+        "client_id": 394,
+        "file_size": 133.38,
+        "status_code": 200,
+        "elapsed_time": 0.7749,
+        "error": null
+    },
+    {
+        "client_id": 395,
+        "file_size": 390.29,
+        "status_code": 200,
+        "elapsed_time": 0.8317,
+        "error": null
+    },
+    {
+        "client_id": 396,
+        "file_size": 382.36,
+        "status_code": 200,
+        "elapsed_time": 0.849,
+        "error": null
+    },
+    {
+        "client_id": 397,
+        "file_size": 3198.87,
+        "status_code": 200,
+        "elapsed_time": 2.2168,
+        "error": null
+    },
+    {
+        "client_id": 398,
+        "file_size": 239.49,
+        "status_code": 200,
+        "elapsed_time": 0.4804,
+        "error": null
+    },
+    {
+        "client_id": 399,
+        "file_size": 384.43,
+        "status_code": 200,
+        "elapsed_time": 0.5899,
+        "error": null
+    },
+    {
+        "client_id": 400,
+        "file_size": 170.76,
+        "status_code": 200,
+        "elapsed_time": 0.8164,
+        "error": null
+    },
+    {
+        "client_id": 401,
+        "file_size": 201.34,
+        "status_code": 200,
+        "elapsed_time": 0.4614,
+        "error": null
+    },
+    {
+        "client_id": 402,
+        "file_size": 443.9,
+        "status_code": 200,
+        "elapsed_time": 0.902,
+        "error": null
+    },
+    {
+        "client_id": 403,
+        "file_size": 337.56,
+        "status_code": 200,
+        "elapsed_time": 0.8599,
+        "error": null
+    },
+    {
+        "client_id": 404,
+        "file_size": 1417.01,
+        "status_code": 200,
+        "elapsed_time": 1.2997,
+        "error": null
+    },
+    {
+        "client_id": 405,
+        "file_size": 1855.42,
+        "status_code": 200,
+        "elapsed_time": 1.5944,
+        "error": null
+    },
+    {
+        "client_id": 406,
+        "file_size": 452.31,
+        "status_code": 200,
+        "elapsed_time": 0.9395,
+        "error": null
+    },
+    {
+        "client_id": 407,
+        "file_size": 107.61,
+        "status_code": 200,
+        "elapsed_time": 0.4199,
+        "error": null
+    },
+    {
+        "client_id": 408,
+        "file_size": 947.53,
+        "status_code": 200,
+        "elapsed_time": 1.1726,
+        "error": null
+    },
+    {
+        "client_id": 409,
+        "file_size": 1256.18,
+        "status_code": 200,
+        "elapsed_time": 1.2316,
+        "error": null
+    },
+    {
+        "client_id": 410,
+        "file_size": 282.86,
+        "status_code": 200,
+        "elapsed_time": 0.4706,
+        "error": null
+    },
+    {
+        "client_id": 411,
+        "file_size": 337.84,
+        "status_code": 200,
+        "elapsed_time": 0.4793,
+        "error": null
+    },
+    {
+        "client_id": 412,
+        "file_size": 44.83,
+        "status_code": 200,
+        "elapsed_time": 0.6831,
+        "error": null
+    },
+    {
+        "client_id": 413,
+        "file_size": 486.24,
+        "status_code": 200,
+        "elapsed_time": 0.8881,
+        "error": null
+    },
+    {
+        "client_id": 414,
+        "file_size": 2178.7,
+        "status_code": 200,
+        "elapsed_time": 1.8758,
+        "error": null
+    },
+    {
+        "client_id": 415,
+        "file_size": 411.76,
+        "status_code": 200,
+        "elapsed_time": 0.85,
+        "error": null
+    },
+    {
+        "client_id": 416,
+        "file_size": 421.3,
+        "status_code": 200,
+        "elapsed_time": 0.4996,
+        "error": null
+    },
+    {
+        "client_id": 417,
+        "file_size": 351.78,
+        "status_code": 200,
+        "elapsed_time": 0.4889,
+        "error": null
+    },
+    {
+        "client_id": 418,
+        "file_size": 902.96,
+        "status_code": 200,
+        "elapsed_time": 1.1146,
+        "error": null
+    },
+    {
+        "client_id": 419,
+        "file_size": 242.19,
+        "status_code": 200,
+        "elapsed_time": 0.4666,
+        "error": null
+    },
+    {
+        "client_id": 420,
+        "file_size": 259.42,
+        "status_code": 200,
+        "elapsed_time": 0.4229,
+        "error": null
+    },
+    {
+        "client_id": 421,
+        "file_size": 1795.61,
+        "status_code": 200,
+        "elapsed_time": 1.4923,
+        "error": null
+    },
+    {
+        "client_id": 422,
+        "file_size": 1301.66,
+        "status_code": 200,
+        "elapsed_time": 1.3266,
+        "error": null
+    },
+    {
+        "client_id": 423,
+        "file_size": 1889.93,
+        "status_code": 200,
+        "elapsed_time": 1.4848,
+        "error": null
+    },
+    {
+        "client_id": 424,
+        "file_size": 351.32,
+        "status_code": 200,
+        "elapsed_time": 0.5078,
+        "error": null
+    },
+    {
+        "client_id": 425,
+        "file_size": 923.28,
+        "status_code": 200,
+        "elapsed_time": 0.725,
+        "error": null
+    },
+    {
+        "client_id": 426,
+        "file_size": 1074.44,
+        "status_code": 200,
+        "elapsed_time": 1.1521,
+        "error": null
+    },
+    {
+        "client_id": 427,
+        "file_size": 217.94,
+        "status_code": 200,
+        "elapsed_time": 0.7796,
+        "error": null
+    },
+    {
+        "client_id": 428,
+        "file_size": 400.81,
+        "status_code": 200,
+        "elapsed_time": 0.8688,
+        "error": null
+    },
+    {
+        "client_id": 429,
+        "file_size": 219.37,
+        "status_code": 200,
+        "elapsed_time": 0.4354,
+        "error": null
+    },
+    {
+        "client_id": 430,
+        "file_size": 1523.71,
+        "status_code": 200,
+        "elapsed_time": 1.4719,
+        "error": null
+    },
+    {
+        "client_id": 431,
+        "file_size": 298.5,
+        "status_code": 200,
+        "elapsed_time": 0.8226,
+        "error": null
+    },
+    {
+        "client_id": 432,
+        "file_size": 331.76,
+        "status_code": 200,
+        "elapsed_time": 0.8565,
+        "error": null
+    },
+    {
+        "client_id": 433,
+        "file_size": 1009.12,
+        "status_code": 200,
+        "elapsed_time": 1.1259,
+        "error": null
+    },
+    {
+        "client_id": 434,
+        "file_size": 181.2,
+        "status_code": 200,
+        "elapsed_time": 0.7965,
+        "error": null
+    },
+    {
+        "client_id": 435,
+        "file_size": 203.53,
+        "status_code": 200,
+        "elapsed_time": 0.4475,
+        "error": null
+    },
+    {
+        "client_id": 436,
+        "file_size": 277.6,
+        "status_code": 200,
+        "elapsed_time": 0.4712,
+        "error": null
+    },
+    {
+        "client_id": 437,
+        "file_size": 298.16,
+        "status_code": 200,
+        "elapsed_time": 0.8881,
+        "error": null
+    },
+    {
+        "client_id": 438,
+        "file_size": 1269.13,
+        "status_code": 200,
+        "elapsed_time": 1.4136,
+        "error": null
+    },
+    {
+        "client_id": 439,
+        "file_size": 320.25,
+        "status_code": 200,
+        "elapsed_time": 0.478,
+        "error": null
+    },
+    {
+        "client_id": 440,
+        "file_size": 2037.12,
+        "status_code": 200,
+        "elapsed_time": 1.7256,
+        "error": null
+    },
+    {
+        "client_id": 441,
+        "file_size": 49.84,
+        "status_code": 200,
+        "elapsed_time": 0.7076,
+        "error": null
+    },
+    {
+        "client_id": 442,
+        "file_size": 1373.7,
+        "status_code": 200,
+        "elapsed_time": 1.2786,
+        "error": null
+    },
+    {
+        "client_id": 443,
+        "file_size": 140.95,
+        "status_code": 200,
+        "elapsed_time": 0.7225,
+        "error": null
+    },
+    {
+        "client_id": 444,
+        "file_size": 796.38,
+        "status_code": 200,
+        "elapsed_time": 1.1682,
+        "error": null
+    },
+    {
+        "client_id": 445,
+        "file_size": 563.79,
+        "status_code": 200,
+        "elapsed_time": 0.544,
+        "error": null
+    },
+    {
+        "client_id": 446,
+        "file_size": 712.86,
+        "status_code": 200,
+        "elapsed_time": 1.0485,
+        "error": null
+    },
+    {
+        "client_id": 447,
+        "file_size": 363.27,
+        "status_code": 200,
+        "elapsed_time": 0.8726,
+        "error": null
+    },
+    {
+        "client_id": 448,
+        "file_size": 244.96,
+        "status_code": 200,
+        "elapsed_time": 0.4656,
+        "error": null
+    },
+    {
+        "client_id": 449,
+        "file_size": 274.58,
+        "status_code": 200,
+        "elapsed_time": 0.8643,
+        "error": null
+    },
+    {
+        "client_id": 450,
+        "file_size": 561.28,
+        "status_code": 200,
+        "elapsed_time": 1.0084,
+        "error": null
+    },
+    {
+        "client_id": 451,
+        "file_size": 431.86,
+        "status_code": 200,
+        "elapsed_time": 0.5721,
+        "error": null
+    },
+    {
+        "client_id": 452,
+        "file_size": 1909.61,
+        "status_code": 200,
+        "elapsed_time": 1.8402,
+        "error": null
+    },
+    {
+        "client_id": 453,
+        "file_size": 381.4,
+        "status_code": 200,
+        "elapsed_time": 0.9333,
+        "error": null
+    },
+    {
+        "client_id": 454,
+        "file_size": 1484.07,
+        "status_code": 200,
+        "elapsed_time": 1.5827,
+        "error": null
+    },
+    {
+        "client_id": 455,
+        "file_size": 367.1,
+        "status_code": 200,
+        "elapsed_time": 0.9631,
+        "error": null
+    },
+    {
+        "client_id": 456,
+        "file_size": 1399.15,
+        "status_code": 200,
+        "elapsed_time": 1.4296,
+        "error": null
+    },
+    {
+        "client_id": 457,
+        "file_size": 296.47,
+        "status_code": 200,
+        "elapsed_time": 0.5568,
+        "error": null
+    },
+    {
+        "client_id": 458,
+        "file_size": 936.0,
+        "status_code": 200,
+        "elapsed_time": 1.2579,
+        "error": null
+    },
+    {
+        "client_id": 459,
+        "file_size": 307.81,
+        "status_code": 200,
+        "elapsed_time": 0.8958,
+        "error": null
+    },
+    {
+        "client_id": 460,
+        "file_size": 1180.01,
+        "status_code": 200,
+        "elapsed_time": 1.3813,
+        "error": null
+    },
+    {
+        "client_id": 461,
+        "file_size": 297.05,
+        "status_code": 200,
+        "elapsed_time": 0.5459,
+        "error": null
+    },
+    {
+        "client_id": 462,
+        "file_size": 1427.68,
+        "status_code": 200,
+        "elapsed_time": 1.5491,
+        "error": null
+    },
+    {
+        "client_id": 463,
+        "file_size": 378.18,
+        "status_code": 200,
+        "elapsed_time": 0.9276,
+        "error": null
+    },
+    {
+        "client_id": 464,
+        "file_size": 905.53,
+        "status_code": 200,
+        "elapsed_time": 1.2072,
+        "error": null
+    },
+    {
+        "client_id": 465,
+        "file_size": 194.34,
+        "status_code": 200,
+        "elapsed_time": 0.8512,
+        "error": null
+    },
+    {
+        "client_id": 466,
+        "file_size": 303.26,
+        "status_code": 200,
+        "elapsed_time": 0.8939,
+        "error": null
+    },
+    {
+        "client_id": 467,
+        "file_size": 632.09,
+        "status_code": 200,
+        "elapsed_time": 1.0306,
+        "error": null
+    },
+    {
+        "client_id": 468,
+        "file_size": 220.67,
+        "status_code": 200,
+        "elapsed_time": 0.4647,
+        "error": null
+    },
+    {
+        "client_id": 469,
+        "file_size": 34.87,
+        "status_code": 200,
+        "elapsed_time": 0.7445,
+        "error": null
+    },
+    {
+        "client_id": 470,
+        "file_size": 1175.23,
+        "status_code": 200,
+        "elapsed_time": 0.8941,
+        "error": null
+    },
+    {
+        "client_id": 471,
+        "file_size": 372.37,
+        "status_code": 200,
+        "elapsed_time": 0.9508,
+        "error": null
+    },
+    {
+        "client_id": 472,
+        "file_size": 537.41,
+        "status_code": 200,
+        "elapsed_time": 0.9698,
+        "error": null
+    },
+    {
+        "client_id": 473,
+        "file_size": 368.04,
+        "status_code": 200,
+        "elapsed_time": 0.9128,
+        "error": null
+    },
+    {
+        "client_id": 474,
+        "file_size": 283.07,
+        "status_code": 200,
+        "elapsed_time": 0.4956,
+        "error": null
+    },
+    {
+        "client_id": 475,
+        "file_size": 1797.49,
+        "status_code": 200,
+        "elapsed_time": 1.7707,
+        "error": null
+    },
+    {
+        "client_id": 476,
+        "file_size": 1118.42,
+        "status_code": 200,
+        "elapsed_time": 1.3963,
+        "error": null
+    },
+    {
+        "client_id": 477,
+        "file_size": 1297.32,
+        "status_code": 200,
+        "elapsed_time": 1.4896,
+        "error": null
+    },
+    {
+        "client_id": 478,
+        "file_size": 184.4,
+        "status_code": 200,
+        "elapsed_time": 0.8523,
+        "error": null
+    },
+    {
+        "client_id": 479,
+        "file_size": 877.27,
+        "status_code": 200,
+        "elapsed_time": 1.2877,
+        "error": null
+    },
+    {
+        "client_id": 480,
+        "file_size": 302.13,
+        "status_code": 200,
+        "elapsed_time": 0.5431,
+        "error": null
+    },
+    {
+        "client_id": 481,
+        "file_size": 397.05,
+        "status_code": 200,
+        "elapsed_time": 0.594,
+        "error": null
+    },
+    {
+        "client_id": 482,
+        "file_size": 1423.08,
+        "status_code": 200,
+        "elapsed_time": 1.0699,
+        "error": null
+    },
+    {
+        "client_id": 483,
+        "file_size": 18.17,
+        "status_code": 200,
+        "elapsed_time": 0.7498,
+        "error": null
+    },
+    {
+        "client_id": 484,
+        "file_size": 1107.2,
+        "status_code": 200,
+        "elapsed_time": 0.9974,
+        "error": null
+    },
+    {
+        "client_id": 485,
+        "file_size": 1032.88,
+        "status_code": 200,
+        "elapsed_time": 1.3054,
+        "error": null
+    },
+    {
+        "client_id": 486,
+        "file_size": 1132.05,
+        "status_code": 200,
+        "elapsed_time": 1.5344,
+        "error": null
+    },
+    {
+        "client_id": 487,
+        "file_size": 88.26,
+        "status_code": 200,
+        "elapsed_time": 0.7953,
+        "error": null
+    },
+    {
+        "client_id": 488,
+        "file_size": 383.97,
+        "status_code": 200,
+        "elapsed_time": 0.5554,
+        "error": null
+    },
+    {
+        "client_id": 489,
+        "file_size": 326.69,
+        "status_code": 200,
+        "elapsed_time": 0.9368,
+        "error": null
+    },
+    {
+        "client_id": 490,
+        "file_size": 1949.36,
+        "status_code": 200,
+        "elapsed_time": 1.7968,
+        "error": null
+    },
+    {
+        "client_id": 491,
+        "file_size": 277.42,
+        "status_code": 200,
+        "elapsed_time": 0.8471,
+        "error": null
+    },
+    {
+        "client_id": 492,
+        "file_size": 430.35,
+        "status_code": 200,
+        "elapsed_time": 0.9481,
+        "error": null
+    },
+    {
+        "client_id": 493,
+        "file_size": 122.93,
+        "status_code": 200,
+        "elapsed_time": 0.8176,
+        "error": null
+    },
+    {
+        "client_id": 494,
+        "file_size": 144.11,
+        "status_code": 200,
+        "elapsed_time": 0.7829,
+        "error": null
+    },
+    {
+        "client_id": 495,
+        "file_size": 264.78,
+        "status_code": 200,
+        "elapsed_time": 0.8801,
+        "error": null
+    },
+    {
+        "client_id": 496,
+        "file_size": 314.51,
+        "status_code": 200,
+        "elapsed_time": 0.5089,
+        "error": null
+    },
+    {
+        "client_id": 497,
+        "file_size": 422.33,
+        "status_code": 200,
+        "elapsed_time": 1.012,
+        "error": null
+    },
+    {
+        "client_id": 498,
+        "file_size": 1486.33,
+        "status_code": 200,
+        "elapsed_time": 1.6528,
+        "error": null
+    },
+    {
+        "client_id": 499,
+        "file_size": 384.14,
+        "status_code": 200,
+        "elapsed_time": 0.5694,
+        "error": null
+    },
+    {
+        "client_id": 500,
+        "file_size": 903.89,
+        "status_code": 200,
+        "elapsed_time": 1.1628,
+        "error": null
+    },
+    {
+        "client_id": 501,
+        "file_size": 4651.75,
+        "status_code": 200,
+        "elapsed_time": 3.5233,
+        "error": null
+    },
+    {
+        "client_id": 502,
+        "file_size": 305.84,
+        "status_code": 200,
+        "elapsed_time": 0.5314,
+        "error": null
+    },
+    {
+        "client_id": 503,
+        "file_size": 279.42,
+        "status_code": 200,
+        "elapsed_time": 0.4952,
+        "error": null
+    },
+    {
+        "client_id": 504,
+        "file_size": 326.34,
+        "status_code": 200,
+        "elapsed_time": 0.5403,
+        "error": null
+    },
+    {
+        "client_id": 505,
+        "file_size": 138.6,
+        "status_code": 200,
+        "elapsed_time": 0.7662,
+        "error": null
+    },
+    {
+        "client_id": 506,
+        "file_size": 964.37,
+        "status_code": 200,
+        "elapsed_time": 1.2466,
+        "error": null
+    },
+    {
+        "client_id": 507,
+        "file_size": 260.93,
+        "status_code": 200,
+        "elapsed_time": 0.8126,
+        "error": null
+    },
+    {
+        "client_id": 508,
+        "file_size": 1971.58,
+        "status_code": 200,
+        "elapsed_time": 1.9094,
+        "error": null
+    },
+    {
+        "client_id": 509,
+        "file_size": 319.34,
+        "status_code": 200,
+        "elapsed_time": 0.5582,
+        "error": null
+    },
+    {
+        "client_id": 510,
+        "file_size": 237.42,
+        "status_code": 200,
+        "elapsed_time": 0.8355,
+        "error": null
+    },
+    {
+        "client_id": 511,
+        "file_size": 197.08,
+        "status_code": 200,
+        "elapsed_time": 0.8058,
+        "error": null
+    },
+    {
+        "client_id": 512,
+        "file_size": 1101.49,
+        "status_code": 200,
+        "elapsed_time": 1.3316,
+        "error": null
+    },
+    {
+        "client_id": 513,
+        "file_size": 905.38,
+        "status_code": 200,
+        "elapsed_time": 1.2458,
+        "error": null
+    },
+    {
+        "client_id": 514,
+        "file_size": 221.51,
+        "status_code": 200,
+        "elapsed_time": 0.8171,
+        "error": null
+    },
+    {
+        "client_id": 515,
+        "file_size": 330.89,
+        "status_code": 200,
+        "elapsed_time": 0.5467,
+        "error": null
+    },
+    {
+        "client_id": 516,
+        "file_size": 1814.91,
+        "status_code": 200,
+        "elapsed_time": 1.8238,
+        "error": null
+    },
+    {
+        "client_id": 517,
+        "file_size": 326.57,
+        "status_code": 200,
+        "elapsed_time": 0.8977,
+        "error": null
+    },
+    {
+        "client_id": 518,
+        "file_size": 442.32,
+        "status_code": 200,
+        "elapsed_time": 0.9374,
+        "error": null
+    },
+    {
+        "client_id": 519,
+        "file_size": 140.65,
+        "status_code": 200,
+        "elapsed_time": 0.4557,
+        "error": null
+    },
+    {
+        "client_id": 520,
+        "file_size": 226.2,
+        "status_code": 200,
+        "elapsed_time": 0.9111,
+        "error": null
+    },
+    {
+        "client_id": 521,
+        "file_size": 878.63,
+        "status_code": 200,
+        "elapsed_time": 1.1447,
+        "error": null
+    },
+    {
+        "client_id": 522,
+        "file_size": 278.29,
+        "status_code": 200,
+        "elapsed_time": 0.6081,
+        "error": null
+    },
+    {
+        "client_id": 523,
+        "file_size": 216.9,
+        "status_code": 200,
+        "elapsed_time": 0.853,
+        "error": null
+    },
+    {
+        "client_id": 524,
+        "file_size": 400.09,
+        "status_code": 200,
+        "elapsed_time": 0.9807,
+        "error": null
+    },
+    {
+        "client_id": 525,
+        "file_size": 1750.84,
+        "status_code": 200,
+        "elapsed_time": 1.8496,
+        "error": null
+    },
+    {
+        "client_id": 526,
+        "file_size": 347.81,
+        "status_code": 200,
+        "elapsed_time": 0.5552,
+        "error": null
+    },
+    {
+        "client_id": 527,
+        "file_size": 1652.87,
+        "status_code": 200,
+        "elapsed_time": 1.1694,
+        "error": null
+    },
+    {
+        "client_id": 528,
+        "file_size": 2029.96,
+        "status_code": 200,
+        "elapsed_time": 2.0553,
+        "error": null
+    },
+    {
+        "client_id": 529,
+        "file_size": 1201.54,
+        "status_code": 200,
+        "elapsed_time": 1.379,
+        "error": null
+    },
+    {
+        "client_id": 530,
+        "file_size": 18.12,
+        "status_code": 200,
+        "elapsed_time": 0.7766,
+        "error": null
+    },
+    {
+        "client_id": 531,
+        "file_size": 1594.55,
+        "status_code": 200,
+        "elapsed_time": 1.5806,
+        "error": null
+    },
+    {
+        "client_id": 532,
+        "file_size": 539.03,
+        "status_code": 200,
+        "elapsed_time": 0.5713,
+        "error": null
+    },
+    {
+        "client_id": 533,
+        "file_size": 1022.68,
+        "status_code": 200,
+        "elapsed_time": 1.2394,
+        "error": null
+    },
+    {
+        "client_id": 534,
+        "file_size": 138.61,
+        "status_code": 200,
+        "elapsed_time": 0.7633,
+        "error": null
+    },
+    {
+        "client_id": 535,
+        "file_size": 497.0,
+        "status_code": 200,
+        "elapsed_time": 0.9631,
+        "error": null
+    },
+    {
+        "client_id": 536,
+        "file_size": 333.04,
+        "status_code": 200,
+        "elapsed_time": 0.5366,
+        "error": null
+    },
+    {
+        "client_id": 537,
+        "file_size": 313.83,
+        "status_code": 200,
+        "elapsed_time": 0.5401,
+        "error": null
+    },
+    {
+        "client_id": 538,
+        "file_size": 122.12,
+        "status_code": 200,
+        "elapsed_time": 0.842,
+        "error": null
+    },
+    {
+        "client_id": 539,
+        "file_size": 331.39,
+        "status_code": 200,
+        "elapsed_time": 0.5234,
+        "error": null
+    },
+    {
+        "client_id": 540,
+        "file_size": 3935.91,
+        "status_code": 200,
+        "elapsed_time": 3.1825,
+        "error": null
+    },
+    {
+        "client_id": 541,
+        "file_size": 1116.11,
+        "status_code": 200,
+        "elapsed_time": 1.4326,
+        "error": null
+    },
+    {
+        "client_id": 542,
+        "file_size": 344.94,
+        "status_code": 200,
+        "elapsed_time": 0.5659,
+        "error": null
+    },
+    {
+        "client_id": 543,
+        "file_size": 150.26,
+        "status_code": 200,
+        "elapsed_time": 0.8339,
+        "error": null
+    },
+    {
+        "client_id": 544,
+        "file_size": 316.54,
+        "status_code": 200,
+        "elapsed_time": 0.6113,
+        "error": null
+    },
+    {
+        "client_id": 545,
+        "file_size": 220.06,
+        "status_code": 200,
+        "elapsed_time": 0.5068,
+        "error": null
+    },
+    {
+        "client_id": 546,
+        "file_size": 397.61,
+        "status_code": 200,
+        "elapsed_time": 0.9107,
+        "error": null
+    },
+    {
+        "client_id": 547,
+        "file_size": 1893.73,
+        "status_code": 200,
+        "elapsed_time": 1.6454,
+        "error": null
+    },
+    {
+        "client_id": 548,
+        "file_size": 1142.67,
+        "status_code": 200,
+        "elapsed_time": 1.4152,
+        "error": null
+    },
+    {
+        "client_id": 549,
+        "file_size": 226.6,
+        "status_code": 200,
+        "elapsed_time": 0.5204,
+        "error": null
+    },
+    {
+        "client_id": 550,
+        "file_size": 57.85,
+        "status_code": 200,
+        "elapsed_time": 0.8574,
+        "error": null
+    },
+    {
+        "client_id": 551,
+        "file_size": 454.16,
+        "status_code": 200,
+        "elapsed_time": 1.0861,
+        "error": null
+    },
+    {
+        "client_id": 552,
+        "file_size": 1490.71,
+        "status_code": 200,
+        "elapsed_time": 1.6935,
+        "error": null
+    },
+    {
+        "client_id": 553,
+        "file_size": 587.49,
+        "status_code": 200,
+        "elapsed_time": 1.105,
+        "error": null
+    },
+    {
+        "client_id": 554,
+        "file_size": 424.87,
+        "status_code": 200,
+        "elapsed_time": 0.6888,
+        "error": null
+    },
+    {
+        "client_id": 555,
+        "file_size": 734.18,
+        "status_code": 200,
+        "elapsed_time": 1.2646,
+        "error": null
+    },
+    {
+        "client_id": 556,
+        "file_size": 814.14,
+        "status_code": 200,
+        "elapsed_time": 1.3128,
+        "error": null
+    },
+    {
+        "client_id": 557,
+        "file_size": 1574.59,
+        "status_code": 200,
+        "elapsed_time": 1.7017,
+        "error": null
+    },
+    {
+        "client_id": 558,
+        "file_size": 562.7,
+        "status_code": 200,
+        "elapsed_time": 1.1404,
+        "error": null
+    },
+    {
+        "client_id": 559,
+        "file_size": 1748.11,
+        "status_code": 200,
+        "elapsed_time": 1.8857,
+        "error": null
+    },
+    {
+        "client_id": 560,
+        "file_size": 27.72,
+        "status_code": 200,
+        "elapsed_time": 0.811,
+        "error": null
+    },
+    {
+        "client_id": 561,
+        "file_size": 321.17,
+        "status_code": 200,
+        "elapsed_time": 0.5853,
+        "error": null
+    },
+    {
+        "client_id": 562,
+        "file_size": 600.33,
+        "status_code": 200,
+        "elapsed_time": 1.2153,
+        "error": null
+    },
+    {
+        "client_id": 563,
+        "file_size": 324.96,
+        "status_code": 200,
+        "elapsed_time": 1.0095,
+        "error": null
+    },
+    {
+        "client_id": 564,
+        "file_size": 1833.93,
+        "status_code": 200,
+        "elapsed_time": 1.4863,
+        "error": null
+    },
+    {
+        "client_id": 565,
+        "file_size": 84.12,
+        "status_code": 200,
+        "elapsed_time": 0.8145,
+        "error": null
+    },
+    {
+        "client_id": 566,
+        "file_size": 3016.98,
+        "status_code": 200,
+        "elapsed_time": 2.5253,
+        "error": null
+    },
+    {
+        "client_id": 567,
+        "file_size": 904.49,
+        "status_code": 200,
+        "elapsed_time": 0.9518,
+        "error": null
+    },
+    {
+        "client_id": 568,
+        "file_size": 367.73,
+        "status_code": 200,
+        "elapsed_time": 0.6321,
+        "error": null
+    },
+    {
+        "client_id": 569,
+        "file_size": 139.74,
+        "status_code": 200,
+        "elapsed_time": 0.9459,
+        "error": null
+    },
+    {
+        "client_id": 570,
+        "file_size": 683.15,
+        "status_code": 200,
+        "elapsed_time": 1.2202,
+        "error": null
+    },
+    {
+        "client_id": 571,
+        "file_size": 368.93,
+        "status_code": 200,
+        "elapsed_time": 1.13,
+        "error": null
+    },
+    {
+        "client_id": 572,
+        "file_size": 1832.89,
+        "status_code": 200,
+        "elapsed_time": 1.8549,
+        "error": null
+    },
+    {
+        "client_id": 573,
+        "file_size": 444.46,
+        "status_code": 200,
+        "elapsed_time": 1.1212,
+        "error": null
+    },
+    {
+        "client_id": 574,
+        "file_size": 198.53,
+        "status_code": 200,
+        "elapsed_time": 0.5859,
+        "error": null
+    },
+    {
+        "client_id": 575,
+        "file_size": 758.77,
+        "status_code": 200,
+        "elapsed_time": 1.3271,
+        "error": null
+    },
+    {
+        "client_id": 576,
+        "file_size": 711.05,
+        "status_code": 200,
+        "elapsed_time": 1.1827,
+        "error": null
+    },
+    {
+        "client_id": 577,
+        "file_size": 389.71,
+        "status_code": 200,
+        "elapsed_time": 1.0645,
+        "error": null
+    },
+    {
+        "client_id": 578,
+        "file_size": 1316.0,
+        "status_code": 200,
+        "elapsed_time": 1.5917,
+        "error": null
+    },
+    {
+        "client_id": 579,
+        "file_size": 1237.36,
+        "status_code": 200,
+        "elapsed_time": 1.7017,
+        "error": null
+    },
+    {
+        "client_id": 580,
+        "file_size": 323.0,
+        "status_code": 200,
+        "elapsed_time": 0.6098,
+        "error": null
+    },
+    {
+        "client_id": 581,
+        "file_size": 576.01,
+        "status_code": 200,
+        "elapsed_time": 1.1507,
+        "error": null
+    },
+    {
+        "client_id": 582,
+        "file_size": 1109.28,
+        "status_code": 200,
+        "elapsed_time": 1.6008,
+        "error": null
+    },
+    {
+        "client_id": 583,
+        "file_size": 317.74,
+        "status_code": 200,
+        "elapsed_time": 0.5541,
+        "error": null
+    },
+    {
+        "client_id": 584,
+        "file_size": 448.31,
+        "status_code": 200,
+        "elapsed_time": 1.0765,
+        "error": null
+    },
+    {
+        "client_id": 585,
+        "file_size": 237.46,
+        "status_code": 200,
+        "elapsed_time": 0.5471,
+        "error": null
+    },
+    {
+        "client_id": 586,
+        "file_size": 373.36,
+        "status_code": 200,
+        "elapsed_time": 0.6193,
+        "error": null
+    },
+    {
+        "client_id": 587,
+        "file_size": 285.79,
+        "status_code": 200,
+        "elapsed_time": 0.5355,
+        "error": null
+    },
+    {
+        "client_id": 588,
+        "file_size": 257.93,
+        "status_code": 200,
+        "elapsed_time": 0.5367,
+        "error": null
+    },
+    {
+        "client_id": 589,
+        "file_size": 102.33,
+        "status_code": 200,
+        "elapsed_time": 0.4896,
+        "error": null
+    },
+    {
+        "client_id": 590,
+        "file_size": 441.2,
+        "status_code": 200,
+        "elapsed_time": 1.0716,
+        "error": null
+    },
+    {
+        "client_id": 591,
+        "file_size": 242.26,
+        "status_code": 200,
+        "elapsed_time": 0.5283,
+        "error": null
+    },
+    {
+        "client_id": 592,
+        "file_size": 278.18,
+        "status_code": 200,
+        "elapsed_time": 0.559,
+        "error": null
+    },
+    {
+        "client_id": 593,
+        "file_size": 1082.18,
+        "status_code": 200,
+        "elapsed_time": 1.673,
+        "error": null
+    },
+    {
+        "client_id": 594,
+        "file_size": 1157.01,
+        "status_code": 200,
+        "elapsed_time": 1.1967,
+        "error": null
+    },
+    {
+        "client_id": 595,
+        "file_size": 1244.41,
+        "status_code": 200,
+        "elapsed_time": 1.6276,
+        "error": null
+    },
+    {
+        "client_id": 596,
+        "file_size": 692.65,
+        "status_code": 200,
+        "elapsed_time": 1.238,
+        "error": null
+    },
+    {
+        "client_id": 597,
+        "file_size": 302.05,
+        "status_code": 200,
+        "elapsed_time": 0.5633,
+        "error": null
+    },
+    {
+        "client_id": 598,
+        "file_size": 157.91,
+        "status_code": 200,
+        "elapsed_time": 0.4689,
+        "error": null
+    },
+    {
+        "client_id": 599,
+        "file_size": 257.7,
+        "status_code": 200,
+        "elapsed_time": 0.6373,
+        "error": null
+    },
+    {
+        "client_id": 600,
+        "file_size": 1654.34,
+        "status_code": 200,
+        "elapsed_time": 2.0483,
+        "error": null
+    },
+    {
+        "client_id": 601,
+        "file_size": 1211.78,
+        "status_code": 200,
+        "elapsed_time": 1.7033,
+        "error": null
+    },
+    {
+        "client_id": 602,
+        "file_size": 1316.88,
+        "status_code": 200,
+        "elapsed_time": 1.7728,
+        "error": null
+    },
+    {
+        "client_id": 603,
+        "file_size": 326.85,
+        "status_code": 200,
+        "elapsed_time": 0.6856,
+        "error": null
+    },
+    {
+        "client_id": 604,
+        "file_size": 161.08,
+        "status_code": 200,
+        "elapsed_time": 0.5615,
+        "error": null
+    },
+    {
+        "client_id": 605,
+        "file_size": 1233.33,
+        "status_code": 200,
+        "elapsed_time": 1.5747,
+        "error": null
+    },
+    {
+        "client_id": 606,
+        "file_size": 192.22,
+        "status_code": 200,
+        "elapsed_time": 0.555,
+        "error": null
+    },
+    {
+        "client_id": 607,
+        "file_size": 478.86,
+        "status_code": 200,
+        "elapsed_time": 1.1233,
+        "error": null
+    },
+    {
+        "client_id": 608,
+        "file_size": 1148.56,
+        "status_code": 200,
+        "elapsed_time": 1.6578,
+        "error": null
+    },
+    {
+        "client_id": 609,
+        "file_size": 1467.69,
+        "status_code": 200,
+        "elapsed_time": 1.7456,
+        "error": null
+    },
+    {
+        "client_id": 610,
+        "file_size": 427.94,
+        "status_code": 200,
+        "elapsed_time": 1.0927,
+        "error": null
+    },
+    {
+        "client_id": 611,
+        "file_size": 1840.55,
+        "status_code": 200,
+        "elapsed_time": 1.9732,
+        "error": null
+    },
+    {
+        "client_id": 612,
+        "file_size": 1368.9,
+        "status_code": 200,
+        "elapsed_time": 1.7861,
+        "error": null
+    },
+    {
+        "client_id": 613,
+        "file_size": 324.94,
+        "status_code": 200,
+        "elapsed_time": 0.723,
+        "error": null
+    },
+    {
+        "client_id": 614,
+        "file_size": 367.16,
+        "status_code": 200,
+        "elapsed_time": 1.071,
+        "error": null
+    },
+    {
+        "client_id": 615,
+        "file_size": 134.93,
+        "status_code": 200,
+        "elapsed_time": 0.5696,
+        "error": null
+    },
+    {
+        "client_id": 616,
+        "file_size": 352.3,
+        "status_code": 200,
+        "elapsed_time": 1.1284,
+        "error": null
+    },
+    {
+        "client_id": 617,
+        "file_size": 415.13,
+        "status_code": 200,
+        "elapsed_time": 1.2057,
+        "error": null
+    },
+    {
+        "client_id": 618,
+        "file_size": 163.04,
+        "status_code": 200,
+        "elapsed_time": 1.0048,
+        "error": null
+    },
+    {
+        "client_id": 619,
+        "file_size": 1685.66,
+        "status_code": 200,
+        "elapsed_time": 2.0963,
+        "error": null
+    },
+    {
+        "client_id": 620,
+        "file_size": 57.0,
+        "status_code": 200,
+        "elapsed_time": 0.9333,
+        "error": null
+    },
+    {
+        "client_id": 621,
+        "file_size": 399.5,
+        "status_code": 200,
+        "elapsed_time": 0.649,
+        "error": null
+    },
+    {
+        "client_id": 622,
+        "file_size": 356.86,
+        "status_code": 200,
+        "elapsed_time": 0.6964,
+        "error": null
+    },
+    {
+        "client_id": 623,
+        "file_size": 23.91,
+        "status_code": 200,
+        "elapsed_time": 0.9055,
+        "error": null
+    },
+    {
+        "client_id": 624,
+        "file_size": 315.57,
+        "status_code": 200,
+        "elapsed_time": 0.6517,
+        "error": null
+    },
+    {
+        "client_id": 625,
+        "file_size": 213.81,
+        "status_code": 200,
+        "elapsed_time": 0.9552,
+        "error": null
+    },
+    {
+        "client_id": 626,
+        "file_size": 308.55,
+        "status_code": 200,
+        "elapsed_time": 0.609,
+        "error": null
+    },
+    {
+        "client_id": 627,
+        "file_size": 264.49,
+        "status_code": 200,
+        "elapsed_time": 0.5924,
+        "error": null
+    },
+    {
+        "client_id": 628,
+        "file_size": 330.03,
+        "status_code": 200,
+        "elapsed_time": 1.061,
+        "error": null
+    },
+    {
+        "client_id": 629,
+        "file_size": 245.97,
+        "status_code": 200,
+        "elapsed_time": 1.0845,
+        "error": null
+    },
+    {
+        "client_id": 630,
+        "file_size": 763.16,
+        "status_code": 200,
+        "elapsed_time": 1.4104,
+        "error": null
+    },
+    {
+        "client_id": 631,
+        "file_size": 1461.01,
+        "status_code": 200,
+        "elapsed_time": 1.7606,
+        "error": null
+    },
+    {
+        "client_id": 632,
+        "file_size": 35.93,
+        "status_code": 200,
+        "elapsed_time": 0.8517,
+        "error": null
+    },
+    {
+        "client_id": 633,
+        "file_size": 176.4,
+        "status_code": 200,
+        "elapsed_time": 0.5508,
+        "error": null
+    },
+    {
+        "client_id": 634,
+        "file_size": 439.12,
+        "status_code": 200,
+        "elapsed_time": 0.7401,
+        "error": null
+    },
+    {
+        "client_id": 635,
+        "file_size": 541.5,
+        "status_code": 200,
+        "elapsed_time": 1.2696,
+        "error": null
+    },
+    {
+        "client_id": 636,
+        "file_size": 258.61,
+        "status_code": 200,
+        "elapsed_time": 0.5694,
+        "error": null
+    },
+    {
+        "client_id": 637,
+        "file_size": 237.7,
+        "status_code": 200,
+        "elapsed_time": 0.5902,
+        "error": null
+    },
+    {
+        "client_id": 638,
+        "file_size": 389.09,
+        "status_code": 200,
+        "elapsed_time": 0.5856,
+        "error": null
+    },
+    {
+        "client_id": 639,
+        "file_size": 280.62,
+        "status_code": 200,
+        "elapsed_time": 0.688,
+        "error": null
+    },
+    {
+        "client_id": 640,
+        "file_size": 411.74,
+        "status_code": 200,
+        "elapsed_time": 1.1409,
+        "error": null
+    },
+    {
+        "client_id": 641,
+        "file_size": 312.53,
+        "status_code": 200,
+        "elapsed_time": 0.6552,
+        "error": null
+    },
+    {
+        "client_id": 642,
+        "file_size": 459.14,
+        "status_code": 200,
+        "elapsed_time": 0.7219,
+        "error": null
+    },
+    {
+        "client_id": 643,
+        "file_size": 178.47,
+        "status_code": 200,
+        "elapsed_time": 0.9777,
+        "error": null
+    },
+    {
+        "client_id": 644,
+        "file_size": 511.3,
+        "status_code": 200,
+        "elapsed_time": 1.3111,
+        "error": null
+    },
+    {
+        "client_id": 645,
+        "file_size": 348.01,
+        "status_code": 200,
+        "elapsed_time": 0.6618,
+        "error": null
+    },
+    {
+        "client_id": 646,
+        "file_size": 380.68,
+        "status_code": 200,
+        "elapsed_time": 1.1805,
+        "error": null
+    },
+    {
+        "client_id": 647,
+        "file_size": 1752.04,
+        "status_code": 200,
+        "elapsed_time": 2.0668,
+        "error": null
+    },
+    {
+        "client_id": 648,
+        "file_size": 115.6,
+        "status_code": 200,
+        "elapsed_time": 0.5876,
+        "error": null
+    },
+    {
+        "client_id": 649,
+        "file_size": 598.19,
+        "status_code": 200,
+        "elapsed_time": 0.8017,
+        "error": null
+    },
+    {
+        "client_id": 650,
+        "file_size": 285.3,
+        "status_code": 200,
+        "elapsed_time": 0.6509,
+        "error": null
+    },
+    {
+        "client_id": 651,
+        "file_size": 359.53,
+        "status_code": 200,
+        "elapsed_time": 1.2445,
+        "error": null
+    },
+    {
+        "client_id": 652,
+        "file_size": 242.96,
+        "status_code": 200,
+        "elapsed_time": 0.6829,
+        "error": null
+    },
+    {
+        "client_id": 653,
+        "file_size": 259.87,
+        "status_code": 200,
+        "elapsed_time": 0.6134,
+        "error": null
+    },
+    {
+        "client_id": 654,
+        "file_size": 256.64,
+        "status_code": 200,
+        "elapsed_time": 0.6275,
+        "error": null
+    },
+    {
+        "client_id": 655,
+        "file_size": 805.34,
+        "status_code": 200,
+        "elapsed_time": 1.4176,
+        "error": null
+    },
+    {
+        "client_id": 656,
+        "file_size": 300.92,
+        "status_code": 200,
+        "elapsed_time": 0.6432,
+        "error": null
+    },
+    {
+        "client_id": 657,
+        "file_size": 299.71,
+        "status_code": 200,
+        "elapsed_time": 0.6191,
+        "error": null
+    },
+    {
+        "client_id": 658,
+        "file_size": 870.96,
+        "status_code": 200,
+        "elapsed_time": 1.3789,
+        "error": null
+    },
+    {
+        "client_id": 659,
+        "file_size": 209.74,
+        "status_code": 200,
+        "elapsed_time": 0.5846,
+        "error": null
+    },
+    {
+        "client_id": 660,
+        "file_size": 743.71,
+        "status_code": 200,
+        "elapsed_time": 1.4163,
+        "error": null
+    },
+    {
+        "client_id": 661,
+        "file_size": 296.3,
+        "status_code": 200,
+        "elapsed_time": 0.6662,
+        "error": null
+    },
+    {
+        "client_id": 662,
+        "file_size": 122.73,
+        "status_code": 200,
+        "elapsed_time": 1.0482,
+        "error": null
+    },
+    {
+        "client_id": 663,
+        "file_size": 491.65,
+        "status_code": 200,
+        "elapsed_time": 0.7792,
+        "error": null
+    },
+    {
+        "client_id": 664,
+        "file_size": 411.54,
+        "status_code": 200,
+        "elapsed_time": 1.2591,
+        "error": null
+    },
+    {
+        "client_id": 665,
+        "file_size": 289.32,
+        "status_code": 200,
+        "elapsed_time": 0.6644,
+        "error": null
+    },
+    {
+        "client_id": 666,
+        "file_size": 374.43,
+        "status_code": 200,
+        "elapsed_time": 0.7816,
+        "error": null
+    },
+    {
+        "client_id": 667,
+        "file_size": 31.14,
+        "status_code": 200,
+        "elapsed_time": 0.476,
+        "error": null
+    },
+    {
+        "client_id": 668,
+        "file_size": 797.45,
+        "status_code": 200,
+        "elapsed_time": 1.393,
+        "error": null
+    },
+    {
+        "client_id": 669,
+        "file_size": 1844.44,
+        "status_code": 200,
+        "elapsed_time": 2.0117,
+        "error": null
+    },
+    {
+        "client_id": 670,
+        "file_size": 1381.44,
+        "status_code": 200,
+        "elapsed_time": 1.3772,
+        "error": null
+    },
+    {
+        "client_id": 671,
+        "file_size": 302.64,
+        "status_code": 200,
+        "elapsed_time": 1.0856,
+        "error": null
+    },
+    {
+        "client_id": 672,
+        "file_size": 428.33,
+        "status_code": 200,
+        "elapsed_time": 0.7196,
+        "error": null
+    },
+    {
+        "client_id": 673,
+        "file_size": 154.55,
+        "status_code": 200,
+        "elapsed_time": 0.9859,
+        "error": null
+    },
+    {
+        "client_id": 674,
+        "file_size": 1385.57,
+        "status_code": 200,
+        "elapsed_time": 1.8261,
+        "error": null
+    },
+    {
+        "client_id": 675,
+        "file_size": 1634.99,
+        "status_code": 200,
+        "elapsed_time": 1.9793,
+        "error": null
+    },
+    {
+        "client_id": 676,
+        "file_size": 1232.72,
+        "status_code": 200,
+        "elapsed_time": 1.6587,
+        "error": null
+    },
+    {
+        "client_id": 677,
+        "file_size": 755.91,
+        "status_code": 200,
+        "elapsed_time": 1.4247,
+        "error": null
+    },
+    {
+        "client_id": 678,
+        "file_size": 292.85,
+        "status_code": 200,
+        "elapsed_time": 0.6198,
+        "error": null
+    },
+    {
+        "client_id": 679,
+        "file_size": 1703.16,
+        "status_code": 200,
+        "elapsed_time": 2.2345,
+        "error": null
+    },
+    {
+        "client_id": 680,
+        "file_size": 1394.39,
+        "status_code": 200,
+        "elapsed_time": 1.6931,
+        "error": null
+    },
+    {
+        "client_id": 681,
+        "file_size": 177.32,
+        "status_code": 200,
+        "elapsed_time": 0.6127,
+        "error": null
+    },
+    {
+        "client_id": 682,
+        "file_size": 2094.89,
+        "status_code": 200,
+        "elapsed_time": 2.2674,
+        "error": null
+    },
+    {
+        "client_id": 683,
+        "file_size": 219.38,
+        "status_code": 200,
+        "elapsed_time": 1.1491,
+        "error": null
+    },
+    {
+        "client_id": 684,
+        "file_size": 112.14,
+        "status_code": 200,
+        "elapsed_time": 1.0207,
+        "error": null
+    },
+    {
+        "client_id": 685,
+        "file_size": 234.09,
+        "status_code": 200,
+        "elapsed_time": 0.6514,
+        "error": null
+    },
+    {
+        "client_id": 686,
+        "file_size": 1694.75,
+        "status_code": 200,
+        "elapsed_time": 2.0044,
+        "error": null
+    },
+    {
+        "client_id": 687,
+        "file_size": 299.92,
+        "status_code": 200,
+        "elapsed_time": 0.6242,
+        "error": null
+    },
+    {
+        "client_id": 688,
+        "file_size": 432.15,
+        "status_code": 200,
+        "elapsed_time": 0.796,
+        "error": null
+    },
+    {
+        "client_id": 689,
+        "file_size": 5443.72,
+        "status_code": 200,
+        "elapsed_time": 4.3582,
+        "error": null
+    },
+    {
+        "client_id": 690,
+        "file_size": 228.86,
+        "status_code": 200,
+        "elapsed_time": 1.238,
+        "error": null
+    },
+    {
+        "client_id": 691,
+        "file_size": 217.3,
+        "status_code": 200,
+        "elapsed_time": 0.5982,
+        "error": null
+    },
+    {
+        "client_id": 692,
+        "file_size": 1272.11,
+        "status_code": 200,
+        "elapsed_time": 1.8621,
+        "error": null
+    },
+    {
+        "client_id": 693,
+        "file_size": 471.07,
+        "status_code": 200,
+        "elapsed_time": 1.3153,
+        "error": null
+    },
+    {
+        "client_id": 694,
+        "file_size": 295.67,
+        "status_code": 200,
+        "elapsed_time": 0.8058,
+        "error": null
+    },
+    {
+        "client_id": 695,
+        "file_size": 285.91,
+        "status_code": 200,
+        "elapsed_time": 0.7707,
+        "error": null
+    },
+    {
+        "client_id": 696,
+        "file_size": 394.73,
+        "status_code": 200,
+        "elapsed_time": 0.7574,
+        "error": null
+    },
+    {
+        "client_id": 697,
+        "file_size": 238.99,
+        "status_code": 200,
+        "elapsed_time": 1.1806,
+        "error": null
+    },
+    {
+        "client_id": 698,
+        "file_size": 1111.9,
+        "status_code": 200,
+        "elapsed_time": 1.1854,
+        "error": null
+    },
+    {
+        "client_id": 699,
+        "file_size": 1183.62,
+        "status_code": 200,
+        "elapsed_time": 1.8704,
+        "error": null
+    },
+    {
+        "client_id": 700,
+        "file_size": 1632.63,
+        "status_code": 200,
+        "elapsed_time": 2.0771,
+        "error": null
+    },
+    {
+        "client_id": 701,
+        "file_size": 268.48,
+        "status_code": 200,
+        "elapsed_time": 0.7148,
+        "error": null
+    },
+    {
+        "client_id": 702,
+        "file_size": 280.68,
+        "status_code": 200,
+        "elapsed_time": 0.7225,
+        "error": null
+    },
+    {
+        "client_id": 703,
+        "file_size": 84.11,
+        "status_code": 200,
+        "elapsed_time": 1.0807,
+        "error": null
+    },
+    {
+        "client_id": 704,
+        "file_size": 315.05,
+        "status_code": 200,
+        "elapsed_time": 0.7218,
+        "error": null
+    },
+    {
+        "client_id": 705,
+        "file_size": 1301.48,
+        "status_code": 200,
+        "elapsed_time": 2.0199,
+        "error": null
+    },
+    {
+        "client_id": 706,
+        "file_size": 276.6,
+        "status_code": 200,
+        "elapsed_time": 0.7941,
+        "error": null
+    },
+    {
+        "client_id": 707,
+        "file_size": 912.14,
+        "status_code": 200,
+        "elapsed_time": 1.8249,
+        "error": null
+    },
+    {
+        "client_id": 708,
+        "file_size": 332.12,
+        "status_code": 200,
+        "elapsed_time": 0.8656,
+        "error": null
+    },
+    {
+        "client_id": 709,
+        "file_size": 1361.55,
+        "status_code": 200,
+        "elapsed_time": 2.0695,
+        "error": null
+    },
+    {
+        "client_id": 710,
+        "file_size": 241.11,
+        "status_code": 200,
+        "elapsed_time": 0.6676,
+        "error": null
+    },
+    {
+        "client_id": 711,
+        "file_size": 924.56,
+        "status_code": 200,
+        "elapsed_time": 1.7342,
+        "error": null
+    },
+    {
+        "client_id": 712,
+        "file_size": 2270.33,
+        "status_code": 200,
+        "elapsed_time": 2.6987,
+        "error": null
+    },
+    {
+        "client_id": 713,
+        "file_size": 1645.99,
+        "status_code": 200,
+        "elapsed_time": 2.17,
+        "error": null
+    },
+    {
+        "client_id": 714,
+        "file_size": 436.03,
+        "status_code": 200,
+        "elapsed_time": 0.999,
+        "error": null
+    },
+    {
+        "client_id": 715,
+        "file_size": 424.1,
+        "status_code": 200,
+        "elapsed_time": 0.818,
+        "error": null
+    },
+    {
+        "client_id": 716,
+        "file_size": 268.9,
+        "status_code": 200,
+        "elapsed_time": 0.698,
+        "error": null
+    },
+    {
+        "client_id": 717,
+        "file_size": 388.92,
+        "status_code": 200,
+        "elapsed_time": 0.8068,
+        "error": null
+    },
+    {
+        "client_id": 718,
+        "file_size": 213.79,
+        "status_code": 200,
+        "elapsed_time": 0.784,
+        "error": null
+    },
+    {
+        "client_id": 719,
+        "file_size": 363.45,
+        "status_code": 200,
+        "elapsed_time": 0.9097,
+        "error": null
+    },
+    {
+        "client_id": 720,
+        "file_size": 857.06,
+        "status_code": 200,
+        "elapsed_time": 1.6888,
+        "error": null
+    },
+    {
+        "client_id": 721,
+        "file_size": 263.72,
+        "status_code": 200,
+        "elapsed_time": 1.299,
+        "error": null
+    },
+    {
+        "client_id": 722,
+        "file_size": 170.56,
+        "status_code": 200,
+        "elapsed_time": 1.2773,
+        "error": null
+    },
+    {
+        "client_id": 723,
+        "file_size": 3912.22,
+        "status_code": 200,
+        "elapsed_time": 3.8074,
+        "error": null
+    },
+    {
+        "client_id": 724,
+        "file_size": 216.6,
+        "status_code": 200,
+        "elapsed_time": 0.7785,
+        "error": null
+    },
+    {
+        "client_id": 725,
+        "file_size": 641.38,
+        "status_code": 200,
+        "elapsed_time": 1.6388,
+        "error": null
+    },
+    {
+        "client_id": 726,
+        "file_size": 1187.2,
+        "status_code": 200,
+        "elapsed_time": 2.2241,
+        "error": null
+    },
+    {
+        "client_id": 727,
+        "file_size": 1338.56,
+        "status_code": 200,
+        "elapsed_time": 0.6593,
+        "error": null
+    },
+    {
+        "client_id": 728,
+        "file_size": 345.09,
+        "status_code": 200,
+        "elapsed_time": 1.3454,
+        "error": null
+    },
+    {
+        "client_id": 729,
+        "file_size": 241.11,
+        "status_code": 200,
+        "elapsed_time": 0.8203,
+        "error": null
+    },
+    {
+        "client_id": 730,
+        "file_size": 1193.39,
+        "status_code": 200,
+        "elapsed_time": 1.382,
+        "error": null
+    },
+    {
+        "client_id": 731,
+        "file_size": 324.47,
+        "status_code": 200,
+        "elapsed_time": 0.867,
+        "error": null
+    },
+    {
+        "client_id": 732,
+        "file_size": 748.56,
+        "status_code": 200,
+        "elapsed_time": 1.715,
+        "error": null
+    },
+    {
+        "client_id": 733,
+        "file_size": 376.49,
+        "status_code": 200,
+        "elapsed_time": 0.8757,
+        "error": null
+    },
+    {
+        "client_id": 734,
+        "file_size": 322.44,
+        "status_code": 200,
+        "elapsed_time": 0.8088,
+        "error": null
+    },
+    {
+        "client_id": 735,
+        "file_size": 98.76,
+        "status_code": 200,
+        "elapsed_time": 0.6941,
+        "error": null
+    },
+    {
+        "client_id": 736,
+        "file_size": 592.55,
+        "status_code": 200,
+        "elapsed_time": 0.9733,
+        "error": null
+    },
+    {
+        "client_id": 737,
+        "file_size": 1556.49,
+        "status_code": 200,
+        "elapsed_time": 2.2215,
+        "error": null
+    },
+    {
+        "client_id": 738,
+        "file_size": 1237.52,
+        "status_code": 200,
+        "elapsed_time": 2.0233,
+        "error": null
+    },
+    {
+        "client_id": 739,
+        "file_size": 831.09,
+        "status_code": 200,
+        "elapsed_time": 1.6735,
+        "error": null
+    },
+    {
+        "client_id": 740,
+        "file_size": 422.25,
+        "status_code": 200,
+        "elapsed_time": 1.3698,
+        "error": null
+    },
+    {
+        "client_id": 741,
+        "file_size": 3230.87,
+        "status_code": 200,
+        "elapsed_time": 3.4447,
+        "error": null
+    },
+    {
+        "client_id": 742,
+        "file_size": 132.29,
+        "status_code": 200,
+        "elapsed_time": 0.7094,
+        "error": null
+    },
+    {
+        "client_id": 743,
+        "file_size": 599.63,
+        "status_code": 200,
+        "elapsed_time": 1.5989,
+        "error": null
+    },
+    {
+        "client_id": 744,
+        "file_size": 888.92,
+        "status_code": 200,
+        "elapsed_time": 1.7141,
+        "error": null
+    },
+    {
+        "client_id": 745,
+        "file_size": 264.35,
+        "status_code": 200,
+        "elapsed_time": 0.7664,
+        "error": null
+    },
+    {
+        "client_id": 746,
+        "file_size": 255.71,
+        "status_code": 200,
+        "elapsed_time": 1.3291,
+        "error": null
+    },
+    {
+        "client_id": 747,
+        "file_size": 1967.54,
+        "status_code": 200,
+        "elapsed_time": 2.6402,
+        "error": null
+    },
+    {
+        "client_id": 748,
+        "file_size": 349.86,
+        "status_code": 200,
+        "elapsed_time": 0.775,
+        "error": null
+    },
+    {
+        "client_id": 749,
+        "file_size": 419.1,
+        "status_code": 200,
+        "elapsed_time": 0.9304,
+        "error": null
+    },
+    {
+        "client_id": 750,
+        "file_size": 70.63,
+        "status_code": 200,
+        "elapsed_time": 1.1144,
+        "error": null
+    },
+    {
+        "client_id": 751,
+        "file_size": 261.58,
+        "status_code": 200,
+        "elapsed_time": 0.8043,
+        "error": null
+    },
+    {
+        "client_id": 752,
+        "file_size": 268.24,
+        "status_code": 200,
+        "elapsed_time": 0.7774,
+        "error": null
+    },
+    {
+        "client_id": 753,
+        "file_size": 243.79,
+        "status_code": 200,
+        "elapsed_time": 0.73,
+        "error": null
+    },
+    {
+        "client_id": 754,
+        "file_size": 149.8,
+        "status_code": 200,
+        "elapsed_time": 1.2224,
+        "error": null
+    },
+    {
+        "client_id": 755,
+        "file_size": 281.9,
+        "status_code": 200,
+        "elapsed_time": 0.7463,
+        "error": null
+    },
+    {
+        "client_id": 756,
+        "file_size": 241.46,
+        "status_code": 200,
+        "elapsed_time": 0.7085,
+        "error": null
+    },
+    {
+        "client_id": 757,
+        "file_size": 1198.28,
+        "status_code": 200,
+        "elapsed_time": 1.909,
+        "error": null
+    },
+    {
+        "client_id": 758,
+        "file_size": 1463.81,
+        "status_code": 200,
+        "elapsed_time": 2.0039,
+        "error": null
+    },
+    {
+        "client_id": 759,
+        "file_size": 272.41,
+        "status_code": 200,
+        "elapsed_time": 0.7569,
+        "error": null
+    },
+    {
+        "client_id": 760,
+        "file_size": 176.65,
+        "status_code": 200,
+        "elapsed_time": 0.6651,
+        "error": null
+    },
+    {
+        "client_id": 761,
+        "file_size": 168.52,
+        "status_code": 200,
+        "elapsed_time": 1.1711,
+        "error": null
+    },
+    {
+        "client_id": 762,
+        "file_size": 321.79,
+        "status_code": 200,
+        "elapsed_time": 0.8278,
+        "error": null
+    },
+    {
+        "client_id": 763,
+        "file_size": 385.55,
+        "status_code": 200,
+        "elapsed_time": 1.436,
+        "error": null
+    },
+    {
+        "client_id": 764,
+        "file_size": 372.32,
+        "status_code": 200,
+        "elapsed_time": 0.831,
+        "error": null
+    },
+    {
+        "client_id": 765,
+        "file_size": 289.64,
+        "status_code": 200,
+        "elapsed_time": 0.7496,
+        "error": null
+    },
+    {
+        "client_id": 766,
+        "file_size": 224.15,
+        "status_code": 200,
+        "elapsed_time": 0.7341,
+        "error": null
+    },
+    {
+        "client_id": 767,
+        "file_size": 268.86,
+        "status_code": 200,
+        "elapsed_time": 1.3188,
+        "error": null
+    },
+    {
+        "client_id": 768,
+        "file_size": 1041.83,
+        "status_code": 200,
+        "elapsed_time": 1.7247,
+        "error": null
+    },
+    {
+        "client_id": 769,
+        "file_size": 276.63,
+        "status_code": 200,
+        "elapsed_time": 1.3362,
+        "error": null
+    },
+    {
+        "client_id": 770,
+        "file_size": 275.44,
+        "status_code": 200,
+        "elapsed_time": 0.8147,
+        "error": null
+    },
+    {
+        "client_id": 771,
+        "file_size": 1113.52,
+        "status_code": 200,
+        "elapsed_time": 1.8497,
+        "error": null
+    },
+    {
+        "client_id": 772,
+        "file_size": 781.66,
+        "status_code": 200,
+        "elapsed_time": 1.6028,
+        "error": null
+    },
+    {
+        "client_id": 773,
+        "file_size": 457.25,
+        "status_code": 200,
+        "elapsed_time": 0.9166,
+        "error": null
+    },
+    {
+        "client_id": 774,
+        "file_size": 2509.23,
+        "status_code": 200,
+        "elapsed_time": 2.9765,
+        "error": null
+    },
+    {
+        "client_id": 775,
+        "file_size": 1988.86,
+        "status_code": 200,
+        "elapsed_time": 2.3424,
+        "error": null
+    },
+    {
+        "client_id": 776,
+        "file_size": 80.7,
+        "status_code": 200,
+        "elapsed_time": 1.1896,
+        "error": null
+    },
+    {
+        "client_id": 777,
+        "file_size": 204.97,
+        "status_code": 200,
+        "elapsed_time": 0.7017,
+        "error": null
+    },
+    {
+        "client_id": 778,
+        "file_size": 433.06,
+        "status_code": 200,
+        "elapsed_time": 1.5102,
+        "error": null
+    },
+    {
+        "client_id": 779,
+        "file_size": 105.9,
+        "status_code": 200,
+        "elapsed_time": 1.2465,
+        "error": null
+    },
+    {
+        "client_id": 780,
+        "file_size": 915.65,
+        "status_code": 200,
+        "elapsed_time": 1.3114,
+        "error": null
+    },
+    {
+        "client_id": 781,
+        "file_size": 494.87,
+        "status_code": 200,
+        "elapsed_time": 1.4452,
+        "error": null
+    },
+    {
+        "client_id": 782,
+        "file_size": 377.5,
+        "status_code": 200,
+        "elapsed_time": 1.4395,
+        "error": null
+    },
+    {
+        "client_id": 783,
+        "file_size": 469.05,
+        "status_code": 200,
+        "elapsed_time": 0.8988,
+        "error": null
+    },
+    {
+        "client_id": 784,
+        "file_size": 407.85,
+        "status_code": 200,
+        "elapsed_time": 1.4147,
+        "error": null
+    },
+    {
+        "client_id": 785,
+        "file_size": 498.56,
+        "status_code": 200,
+        "elapsed_time": 0.9634,
+        "error": null
+    },
+    {
+        "client_id": 786,
+        "file_size": 273.6,
+        "status_code": 200,
+        "elapsed_time": 0.9167,
+        "error": null
+    },
+    {
+        "client_id": 787,
+        "file_size": 299.09,
+        "status_code": 200,
+        "elapsed_time": 0.7789,
+        "error": null
+    },
+    {
+        "client_id": 788,
+        "file_size": 221.8,
+        "status_code": 200,
+        "elapsed_time": 1.3539,
+        "error": null
+    },
+    {
+        "client_id": 789,
+        "file_size": 315.45,
+        "status_code": 200,
+        "elapsed_time": 0.818,
+        "error": null
+    },
+    {
+        "client_id": 790,
+        "file_size": 173.86,
+        "status_code": 200,
+        "elapsed_time": 0.6843,
+        "error": null
+    },
+    {
+        "client_id": 791,
+        "file_size": 261.92,
+        "status_code": 200,
+        "elapsed_time": 0.7959,
+        "error": null
+    },
+    {
+        "client_id": 792,
+        "file_size": 1846.53,
+        "status_code": 200,
+        "elapsed_time": 2.363,
+        "error": null
+    },
+    {
+        "client_id": 793,
+        "file_size": 128.27,
+        "status_code": 200,
+        "elapsed_time": 0.6173,
+        "error": null
+    },
+    {
+        "client_id": 794,
+        "file_size": 1437.97,
+        "status_code": 200,
+        "elapsed_time": 1.6566,
+        "error": null
+    },
+    {
+        "client_id": 795,
+        "file_size": 337.57,
+        "status_code": 200,
+        "elapsed_time": 0.8126,
+        "error": null
+    },
+    {
+        "client_id": 796,
+        "file_size": 57.79,
+        "status_code": 200,
+        "elapsed_time": 1.0781,
+        "error": null
+    },
+    {
+        "client_id": 797,
+        "file_size": 300.83,
+        "status_code": 200,
+        "elapsed_time": 1.2638,
+        "error": null
+    },
+    {
+        "client_id": 798,
+        "file_size": 295.69,
+        "status_code": 200,
+        "elapsed_time": 0.854,
+        "error": null
+    },
+    {
+        "client_id": 799,
+        "file_size": 287.05,
+        "status_code": 200,
+        "elapsed_time": 0.7892,
+        "error": null
+    },
+    {
+        "client_id": 800,
+        "file_size": 1113.94,
+        "status_code": 200,
+        "elapsed_time": 1.7419,
+        "error": null
+    },
+    {
+        "client_id": 801,
+        "file_size": 115.11,
+        "status_code": 200,
+        "elapsed_time": 1.1905,
+        "error": null
+    },
+    {
+        "client_id": 802,
+        "file_size": 208.3,
+        "status_code": 200,
+        "elapsed_time": 1.2298,
+        "error": null
+    },
+    {
+        "client_id": 803,
+        "file_size": 156.09,
+        "status_code": 200,
+        "elapsed_time": 0.7137,
+        "error": null
+    },
+    {
+        "client_id": 804,
+        "file_size": 1002.57,
+        "status_code": 200,
+        "elapsed_time": 1.8984,
+        "error": null
+    },
+    {
+        "client_id": 805,
+        "file_size": 450.02,
+        "status_code": 200,
+        "elapsed_time": 0.9528,
+        "error": null
+    },
+    {
+        "client_id": 806,
+        "file_size": 333.23,
+        "status_code": 200,
+        "elapsed_time": 0.8459,
+        "error": null
+    },
+    {
+        "client_id": 807,
+        "file_size": 200.83,
+        "status_code": 200,
+        "elapsed_time": 1.1991,
+        "error": null
+    },
+    {
+        "client_id": 808,
+        "file_size": 297.15,
+        "status_code": 200,
+        "elapsed_time": 0.788,
+        "error": null
+    },
+    {
+        "client_id": 809,
+        "file_size": 156.42,
+        "status_code": 200,
+        "elapsed_time": 1.0724,
+        "error": null
+    },
+    {
+        "client_id": 810,
+        "file_size": 190.04,
+        "status_code": 200,
+        "elapsed_time": 0.6942,
+        "error": null
+    },
+    {
+        "client_id": 811,
+        "file_size": 2158.39,
+        "status_code": 200,
+        "elapsed_time": 2.5198,
+        "error": null
+    },
+    {
+        "client_id": 812,
+        "file_size": 317.58,
+        "status_code": 200,
+        "elapsed_time": 0.8021,
+        "error": null
+    },
+    {
+        "client_id": 813,
+        "file_size": 1722.4,
+        "status_code": 200,
+        "elapsed_time": 2.2418,
+        "error": null
+    },
+    {
+        "client_id": 814,
+        "file_size": 187.33,
+        "status_code": 200,
+        "elapsed_time": 1.1583,
+        "error": null
+    },
+    {
+        "client_id": 815,
+        "file_size": 1408.8,
+        "status_code": 200,
+        "elapsed_time": 1.9761,
+        "error": null
+    },
+    {
+        "client_id": 816,
+        "file_size": 553.67,
+        "status_code": 200,
+        "elapsed_time": 1.3251,
+        "error": null
+    },
+    {
+        "client_id": 817,
+        "file_size": 1272.24,
+        "status_code": 200,
+        "elapsed_time": 1.9379,
+        "error": null
+    },
+    {
+        "client_id": 818,
+        "file_size": 315.27,
+        "status_code": 200,
+        "elapsed_time": 0.7586,
+        "error": null
+    },
+    {
+        "client_id": 819,
+        "file_size": 359.23,
+        "status_code": 200,
+        "elapsed_time": 0.7695,
+        "error": null
+    },
+    {
+        "client_id": 820,
+        "file_size": 1549.26,
+        "status_code": 200,
+        "elapsed_time": 2.2642,
+        "error": null
+    },
+    {
+        "client_id": 821,
+        "file_size": 136.42,
+        "status_code": 200,
+        "elapsed_time": 0.6525,
+        "error": null
+    },
+    {
+        "client_id": 822,
+        "file_size": 263.25,
+        "status_code": 200,
+        "elapsed_time": 0.719,
+        "error": null
+    },
+    {
+        "client_id": 823,
+        "file_size": 249.66,
+        "status_code": 200,
+        "elapsed_time": 1.287,
+        "error": null
+    },
+    {
+        "client_id": 824,
+        "file_size": 288.91,
+        "status_code": 200,
+        "elapsed_time": 0.8404,
+        "error": null
+    },
+    {
+        "client_id": 825,
+        "file_size": 7226.19,
+        "status_code": 200,
+        "elapsed_time": 2.9081,
+        "error": null
+    },
+    {
+        "client_id": 826,
+        "file_size": 320.12,
+        "status_code": 200,
+        "elapsed_time": 1.292,
+        "error": null
+    },
+    {
+        "client_id": 827,
+        "file_size": 160.22,
+        "status_code": 200,
+        "elapsed_time": 0.713,
+        "error": null
+    },
+    {
+        "client_id": 828,
+        "file_size": 183.61,
+        "status_code": 200,
+        "elapsed_time": 0.6593,
+        "error": null
+    },
+    {
+        "client_id": 829,
+        "file_size": 178.72,
+        "status_code": 200,
+        "elapsed_time": 0.6889,
+        "error": null
+    },
+    {
+        "client_id": 830,
+        "file_size": 1689.12,
+        "status_code": 200,
+        "elapsed_time": 2.2218,
+        "error": null
+    },
+    {
+        "client_id": 831,
+        "file_size": 267.86,
+        "status_code": 200,
+        "elapsed_time": 0.7403,
+        "error": null
+    },
+    {
+        "client_id": 832,
+        "file_size": 214.33,
+        "status_code": 200,
+        "elapsed_time": 0.7365,
+        "error": null
+    },
+    {
+        "client_id": 833,
+        "file_size": 1483.08,
+        "status_code": 200,
+        "elapsed_time": 2.0435,
+        "error": null
+    },
+    {
+        "client_id": 834,
+        "file_size": 295.6,
+        "status_code": 200,
+        "elapsed_time": 0.7553,
+        "error": null
+    },
+    {
+        "client_id": 835,
+        "file_size": 264.21,
+        "status_code": 200,
+        "elapsed_time": 0.7179,
+        "error": null
+    },
+    {
+        "client_id": 836,
+        "file_size": 286.6,
+        "status_code": 200,
+        "elapsed_time": 0.6914,
+        "error": null
+    },
+    {
+        "client_id": 837,
+        "file_size": 1846.58,
+        "status_code": 200,
+        "elapsed_time": 2.2607,
+        "error": null
+    },
+    {
+        "client_id": 838,
+        "file_size": 149.24,
+        "status_code": 200,
+        "elapsed_time": 1.176,
+        "error": null
+    },
+    {
+        "client_id": 839,
+        "file_size": 474.0,
+        "status_code": 200,
+        "elapsed_time": 0.9828,
+        "error": null
+    },
+    {
+        "client_id": 840,
+        "file_size": 2531.5,
+        "status_code": 200,
+        "elapsed_time": 2.5218,
+        "error": null
+    },
+    {
+        "client_id": 841,
+        "file_size": 1651.97,
+        "status_code": 200,
+        "elapsed_time": 2.1647,
+        "error": null
+    },
+    {
+        "client_id": 842,
+        "file_size": 784.56,
+        "status_code": 200,
+        "elapsed_time": 1.5183,
+        "error": null
+    },
+    {
+        "client_id": 843,
+        "file_size": 536.16,
+        "status_code": 200,
+        "elapsed_time": 1.3692,
+        "error": null
+    },
+    {
+        "client_id": 844,
+        "file_size": 259.61,
+        "status_code": 200,
+        "elapsed_time": 0.6395,
+        "error": null
+    },
+    {
+        "client_id": 845,
+        "file_size": 206.24,
+        "status_code": 200,
+        "elapsed_time": 0.6216,
+        "error": null
+    },
+    {
+        "client_id": 846,
+        "file_size": 364.1,
+        "status_code": 200,
+        "elapsed_time": 0.7938,
+        "error": null
+    },
+    {
+        "client_id": 847,
+        "file_size": 556.0,
+        "status_code": 200,
+        "elapsed_time": 1.4585,
+        "error": null
+    },
+    {
+        "client_id": 848,
+        "file_size": 817.73,
+        "status_code": 200,
+        "elapsed_time": 1.0791,
+        "error": null
+    },
+    {
+        "client_id": 849,
+        "file_size": 748.47,
+        "status_code": 200,
+        "elapsed_time": 1.1264,
+        "error": null
+    },
+    {
+        "client_id": 850,
+        "file_size": 231.78,
+        "status_code": 200,
+        "elapsed_time": 0.6335,
+        "error": null
+    },
+    {
+        "client_id": 851,
+        "file_size": 340.89,
+        "status_code": 200,
+        "elapsed_time": 0.8213,
+        "error": null
+    },
+    {
+        "client_id": 852,
+        "file_size": 917.04,
+        "status_code": 200,
+        "elapsed_time": 1.1487,
+        "error": null
+    },
+    {
+        "client_id": 853,
+        "file_size": 290.33,
+        "status_code": 200,
+        "elapsed_time": 0.8474,
+        "error": null
+    },
+    {
+        "client_id": 854,
+        "file_size": 268.44,
+        "status_code": 200,
+        "elapsed_time": 0.8123,
+        "error": null
+    },
+    {
+        "client_id": 855,
+        "file_size": 209.15,
+        "status_code": 200,
+        "elapsed_time": 1.1889,
+        "error": null
+    },
+    {
+        "client_id": 856,
+        "file_size": 284.23,
+        "status_code": 200,
+        "elapsed_time": 1.3224,
+        "error": null
+    },
+    {
+        "client_id": 857,
+        "file_size": 115.55,
+        "status_code": 200,
+        "elapsed_time": 1.1571,
+        "error": null
+    },
+    {
+        "client_id": 858,
+        "file_size": 727.24,
+        "status_code": 200,
+        "elapsed_time": 1.4901,
+        "error": null
+    },
+    {
+        "client_id": 859,
+        "file_size": 278.98,
+        "status_code": 200,
+        "elapsed_time": 0.8842,
+        "error": null
+    },
+    {
+        "client_id": 860,
+        "file_size": 1347.49,
+        "status_code": 200,
+        "elapsed_time": 1.3723,
+        "error": null
+    },
+    {
+        "client_id": 861,
+        "file_size": 468.33,
+        "status_code": 200,
+        "elapsed_time": 0.9677,
+        "error": null
+    },
+    {
+        "client_id": 862,
+        "file_size": 25.28,
+        "status_code": 200,
+        "elapsed_time": 0.533,
+        "error": null
+    },
+    {
+        "client_id": 863,
+        "file_size": 475.77,
+        "status_code": 200,
+        "elapsed_time": 1.4127,
+        "error": null
+    },
+    {
+        "client_id": 864,
+        "file_size": 247.28,
+        "status_code": 200,
+        "elapsed_time": 0.766,
+        "error": null
+    },
+    {
+        "client_id": 865,
+        "file_size": 924.34,
+        "status_code": 200,
+        "elapsed_time": 1.8345,
+        "error": null
+    },
+    {
+        "client_id": 866,
+        "file_size": 548.68,
+        "status_code": 200,
+        "elapsed_time": 1.0284,
+        "error": null
+    },
+    {
+        "client_id": 867,
+        "file_size": 1987.79,
+        "status_code": 200,
+        "elapsed_time": 2.179,
+        "error": null
+    },
+    {
+        "client_id": 868,
+        "file_size": 313.82,
+        "status_code": 200,
+        "elapsed_time": 0.938,
+        "error": null
+    },
+    {
+        "client_id": 869,
+        "file_size": 434.78,
+        "status_code": 200,
+        "elapsed_time": 0.9391,
+        "error": null
+    },
+    {
+        "client_id": 870,
+        "file_size": 271.46,
+        "status_code": 200,
+        "elapsed_time": 1.3844,
+        "error": null
+    },
+    {
+        "client_id": 871,
+        "file_size": 626.27,
+        "status_code": 200,
+        "elapsed_time": 1.1487,
+        "error": null
+    },
+    {
+        "client_id": 872,
+        "file_size": 1807.3,
+        "status_code": 200,
+        "elapsed_time": 1.8683,
+        "error": null
+    },
+    {
+        "client_id": 873,
+        "file_size": 919.57,
+        "status_code": 200,
+        "elapsed_time": 1.7224,
+        "error": null
+    },
+    {
+        "client_id": 874,
+        "file_size": 961.73,
+        "status_code": 200,
+        "elapsed_time": 1.9393,
+        "error": null
+    },
+    {
+        "client_id": 875,
+        "file_size": 390.59,
+        "status_code": 200,
+        "elapsed_time": 0.8546,
+        "error": null
+    },
+    {
+        "client_id": 876,
+        "file_size": 1262.91,
+        "status_code": 200,
+        "elapsed_time": 1.9069,
+        "error": null
+    },
+    {
+        "client_id": 877,
+        "file_size": 498.38,
+        "status_code": 200,
+        "elapsed_time": 1.0115,
+        "error": null
+    },
+    {
+        "client_id": 878,
+        "file_size": 73.46,
+        "status_code": 200,
+        "elapsed_time": 0.7405,
+        "error": null
+    },
+    {
+        "client_id": 879,
+        "file_size": 186.48,
+        "status_code": 200,
+        "elapsed_time": 1.302,
+        "error": null
+    },
+    {
+        "client_id": 880,
+        "file_size": 181.66,
+        "status_code": 200,
+        "elapsed_time": 1.3859,
+        "error": null
+    },
+    {
+        "client_id": 881,
+        "file_size": 131.11,
+        "status_code": 200,
+        "elapsed_time": 0.8173,
+        "error": null
+    },
+    {
+        "client_id": 882,
+        "file_size": 164.95,
+        "status_code": 200,
+        "elapsed_time": 1.299,
+        "error": null
+    },
+    {
+        "client_id": 883,
+        "file_size": 980.71,
+        "status_code": 200,
+        "elapsed_time": 1.8799,
+        "error": null
+    },
+    {
+        "client_id": 884,
+        "file_size": 144.05,
+        "status_code": 200,
+        "elapsed_time": 1.403,
+        "error": null
+    },
+    {
+        "client_id": 885,
+        "file_size": 263.76,
+        "status_code": 200,
+        "elapsed_time": 0.8454,
+        "error": null
+    },
+    {
+        "client_id": 886,
+        "file_size": 2861.02,
+        "status_code": 200,
+        "elapsed_time": 2.1549,
+        "error": null
+    },
+    {
+        "client_id": 887,
+        "file_size": 685.77,
+        "status_code": 200,
+        "elapsed_time": 1.6557,
+        "error": null
+    },
+    {
+        "client_id": 888,
+        "file_size": 225.97,
+        "status_code": 200,
+        "elapsed_time": 0.8038,
+        "error": null
+    },
+    {
+        "client_id": 889,
+        "file_size": 1269.85,
+        "status_code": 200,
+        "elapsed_time": 1.9736,
+        "error": null
+    },
+    {
+        "client_id": 890,
+        "file_size": 258.25,
+        "status_code": 200,
+        "elapsed_time": 0.7959,
+        "error": null
+    },
+    {
+        "client_id": 891,
+        "file_size": 309.99,
+        "status_code": 200,
+        "elapsed_time": 0.8152,
+        "error": null
+    },
+    {
+        "client_id": 892,
+        "file_size": 1280.37,
+        "status_code": 200,
+        "elapsed_time": 1.8285,
+        "error": null
+    },
+    {
+        "client_id": 893,
+        "file_size": 196.15,
+        "status_code": 200,
+        "elapsed_time": 0.794,
+        "error": null
+    },
+    {
+        "client_id": 894,
+        "file_size": 619.36,
+        "status_code": 200,
+        "elapsed_time": 1.6151,
+        "error": null
+    },
+    {
+        "client_id": 895,
+        "file_size": 1875.97,
+        "status_code": 200,
+        "elapsed_time": 1.9552,
+        "error": null
+    },
+    {
+        "client_id": 896,
+        "file_size": 942.49,
+        "status_code": 200,
+        "elapsed_time": 1.6898,
+        "error": null
+    },
+    {
+        "client_id": 897,
+        "file_size": 368.79,
+        "status_code": 200,
+        "elapsed_time": 0.9648,
+        "error": null
+    },
+    {
+        "client_id": 898,
+        "file_size": 319.42,
+        "status_code": 200,
+        "elapsed_time": 1.5034,
+        "error": null
+    },
+    {
+        "client_id": 899,
+        "file_size": 278.85,
+        "status_code": 200,
+        "elapsed_time": 0.8841,
+        "error": null
+    },
+    {
+        "client_id": 900,
+        "file_size": 1192.31,
+        "status_code": 200,
+        "elapsed_time": 1.5207,
+        "error": null
+    },
+    {
+        "client_id": 901,
+        "file_size": 273.4,
+        "status_code": 200,
+        "elapsed_time": 0.8724,
+        "error": null
+    },
+    {
+        "client_id": 902,
+        "file_size": 306.48,
+        "status_code": 200,
+        "elapsed_time": 1.0185,
+        "error": null
+    },
+    {
+        "client_id": 903,
+        "file_size": 314.0,
+        "status_code": 200,
+        "elapsed_time": 0.9771,
+        "error": null
+    },
+    {
+        "client_id": 904,
+        "file_size": 1072.54,
+        "status_code": 200,
+        "elapsed_time": 1.7144,
+        "error": null
+    },
+    {
+        "client_id": 905,
+        "file_size": 986.4,
+        "status_code": 200,
+        "elapsed_time": 1.3715,
+        "error": null
+    },
+    {
+        "client_id": 906,
+        "file_size": 249.43,
+        "status_code": 200,
+        "elapsed_time": 0.8493,
+        "error": null
+    },
+    {
+        "client_id": 907,
+        "file_size": 409.53,
+        "status_code": 200,
+        "elapsed_time": 1.0214,
+        "error": null
+    },
+    {
+        "client_id": 908,
+        "file_size": 604.21,
+        "status_code": 200,
+        "elapsed_time": 1.079,
+        "error": null
+    },
+    {
+        "client_id": 909,
+        "file_size": 278.89,
+        "status_code": 200,
+        "elapsed_time": 0.9424,
+        "error": null
+    },
+    {
+        "client_id": 910,
+        "file_size": 296.7,
+        "status_code": 200,
+        "elapsed_time": 0.8879,
+        "error": null
+    },
+    {
+        "client_id": 911,
+        "file_size": 161.01,
+        "status_code": 200,
+        "elapsed_time": 1.3912,
+        "error": null
+    },
+    {
+        "client_id": 912,
+        "file_size": 392.91,
+        "status_code": 200,
+        "elapsed_time": 0.9753,
+        "error": null
+    },
+    {
+        "client_id": 913,
+        "file_size": 369.97,
+        "status_code": 200,
+        "elapsed_time": 1.0412,
+        "error": null
+    },
+    {
+        "client_id": 914,
+        "file_size": 227.29,
+        "status_code": 200,
+        "elapsed_time": 0.8401,
+        "error": null
+    },
+    {
+        "client_id": 915,
+        "file_size": 346.39,
+        "status_code": 200,
+        "elapsed_time": 0.9484,
+        "error": null
+    },
+    {
+        "client_id": 916,
+        "file_size": 974.47,
+        "status_code": 200,
+        "elapsed_time": 1.6145,
+        "error": null
+    },
+    {
+        "client_id": 917,
+        "file_size": 1584.49,
+        "status_code": 200,
+        "elapsed_time": 1.725,
+        "error": null
+    },
+    {
+        "client_id": 918,
+        "file_size": 1771.93,
+        "status_code": 200,
+        "elapsed_time": 1.7028,
+        "error": null
+    },
+    {
+        "client_id": 919,
+        "file_size": 1603.17,
+        "status_code": 200,
+        "elapsed_time": 1.5901,
+        "error": null
+    },
+    {
+        "client_id": 920,
+        "file_size": 117.59,
+        "status_code": 200,
+        "elapsed_time": 1.2503,
+        "error": null
+    },
+    {
+        "client_id": 921,
+        "file_size": 253.57,
+        "status_code": 200,
+        "elapsed_time": 0.7634,
+        "error": null
+    },
+    {
+        "client_id": 922,
+        "file_size": 362.02,
+        "status_code": 200,
+        "elapsed_time": 0.7799,
+        "error": null
+    },
+    {
+        "client_id": 923,
+        "file_size": 1179.49,
+        "status_code": 200,
+        "elapsed_time": 1.5612,
+        "error": null
+    },
+    {
+        "client_id": 924,
+        "file_size": 503.92,
+        "status_code": 200,
+        "elapsed_time": 1.4008,
+        "error": null
+    },
+    {
+        "client_id": 925,
+        "file_size": 310.71,
+        "status_code": 200,
+        "elapsed_time": 0.8807,
+        "error": null
+    },
+    {
+        "client_id": 926,
+        "file_size": 404.17,
+        "status_code": 200,
+        "elapsed_time": 1.2765,
+        "error": null
+    },
+    {
+        "client_id": 927,
+        "file_size": 536.24,
+        "status_code": 200,
+        "elapsed_time": 1.3121,
+        "error": null
+    },
+    {
+        "client_id": 928,
+        "file_size": 320.96,
+        "status_code": 200,
+        "elapsed_time": 0.8771,
+        "error": null
+    },
+    {
+        "client_id": 929,
+        "file_size": 315.62,
+        "status_code": 200,
+        "elapsed_time": 0.9057,
+        "error": null
+    },
+    {
+        "client_id": 930,
+        "file_size": 1394.76,
+        "status_code": 200,
+        "elapsed_time": 1.5238,
+        "error": null
+    },
+    {
+        "client_id": 931,
+        "file_size": 243.67,
+        "status_code": 200,
+        "elapsed_time": 1.1602,
+        "error": null
+    },
+    {
+        "client_id": 932,
+        "file_size": 3643.73,
+        "status_code": 200,
+        "elapsed_time": 1.5068,
+        "error": null
+    },
+    {
+        "client_id": 933,
+        "file_size": 1290.96,
+        "status_code": 200,
+        "elapsed_time": 1.4334,
+        "error": null
+    },
+    {
+        "client_id": 934,
+        "file_size": 323.28,
+        "status_code": 200,
+        "elapsed_time": 0.9054,
+        "error": null
+    },
+    {
+        "client_id": 935,
+        "file_size": 336.66,
+        "status_code": 200,
+        "elapsed_time": 0.8599,
+        "error": null
+    },
+    {
+        "client_id": 936,
+        "file_size": 642.46,
+        "status_code": 200,
+        "elapsed_time": 1.2301,
+        "error": null
+    },
+    {
+        "client_id": 937,
+        "file_size": 360.04,
+        "status_code": 200,
+        "elapsed_time": 0.8289,
+        "error": null
+    },
+    {
+        "client_id": 938,
+        "file_size": 1068.13,
+        "status_code": 200,
+        "elapsed_time": 1.3252,
+        "error": null
+    },
+    {
+        "client_id": 939,
+        "file_size": 80.75,
+        "status_code": 200,
+        "elapsed_time": 1.0494,
+        "error": null
+    },
+    {
+        "client_id": 940,
+        "file_size": 354.32,
+        "status_code": 200,
+        "elapsed_time": 0.8146,
+        "error": null
+    },
+    {
+        "client_id": 941,
+        "file_size": 921.46,
+        "status_code": 200,
+        "elapsed_time": 1.2879,
+        "error": null
+    },
+    {
+        "client_id": 942,
+        "file_size": 411.57,
+        "status_code": 200,
+        "elapsed_time": 0.8054,
+        "error": null
+    },
+    {
+        "client_id": 943,
+        "file_size": 326.04,
+        "status_code": 200,
+        "elapsed_time": 0.8054,
+        "error": null
+    },
+    {
+        "client_id": 944,
+        "file_size": 1317.38,
+        "status_code": 200,
+        "elapsed_time": 1.2813,
+        "error": null
+    },
+    {
+        "client_id": 945,
+        "file_size": 366.72,
+        "status_code": 200,
+        "elapsed_time": 0.7839,
+        "error": null
+    },
+    {
+        "client_id": 946,
+        "file_size": 351.18,
+        "status_code": 200,
+        "elapsed_time": 0.7998,
+        "error": null
+    },
+    {
+        "client_id": 947,
+        "file_size": 545.54,
+        "status_code": 200,
+        "elapsed_time": 1.1828,
+        "error": null
+    },
+    {
+        "client_id": 948,
+        "file_size": 393.23,
+        "status_code": 200,
+        "elapsed_time": 0.8333,
+        "error": null
+    },
+    {
+        "client_id": 949,
+        "file_size": 1700.74,
+        "status_code": 200,
+        "elapsed_time": 1.2684,
+        "error": null
+    },
+    {
+        "client_id": 950,
+        "file_size": 241.92,
+        "status_code": 200,
+        "elapsed_time": 0.7477,
+        "error": null
+    },
+    {
+        "client_id": 951,
+        "file_size": 394.15,
+        "status_code": 200,
+        "elapsed_time": 0.8085,
+        "error": null
+    },
+    {
+        "client_id": 952,
+        "file_size": 119.8,
+        "status_code": 200,
+        "elapsed_time": 0.9477,
+        "error": null
+    },
+    {
+        "client_id": 953,
+        "file_size": 274.56,
+        "status_code": 200,
+        "elapsed_time": 0.7822,
+        "error": null
+    },
+    {
+        "client_id": 954,
+        "file_size": 640.92,
+        "status_code": 200,
+        "elapsed_time": 1.1153,
+        "error": null
+    },
+    {
+        "client_id": 955,
+        "file_size": 320.71,
+        "status_code": 200,
+        "elapsed_time": 0.7088,
+        "error": null
+    },
+    {
+        "client_id": 956,
+        "file_size": 1543.3,
+        "status_code": 200,
+        "elapsed_time": 1.1588,
+        "error": null
+    },
+    {
+        "client_id": 957,
+        "file_size": 460.46,
+        "status_code": 200,
+        "elapsed_time": 1.0182,
+        "error": null
+    },
+    {
+        "client_id": 958,
+        "file_size": 318.6,
+        "status_code": 200,
+        "elapsed_time": 0.6992,
+        "error": null
+    },
+    {
+        "client_id": 959,
+        "file_size": 334.84,
+        "status_code": 200,
+        "elapsed_time": 0.9677,
+        "error": null
+    },
+    {
+        "client_id": 960,
+        "file_size": 359.61,
+        "status_code": 200,
+        "elapsed_time": 0.7996,
+        "error": null
+    },
+    {
+        "client_id": 961,
+        "file_size": 276.52,
+        "status_code": 200,
+        "elapsed_time": 0.7363,
+        "error": null
+    },
+    {
+        "client_id": 962,
+        "file_size": 1993.15,
+        "status_code": 200,
+        "elapsed_time": 1.0603,
+        "error": null
+    },
+    {
+        "client_id": 963,
+        "file_size": 425.78,
+        "status_code": 200,
+        "elapsed_time": 0.7765,
+        "error": null
+    },
+    {
+        "client_id": 964,
+        "file_size": 170.02,
+        "status_code": 200,
+        "elapsed_time": 0.6781,
+        "error": null
+    },
+    {
+        "client_id": 965,
+        "file_size": 211.82,
+        "status_code": 200,
+        "elapsed_time": 0.6541,
+        "error": null
+    },
+    {
+        "client_id": 966,
+        "file_size": 443.07,
+        "status_code": 200,
+        "elapsed_time": 0.9452,
+        "error": null
+    },
+    {
+        "client_id": 967,
+        "file_size": 367.73,
+        "status_code": 200,
+        "elapsed_time": 0.7256,
+        "error": null
+    },
+    {
+        "client_id": 968,
+        "file_size": 322.13,
+        "status_code": 200,
+        "elapsed_time": 0.7043,
+        "error": null
+    },
+    {
+        "client_id": 969,
+        "file_size": 113.0,
+        "status_code": 200,
+        "elapsed_time": 0.8199,
+        "error": null
+    },
+    {
+        "client_id": 970,
+        "file_size": 673.88,
+        "status_code": 200,
+        "elapsed_time": 0.8959,
+        "error": null
+    },
+    {
+        "client_id": 971,
+        "file_size": 117.2,
+        "status_code": 200,
+        "elapsed_time": 0.8034,
+        "error": null
+    },
+    {
+        "client_id": 972,
+        "file_size": 149.72,
+        "status_code": 200,
+        "elapsed_time": 0.8017,
+        "error": null
+    },
+    {
+        "client_id": 973,
+        "file_size": 257.42,
+        "status_code": 200,
+        "elapsed_time": 0.6494,
+        "error": null
+    },
+    {
+        "client_id": 974,
+        "file_size": 211.46,
+        "status_code": 200,
+        "elapsed_time": 0.5967,
+        "error": null
+    },
+    {
+        "client_id": 975,
+        "file_size": 95.74,
+        "status_code": 200,
+        "elapsed_time": 0.7786,
+        "error": null
+    },
+    {
+        "client_id": 976,
+        "file_size": 319.93,
+        "status_code": 200,
+        "elapsed_time": 0.6885,
+        "error": null
+    },
+    {
+        "client_id": 977,
+        "file_size": 217.91,
+        "status_code": 200,
+        "elapsed_time": 0.6558,
+        "error": null
+    },
+    {
+        "client_id": 978,
+        "file_size": 156.19,
+        "status_code": 200,
+        "elapsed_time": 0.5894,
+        "error": null
+    },
+    {
+        "client_id": 979,
+        "file_size": 522.59,
+        "status_code": 200,
+        "elapsed_time": 0.8271,
+        "error": null
+    },
+    {
+        "client_id": 980,
+        "file_size": 897.03,
+        "status_code": 200,
+        "elapsed_time": 0.8547,
+        "error": null
+    },
+    {
+        "client_id": 981,
+        "file_size": 1742.83,
+        "status_code": 200,
+        "elapsed_time": 0.882,
+        "error": null
+    },
+    {
+        "client_id": 982,
+        "file_size": 393.6,
+        "status_code": 200,
+        "elapsed_time": 0.7058,
+        "error": null
+    },
+    {
+        "client_id": 983,
+        "file_size": 199.65,
+        "status_code": 200,
+        "elapsed_time": 0.5676,
+        "error": null
+    },
+    {
+        "client_id": 984,
+        "file_size": 606.81,
+        "status_code": 200,
+        "elapsed_time": 0.766,
+        "error": null
+    },
+    {
+        "client_id": 985,
+        "file_size": 1525.81,
+        "status_code": 200,
+        "elapsed_time": 0.7936,
+        "error": null
+    },
+    {
+        "client_id": 986,
+        "file_size": 2153.2,
+        "status_code": 200,
+        "elapsed_time": 0.8075,
+        "error": null
+    },
+    {
+        "client_id": 987,
+        "file_size": 345.82,
+        "status_code": 200,
+        "elapsed_time": 0.5805,
+        "error": null
+    },
+    {
+        "client_id": 988,
+        "file_size": 262.64,
+        "status_code": 200,
+        "elapsed_time": 0.5073,
+        "error": null
+    },
+    {
+        "client_id": 989,
+        "file_size": 408.97,
+        "status_code": 200,
+        "elapsed_time": 0.5809,
+        "error": null
+    },
+    {
+        "client_id": 990,
+        "file_size": 364.57,
+        "status_code": 200,
+        "elapsed_time": 0.5202,
+        "error": null
+    },
+    {
+        "client_id": 991,
+        "file_size": 1517.28,
+        "status_code": 200,
+        "elapsed_time": 0.6766,
+        "error": null
+    },
+    {
+        "client_id": 992,
+        "file_size": 108.39,
+        "status_code": 200,
+        "elapsed_time": 0.4658,
+        "error": null
+    },
+    {
+        "client_id": 993,
+        "file_size": 1106.18,
+        "status_code": 200,
+        "elapsed_time": 0.5703,
+        "error": null
+    },
+    {
+        "client_id": 994,
+        "file_size": 670.73,
+        "status_code": 200,
+        "elapsed_time": 0.5325,
+        "error": null
+    },
+    {
+        "client_id": 995,
+        "file_size": 601.48,
+        "status_code": 200,
+        "elapsed_time": 0.5194,
+        "error": null
+    },
+    {
+        "client_id": 996,
+        "file_size": 318.43,
+        "status_code": 200,
+        "elapsed_time": 0.4367,
+        "error": null
+    },
+    {
+        "client_id": 997,
+        "file_size": 1487.56,
+        "status_code": 200,
+        "elapsed_time": 0.5675,
+        "error": null
+    },
+    {
+        "client_id": 998,
+        "file_size": 1213.21,
+        "status_code": 200,
+        "elapsed_time": 0.5599,
+        "error": null
+    },
+    {
+        "client_id": 999,
+        "file_size": 230.34,
+        "status_code": 200,
+        "elapsed_time": 0.4461,
+        "error": null
+    }
+]

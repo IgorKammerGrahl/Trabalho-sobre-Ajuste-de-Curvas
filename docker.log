@@ -1,0 +1,1023 @@
+time="2025-02-01T18:15:01-03:00" level=warning msg="C:\\Users\\igork\\PythonWorkSpace\\ProjetoAjusteDeCurvas\\docker-compose.yaml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ Network projetoajustedecurvas_project_network  Creating
+ Network projetoajustedecurvas_project_network  Created
+ Container flask-server  Creating
+ Container flask-server  Created
+ Container flask-client  Creating
+ Container flask-client  Created
+ Container data-analyzer  Creating
+ Container data-analyzer  Created
+Attaching to data-analyzer, flask-client, flask-server
+flask-server   |  * Serving Flask app 'server'
+flask-server   |  * Debug mode: off
+flask-server   | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+flask-server   |  * Running on all addresses (0.0.0.0)
+flask-server   |  * Running on http://127.0.0.1:5000
+flask-server   |  * Running on http://172.19.0.2:5000
+flask-server   | [33mPress CTRL+C to quit[0m
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/40 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/953 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/594 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/79 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/323 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/854 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/941 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/931 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/905 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/523 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/11 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/166 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/137 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/30 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/102 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/25 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/283 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/38 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/3194 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/246 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/12 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/561 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/489 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/367 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/206 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/595 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/980 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/616 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/374 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/741 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/357 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/812 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/364 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/867 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/193 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/499 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/268 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/503 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/806 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/784 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/259 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/621 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/990 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/828 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/313 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/695 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/894 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/206 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/417 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/494 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/1224 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/761 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/134 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/226 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/84 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/71 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/287 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/614 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/783 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/996 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/561 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/388 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/924 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/438 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/299 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/897 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/751 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/456 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/980 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/888 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/660 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/126 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/715 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/960 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/14 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/94 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/665 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/306 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/687 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/84 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/145 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/856 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/187 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/492 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/917 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/216 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/429 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/536 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/13 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/1855 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/628 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/902 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/292 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/800 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/726 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/886 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/155 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/863 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/3925 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/634 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/683 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/522 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/4641 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/2210 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/18 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/585 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/385 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/842 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/804 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/898 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/145 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/671 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/268 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/279 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/3289 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/39 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/883 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/286 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/239 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/800 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/435 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/436 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/559 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/555 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/317 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/526 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/245 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/850 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/184 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/471 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/603 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/290 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/745 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/141 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/291 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/559 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/504 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/808 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/901 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/900 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:09] "GET /file/223 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/665 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/947 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/427 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/334 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/204 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/152 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/89 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/233 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/485 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/509 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/352 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/70 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/450 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/326 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/86 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/387 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/680 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/676 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/55 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/236 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/75 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/391 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/686 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/973 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/344 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/175 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/55 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/826 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/775 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/648 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/614 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/718 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/407 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/662 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/669 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/612 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/28 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/290 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/830 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/479 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/4624 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/156 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/259 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/913 HTTP/1.1" 200 -
+flask-client   | Requisição 1/500 concluída: {'client_id': 0, 'file_size': 594.56, 'status_code': 200, 'elapsed_time': 0.16449546813964844}
+flask-client   | Requisição 2/500 concluída: {'client_id': 1, 'file_size': 953.79, 'status_code': 200, 'elapsed_time': 0.30658650398254395}
+flask-client   | Requisição 3/500 concluída: {'client_id': 2, 'file_size': 854.77, 'status_code': 200, 'elapsed_time': 0.23937749862670898}
+flask-client   | Requisição 4/500 concluída: {'client_id': 3, 'file_size': 40.6, 'status_code': 200, 'elapsed_time': 0.038697004318237305}
+flask-client   | Requisição 5/500 concluída: {'client_id': 4, 'file_size': 79.52, 'status_code': 200, 'elapsed_time': 0.04549074172973633}
+flask-client   | Requisição 6/500 concluída: {'client_id': 5, 'file_size': 137.3, 'status_code': 200, 'elapsed_time': 0.1056663990020752}
+flask-client   | Requisição 7/500 concluída: {'client_id': 6, 'file_size': 25.82, 'status_code': 200, 'elapsed_time': 0.07477402687072754}
+flask-client   | Requisição 8/500 concluída: {'client_id': 7, 'file_size': 931.03, 'status_code': 200, 'elapsed_time': 0.2265481948852539}
+flask-client   | Requisição 9/500 concluída: {'client_id': 8, 'file_size': 323.88, 'status_code': 200, 'elapsed_time': 0.11708688735961914}
+flask-client   | Requisição 10/500 concluída: {'client_id': 9, 'file_size': 941.56, 'status_code': 200, 'elapsed_time': 0.20978236198425293}
+flask-client   | Requisição 11/500 concluída: {'client_id': 10, 'file_size': 11.01, 'status_code': 200, 'elapsed_time': 0.060573577880859375}
+flask-client   | Requisição 12/500 concluída: {'client_id': 11, 'file_size': 166.01, 'status_code': 200, 'elapsed_time': 0.09989213943481445}
+flask-client   | Requisição 13/500 concluída: {'client_id': 12, 'file_size': 523.58, 'status_code': 200, 'elapsed_time': 0.15207219123840332}
+flask-client   | Requisição 14/500 concluída: {'client_id': 13, 'file_size': 283.09, 'status_code': 200, 'elapsed_time': 0.13219428062438965}
+flask-client   | Requisição 15/500 concluída: {'client_id': 14, 'file_size': 905.47, 'status_code': 200, 'elapsed_time': 0.2062084674835205}
+flask-client   | Requisição 16/500 concluída: {'client_id': 15, 'file_size': 102.21, 'status_code': 200, 'elapsed_time': 0.07277059555053711}
+flask-client   | Requisição 17/500 concluída: {'client_id': 16, 'file_size': 30.71, 'status_code': 200, 'elapsed_time': 0.059615135192871094}
+flask-client   | Requisição 18/500 concluída: {'client_id': 17, 'file_size': 12.71, 'status_code': 200, 'elapsed_time': 0.07791638374328613}
+flask-client   | Requisição 19/500 concluída: {'client_id': 18, 'file_size': 3194.880296507125, 'status_code': 200, 'elapsed_time': 1.150958776473999}
+flask-client   | Requisição 20/500 concluída: {'client_id': 19, 'file_size': 246.68, 'status_code': 200, 'elapsed_time': 0.11216211318969727}
+flask-client   | Requisição 21/500 concluída: {'client_id': 20, 'file_size': 38.94, 'status_code': 200, 'elapsed_time': 0.07340335845947266}
+flask-client   | Requisição 22/500 concluída: {'client_id': 21, 'file_size': 489.27, 'status_code': 200, 'elapsed_time': 0.15173077583312988}
+flask-client   | Requisição 23/500 concluída: {'client_id': 22, 'file_size': 206.5, 'status_code': 200, 'elapsed_time': 0.11226487159729004}
+flask-client   | Requisição 24/500 concluída: {'client_id': 23, 'file_size': 367.8, 'status_code': 200, 'elapsed_time': 0.13031721115112305}
+flask-client   | Requisição 25/500 concluída: {'client_id': 24, 'file_size': 561.62, 'status_code': 200, 'elapsed_time': 0.1745457649230957}
+flask-client   | Requisição 26/500 concluída: {'client_id': 25, 'file_size': 374.73, 'status_code': 200, 'elapsed_time': 0.1405937671661377}
+flask-client   | Requisição 27/500 concluída: {'client_id': 26, 'file_size': 741.55, 'status_code': 200, 'elapsed_time': 0.21202468872070312}
+flask-client   | Requisição 28/500 concluída: {'client_id': 27, 'file_size': 616.05, 'status_code': 200, 'elapsed_time': 0.20078635215759277}
+flask-client   | Requisição 29/500 concluída: {'client_id': 28, 'file_size': 595.81, 'status_code': 200, 'elapsed_time': 0.17782282829284668}
+flask-client   | Requisição 30/500 concluída: {'client_id': 29, 'file_size': 812.18, 'status_code': 200, 'elapsed_time': 0.25667667388916016}
+flask-client   | Requisição 31/500 concluída: {'client_id': 30, 'file_size': 499.98, 'status_code': 200, 'elapsed_time': 0.2528855800628662}
+flask-client   | Requisição 32/500 concluída: {'client_id': 31, 'file_size': 980.82, 'status_code': 200, 'elapsed_time': 0.28581762313842773}
+flask-client   | Requisição 33/500 concluída: {'client_id': 32, 'file_size': 268.82, 'status_code': 200, 'elapsed_time': 0.19226312637329102}
+flask-client   | Requisição 34/500 concluída: {'client_id': 33, 'file_size': 193.35, 'status_code': 200, 'elapsed_time': 0.11114120483398438}
+flask-client   | Requisição 35/500 concluída: {'client_id': 34, 'file_size': 357.74, 'status_code': 200, 'elapsed_time': 0.12617969512939453}
+flask-client   | Requisição 36/500 concluída: {'client_id': 35, 'file_size': 364.85, 'status_code': 200, 'elapsed_time': 0.1374187469482422}
+flask-client   | Requisição 37/500 concluída: {'client_id': 36, 'file_size': 867.17, 'status_code': 200, 'elapsed_time': 0.2893500328063965}
+flask-client   | Requisição 38/500 concluída: {'client_id': 37, 'file_size': 503.35, 'status_code': 200, 'elapsed_time': 0.26671504974365234}
+flask-client   | Requisição 39/500 concluída: {'client_id': 38, 'file_size': 784.01, 'status_code': 200, 'elapsed_time': 0.3238034248352051}
+flask-client   | Requisição 40/500 concluída: {'client_id': 39, 'file_size': 259.16, 'status_code': 200, 'elapsed_time': 0.20137691497802734}
+flask-client   | Requisição 41/500 concluída: {'client_id': 40, 'file_size': 806.56, 'status_code': 200, 'elapsed_time': 0.35296130180358887}
+flask-client   | Requisição 42/500 concluída: {'client_id': 41, 'file_size': 990.14, 'status_code': 200, 'elapsed_time': 0.394122838973999}
+flask-client   | Requisição 43/500 concluída: {'client_id': 42, 'file_size': 621.0, 'status_code': 200, 'elapsed_time': 0.2869596481323242}
+flask-client   | Requisição 44/500 concluída: {'client_id': 43, 'file_size': 828.52, 'status_code': 200, 'elapsed_time': 0.31001877784729004}
+flask-client   | Requisição 45/500 concluída: {'client_id': 44, 'file_size': 695.92, 'status_code': 200, 'elapsed_time': 0.36830949783325195}
+flask-client   | Requisição 46/500 concluída: {'client_id': 45, 'file_size': 313.61, 'status_code': 200, 'elapsed_time': 0.2373030185699463}
+flask-client   | Requisição 47/500 concluída: {'client_id': 46, 'file_size': 494.17, 'status_code': 200, 'elapsed_time': 0.32739996910095215}
+flask-client   | Requisição 48/500 concluída: {'client_id': 47, 'file_size': 894.84, 'status_code': 200, 'elapsed_time': 0.5788559913635254}
+flask-client   | Requisição 49/500 concluída: {'client_id': 48, 'file_size': 206.67, 'status_code': 200, 'elapsed_time': 0.21655964851379395}
+flask-client   | Requisição 50/500 concluída: {'client_id': 49, 'file_size': 1224.1778364898112, 'status_code': 200, 'elapsed_time': 0.8193352222442627}
+flask-client   | Requisição 51/500 concluída: {'client_id': 50, 'file_size': 417.33, 'status_code': 200, 'elapsed_time': 0.2790994644165039}
+flask-client   | Requisição 52/500 concluída: {'client_id': 51, 'file_size': 226.44, 'status_code': 200, 'elapsed_time': 0.25536680221557617}
+flask-client   | Requisição 53/500 concluída: {'client_id': 52, 'file_size': 761.25, 'status_code': 200, 'elapsed_time': 0.36040782928466797}
+flask-client   | Requisição 54/500 concluída: {'client_id': 53, 'file_size': 71.38, 'status_code': 200, 'elapsed_time': 0.19643807411193848}
+flask-client   | Requisição 55/500 concluída: {'client_id': 54, 'file_size': 134.18, 'status_code': 200, 'elapsed_time': 0.22464847564697266}
+flask-client   | Requisição 56/500 concluída: {'client_id': 55, 'file_size': 614.55, 'status_code': 200, 'elapsed_time': 0.32682132720947266}
+flask-client   | Requisição 57/500 concluída: {'client_id': 56, 'file_size': 84.68, 'status_code': 200, 'elapsed_time': 0.17695212364196777}
+flask-client   | Requisição 58/500 concluída: {'client_id': 57, 'file_size': 287.04, 'status_code': 200, 'elapsed_time': 0.2432553768157959}
+flask-client   | Requisição 59/500 concluída: {'client_id': 58, 'file_size': 561.68, 'status_code': 200, 'elapsed_time': 0.5202474594116211}
+flask-client   | Requisição 60/500 concluída: {'client_id': 59, 'file_size': 783.53, 'status_code': 200, 'elapsed_time': 0.5592238903045654}
+flask-client   | Requisição 61/500 concluída: {'client_id': 60, 'file_size': 996.46, 'status_code': 200, 'elapsed_time': 0.5830457210540771}
+flask-client   | Requisição 62/500 concluída: {'client_id': 61, 'file_size': 438.16, 'status_code': 200, 'elapsed_time': 0.3054029941558838}
+flask-client   | Requisição 63/500 concluída: {'client_id': 62, 'file_size': 924.14, 'status_code': 200, 'elapsed_time': 0.6384308338165283}
+flask-client   | Requisição 64/500 concluída: {'client_id': 63, 'file_size': 897.16, 'status_code': 200, 'elapsed_time': 0.6394534111022949}
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/1611 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/53 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/524 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/844 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/164 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/945 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/795 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/592 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/780 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/798 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/291 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/942 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/552 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/686 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/133 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/783 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/886 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/505 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/793 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/3565 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/764 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/83 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/549 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/216 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/747 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/522 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/184 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/617 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/915 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/214 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/383 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/708 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/968 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/505 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/639 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/237 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/222 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/284 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/99 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/2764 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/949 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/110 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/974 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/226 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/115 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/567 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/35 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/87 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/903 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/957 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/813 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/261 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/28 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/775 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/559 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/453 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/995 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/520 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/936 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/683 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/276 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/915 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/514 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/748 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/326 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/55 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/951 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/568 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/736 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/835 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/89 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/371 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/719 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/43 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/586 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/282 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/801 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/641 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/993 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/526 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/730 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/821 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/459 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/559 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/495 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/281 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/311 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/803 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/734 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/940 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/445 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/100 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/988 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/808 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/381 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/987 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/754 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/647 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/425 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/62 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/815 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/514 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/1762 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:10] "GET /file/683 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/63 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/973 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/88 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/121 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/783 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/538 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/484 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/935 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/773 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/487 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/696 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/1989 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/169 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/697 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/470 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/647 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/170 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/121 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/188 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/381 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/555 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/316 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/639 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/974 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/77 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/987 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/933 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/424 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/258 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/754 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/500 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/898 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/733 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/177 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/310 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/387 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/727 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/184 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/523 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/973 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/317 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/39 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/952 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/369 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/253 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/821 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/888 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/691 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/735 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/533 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/617 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/339 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/823 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/2605 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/389 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/996 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/702 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/455 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/195 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/866 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/422 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/3571 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/516 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/419 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/258 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/166 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/501 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/715 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/666 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/719 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/213 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/120 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/837 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/680 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/964 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/60 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/877 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/190 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/397 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/47 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/821 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/292 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/135 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/495 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/297 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/52 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/944 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/431 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/76 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/366 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/79 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/73 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/786 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/894 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/577 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/629 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/212 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/163 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/632 HTTP/1.1" 200 -
+flask-client   | Requisição 65/500 concluída: {'client_id': 64, 'file_size': 299.42, 'status_code': 200, 'elapsed_time': 0.2562844753265381}
+flask-client   | Requisição 66/500 concluída: {'client_id': 65, 'file_size': 980.43, 'status_code': 200, 'elapsed_time': 0.6052892208099365}
+flask-client   | Requisição 67/500 concluída: {'client_id': 66, 'file_size': 751.56, 'status_code': 200, 'elapsed_time': 0.532381534576416}
+flask-client   | Requisição 68/500 concluída: {'client_id': 67, 'file_size': 388.99, 'status_code': 200, 'elapsed_time': 0.2623884677886963}
+flask-client   | Requisição 69/500 concluída: {'client_id': 68, 'file_size': 456.06, 'status_code': 200, 'elapsed_time': 0.48093557357788086}
+flask-client   | Requisição 70/500 concluída: {'client_id': 69, 'file_size': 888.8, 'status_code': 200, 'elapsed_time': 0.5918483734130859}
+flask-client   | Requisição 71/500 concluída: {'client_id': 70, 'file_size': 660.53, 'status_code': 200, 'elapsed_time': 0.5031924247741699}
+flask-client   | Requisição 72/500 concluída: {'client_id': 71, 'file_size': 94.34, 'status_code': 200, 'elapsed_time': 0.1915571689605713}
+flask-client   | Requisição 73/500 concluída: {'client_id': 72, 'file_size': 715.73, 'status_code': 200, 'elapsed_time': 0.5413446426391602}
+flask-client   | Requisição 74/500 concluída: {'client_id': 73, 'file_size': 665.11, 'status_code': 200, 'elapsed_time': 0.5080077648162842}
+flask-client   | Requisição 75/500 concluída: {'client_id': 74, 'file_size': 126.24, 'status_code': 200, 'elapsed_time': 0.13731765747070312}
+flask-client   | Requisição 76/500 concluída: {'client_id': 75, 'file_size': 960.55, 'status_code': 200, 'elapsed_time': 0.6302201747894287}
+flask-client   | Requisição 77/500 concluída: {'client_id': 76, 'file_size': 14.26, 'status_code': 200, 'elapsed_time': 0.12387943267822266}
+flask-client   | Requisição 78/500 concluída: {'client_id': 77, 'file_size': 687.99, 'status_code': 200, 'elapsed_time': 0.5650012493133545}
+flask-client   | Requisição 79/500 concluída: {'client_id': 78, 'file_size': 306.92, 'status_code': 200, 'elapsed_time': 0.4097268581390381}
+flask-client   | Requisição 80/500 concluída: {'client_id': 79, 'file_size': 145.28, 'status_code': 200, 'elapsed_time': 0.17886137962341309}
+flask-client   | Requisição 81/500 concluída: {'client_id': 80, 'file_size': 84.48, 'status_code': 200, 'elapsed_time': 0.15021681785583496}
+flask-client   | Requisição 82/500 concluída: {'client_id': 81, 'file_size': 856.88, 'status_code': 200, 'elapsed_time': 0.5591771602630615}
+flask-client   | Requisição 83/500 concluída: {'client_id': 82, 'file_size': 917.22, 'status_code': 200, 'elapsed_time': 0.6042554378509521}
+flask-client   | Requisição 84/500 concluída: {'client_id': 83, 'file_size': 187.42, 'status_code': 200, 'elapsed_time': 0.16177916526794434}
+flask-client   | Requisição 85/500 concluída: {'client_id': 84, 'file_size': 492.0, 'status_code': 200, 'elapsed_time': 0.43948864936828613}
+flask-client   | Requisição 86/500 concluída: {'client_id': 85, 'file_size': 216.52, 'status_code': 200, 'elapsed_time': 0.35431623458862305}
+flask-client   | Requisição 87/500 concluída: {'client_id': 86, 'file_size': 1855.2701618875753, 'status_code': 200, 'elapsed_time': 0.9814043045043945}
+flask-client   | Requisição 88/500 concluída: {'client_id': 87, 'file_size': 429.37, 'status_code': 200, 'elapsed_time': 0.4276008605957031}
+flask-client   | Requisição 89/500 concluída: {'client_id': 88, 'file_size': 536.43, 'status_code': 200, 'elapsed_time': 0.47340941429138184}
+flask-client   | Requisição 90/500 concluída: {'client_id': 89, 'file_size': 902.74, 'status_code': 200, 'elapsed_time': 0.6226708889007568}
+flask-client   | Requisição 91/500 concluída: {'client_id': 90, 'file_size': 13.69, 'status_code': 200, 'elapsed_time': 0.11284351348876953}
+flask-client   | Requisição 92/500 concluída: {'client_id': 91, 'file_size': 628.7, 'status_code': 200, 'elapsed_time': 0.47916150093078613}
+flask-client   | Requisição 93/500 concluída: {'client_id': 92, 'file_size': 292.72, 'status_code': 200, 'elapsed_time': 0.3934478759765625}
+flask-client   | Requisição 94/500 concluída: {'client_id': 93, 'file_size': 155.97, 'status_code': 200, 'elapsed_time': 0.3606071472167969}
+flask-client   | Requisição 95/500 concluída: {'client_id': 94, 'file_size': 800.58, 'status_code': 200, 'elapsed_time': 0.5911719799041748}
+flask-client   | Requisição 96/500 concluída: {'client_id': 95, 'file_size': 886.55, 'status_code': 200, 'elapsed_time': 0.6151876449584961}
+flask-client   | Requisição 97/500 concluída: {'client_id': 96, 'file_size': 726.95, 'status_code': 200, 'elapsed_time': 0.5299761295318604}
+flask-client   | Requisição 98/500 concluída: {'client_id': 97, 'file_size': 3925.409066514716, 'status_code': 200, 'elapsed_time': 1.8619952201843262}
+flask-client   | Requisição 99/500 concluída: {'client_id': 98, 'file_size': 863.11, 'status_code': 200, 'elapsed_time': 0.589414119720459}
+flask-client   | Requisição 100/500 concluída: {'client_id': 99, 'file_size': 634.18, 'status_code': 200, 'elapsed_time': 0.48557257652282715}
+flask-client   | Requisição 101/500 concluída: {'client_id': 100, 'file_size': 683.0, 'status_code': 200, 'elapsed_time': 0.49918317794799805}
+flask-client   | Requisição 102/500 concluída: {'client_id': 101, 'file_size': 522.34, 'status_code': 200, 'elapsed_time': 0.4649064540863037}
+flask-client   | Requisição 103/500 concluída: {'client_id': 102, 'file_size': 18.45, 'status_code': 200, 'elapsed_time': 0.30004024505615234}
+flask-client   | Requisição 104/500 concluída: {'client_id': 103, 'file_size': 2210.3437824894672, 'status_code': 200, 'elapsed_time': 1.0744283199310303}
+flask-client   | Requisição 105/500 concluída: {'client_id': 104, 'file_size': 4641.543419387861, 'status_code': 200, 'elapsed_time': 2.3411176204681396}
+flask-client   | Requisição 106/500 concluída: {'client_id': 105, 'file_size': 585.83, 'status_code': 200, 'elapsed_time': 0.45335841178894043}
+flask-client   | Requisição 107/500 concluída: {'client_id': 106, 'file_size': 385.33, 'status_code': 200, 'elapsed_time': 0.4312431812286377}
+flask-client   | Requisição 108/500 concluída: {'client_id': 107, 'file_size': 842.27, 'status_code': 200, 'elapsed_time': 0.5890071392059326}
+flask-client   | Requisição 109/500 concluída: {'client_id': 108, 'file_size': 804.99, 'status_code': 200, 'elapsed_time': 0.5883586406707764}
+flask-client   | Requisição 110/500 concluída: {'client_id': 109, 'file_size': 268.85, 'status_code': 200, 'elapsed_time': 0.40702104568481445}
+flask-client   | Requisição 111/500 concluída: {'client_id': 110, 'file_size': 39.0, 'status_code': 200, 'elapsed_time': 0.36157989501953125}
+flask-client   | Requisição 112/500 concluída: {'client_id': 111, 'file_size': 145.72, 'status_code': 200, 'elapsed_time': 0.3620579242706299}
+flask-client   | Requisição 113/500 concluída: {'client_id': 112, 'file_size': 279.21, 'status_code': 200, 'elapsed_time': 0.4185824394226074}
+flask-client   | Requisição 114/500 concluída: {'client_id': 113, 'file_size': 3289.5938582175836, 'status_code': 200, 'elapsed_time': 1.5820088386535645}
+flask-client   | Requisição 115/500 concluída: {'client_id': 114, 'file_size': 286.84, 'status_code': 200, 'elapsed_time': 0.4229104518890381}
+flask-client   | Requisição 116/500 concluída: {'client_id': 115, 'file_size': 898.94, 'status_code': 200, 'elapsed_time': 0.4351184368133545}
+flask-client   | Requisição 117/500 concluída: {'client_id': 116, 'file_size': 883.01, 'status_code': 200, 'elapsed_time': 0.44119739532470703}
+flask-client   | Requisição 118/500 concluída: {'client_id': 117, 'file_size': 671.77, 'status_code': 200, 'elapsed_time': 0.3337562084197998}
+flask-client   | Requisição 119/500 concluída: {'client_id': 118, 'file_size': 239.93, 'status_code': 200, 'elapsed_time': 0.22478771209716797}
+flask-client   | Requisição 120/500 concluída: {'client_id': 119, 'file_size': 559.63, 'status_code': 200, 'elapsed_time': 0.3749573230743408}
+flask-client   | Requisição 121/500 concluída: {'client_id': 120, 'file_size': 800.49, 'status_code': 200, 'elapsed_time': 0.4511144161224365}
+flask-client   | Requisição 122/500 concluída: {'client_id': 121, 'file_size': 436.14, 'status_code': 200, 'elapsed_time': 0.2853231430053711}
+flask-client   | Requisição 123/500 concluída: {'client_id': 122, 'file_size': 317.93, 'status_code': 200, 'elapsed_time': 0.2264711856842041}
+flask-client   | Requisição 124/500 concluída: {'client_id': 123, 'file_size': 526.25, 'status_code': 200, 'elapsed_time': 0.29271721839904785}
+flask-client   | Requisição 125/500 concluída: {'client_id': 124, 'file_size': 435.97, 'status_code': 200, 'elapsed_time': 0.24315118789672852}
+flask-client   | Requisição 126/500 concluída: {'client_id': 125, 'file_size': 850.04, 'status_code': 200, 'elapsed_time': 0.39176034927368164}
+flask-client   | Requisição 127/500 concluída: {'client_id': 126, 'file_size': 555.48, 'status_code': 200, 'elapsed_time': 0.3331317901611328}
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/799 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/892 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/979 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/745 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/418 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/37 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/553 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/122 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/331 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/202 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/837 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/782 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/999 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/541 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/708 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/933 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/585 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/452 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/206 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/668 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:11] "GET /file/194 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/732 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/794 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/2927 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/145 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/322 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/4356 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/537 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/15 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/349 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/753 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/118 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/2808 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/843 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/403 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/494 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/699 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/174 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/814 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/382 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/228 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/267 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/390 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/39 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/412 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/625 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/106 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/760 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/148 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/907 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/308 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/848 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/931 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/995 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/755 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/440 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/633 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/878 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/604 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/767 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/462 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/423 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/868 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/769 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/343 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/190 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/666 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/331 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/707 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/512 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/597 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/310 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/646 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/17 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/755 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/302 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/42 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/563 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/341 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/2009 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/230 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/79 HTTP/1.1" 200 -
+flask-client   | Requisição 128/500 concluída: {'client_id': 127, 'file_size': 245.7, 'status_code': 200, 'elapsed_time': 0.20168137550354004}
+flask-client   | Requisição 129/500 concluída: {'client_id': 128, 'file_size': 603.61, 'status_code': 200, 'elapsed_time': 0.33603405952453613}
+flask-client   | Requisição 130/500 concluída: {'client_id': 129, 'file_size': 184.65, 'status_code': 200, 'elapsed_time': 0.19256854057312012}
+flask-client   | Requisição 131/500 concluída: {'client_id': 130, 'file_size': 290.25, 'status_code': 200, 'elapsed_time': 0.20909833908081055}
+flask-client   | Requisição 132/500 concluída: {'client_id': 131, 'file_size': 141.17, 'status_code': 200, 'elapsed_time': 0.16366028785705566}
+flask-client   | Requisição 133/500 concluída: {'client_id': 132, 'file_size': 471.89, 'status_code': 200, 'elapsed_time': 0.25504374504089355}
+flask-client   | Requisição 134/500 concluída: {'client_id': 133, 'file_size': 291.12, 'status_code': 200, 'elapsed_time': 0.23633241653442383}
+flask-client   | Requisição 135/500 concluída: {'client_id': 134, 'file_size': 745.21, 'status_code': 200, 'elapsed_time': 0.3745105266571045}
+flask-client   | Requisição 136/500 concluída: {'client_id': 135, 'file_size': 504.85, 'status_code': 200, 'elapsed_time': 0.27395081520080566}
+flask-client   | Requisição 137/500 concluída: {'client_id': 136, 'file_size': 665.72, 'status_code': 200, 'elapsed_time': 0.3301279544830322}
+flask-client   | Requisição 138/500 concluída: {'client_id': 137, 'file_size': 808.36, 'status_code': 200, 'elapsed_time': 0.34804844856262207}
+flask-client   | Requisição 139/500 concluída: {'client_id': 138, 'file_size': 559.76, 'status_code': 200, 'elapsed_time': 0.35068488121032715}
+flask-client   | Requisição 140/500 concluída: {'client_id': 139, 'file_size': 900.1, 'status_code': 200, 'elapsed_time': 0.49388766288757324}
+flask-client   | Requisição 141/500 concluída: {'client_id': 140, 'file_size': 901.51, 'status_code': 200, 'elapsed_time': 0.42031359672546387}
+flask-client   | Requisição 142/500 concluída: {'client_id': 141, 'file_size': 947.32, 'status_code': 200, 'elapsed_time': 0.439683198928833}
+flask-client   | Requisição 143/500 concluída: {'client_id': 142, 'file_size': 223.89, 'status_code': 200, 'elapsed_time': 0.1568293571472168}
+flask-client   | Requisição 144/500 concluída: {'client_id': 143, 'file_size': 427.21, 'status_code': 200, 'elapsed_time': 0.22637176513671875}
+flask-client   | Requisição 145/500 concluída: {'client_id': 144, 'file_size': 334.36, 'status_code': 200, 'elapsed_time': 0.1840040683746338}
+flask-client   | Requisição 146/500 concluída: {'client_id': 145, 'file_size': 89.57, 'status_code': 200, 'elapsed_time': 0.10701251029968262}
+flask-client   | Requisição 147/500 concluída: {'client_id': 146, 'file_size': 152.07, 'status_code': 200, 'elapsed_time': 0.13041043281555176}
+flask-client   | Requisição 148/500 concluída: {'client_id': 147, 'file_size': 204.55, 'status_code': 200, 'elapsed_time': 0.14389824867248535}
+flask-client   | Requisição 149/500 concluída: {'client_id': 148, 'file_size': 485.05, 'status_code': 200, 'elapsed_time': 0.287672758102417}
+flask-client   | Requisição 150/500 concluída: {'client_id': 149, 'file_size': 450.7, 'status_code': 200, 'elapsed_time': 0.2994234561920166}
+flask-client   | Requisição 151/500 concluída: {'client_id': 150, 'file_size': 233.61, 'status_code': 200, 'elapsed_time': 0.15800189971923828}
+flask-client   | Requisição 152/500 concluída: {'client_id': 151, 'file_size': 352.22, 'status_code': 200, 'elapsed_time': 0.21827316284179688}
+flask-client   | Requisição 153/500 concluída: {'client_id': 152, 'file_size': 70.95, 'status_code': 200, 'elapsed_time': 0.12071514129638672}
+flask-client   | Requisição 154/500 concluída: {'client_id': 153, 'file_size': 509.17, 'status_code': 200, 'elapsed_time': 0.263108491897583}
+flask-client   | Requisição 155/500 concluída: {'client_id': 154, 'file_size': 387.17, 'status_code': 200, 'elapsed_time': 0.22747516632080078}
+flask-client   | Requisição 156/500 concluída: {'client_id': 155, 'file_size': 326.66, 'status_code': 200, 'elapsed_time': 0.22491073608398438}
+flask-client   | Requisição 157/500 concluída: {'client_id': 156, 'file_size': 680.15, 'status_code': 200, 'elapsed_time': 0.34520792961120605}
+flask-client   | Requisição 158/500 concluída: {'client_id': 157, 'file_size': 86.66, 'status_code': 200, 'elapsed_time': 0.08897852897644043}
+flask-client   | Requisição 159/500 concluída: {'client_id': 158, 'file_size': 676.18, 'status_code': 200, 'elapsed_time': 0.2914156913757324}
+flask-client   | Requisição 160/500 concluída: {'client_id': 159, 'file_size': 55.19, 'status_code': 200, 'elapsed_time': 0.09535002708435059}
+flask-client   | Requisição 161/500 concluída: {'client_id': 160, 'file_size': 236.17, 'status_code': 200, 'elapsed_time': 0.18740630149841309}
+flask-client   | Requisição 162/500 concluída: {'client_id': 161, 'file_size': 973.49, 'status_code': 200, 'elapsed_time': 0.4590132236480713}
+flask-client   | Requisição 163/500 concluída: {'client_id': 162, 'file_size': 391.89, 'status_code': 200, 'elapsed_time': 0.25127458572387695}
+flask-client   | Requisição 164/500 concluída: {'client_id': 163, 'file_size': 75.09, 'status_code': 200, 'elapsed_time': 0.10675334930419922}
+flask-client   | Requisição 165/500 concluída: {'client_id': 164, 'file_size': 686.47, 'status_code': 200, 'elapsed_time': 0.34897899627685547}
+flask-client   | Requisição 166/500 concluída: {'client_id': 165, 'file_size': 344.88, 'status_code': 200, 'elapsed_time': 0.22334575653076172}
+flask-client   | Requisição 167/500 concluída: {'client_id': 166, 'file_size': 775.28, 'status_code': 200, 'elapsed_time': 0.41298389434814453}
+flask-client   | Requisição 168/500 concluída: {'client_id': 167, 'file_size': 614.48, 'status_code': 200, 'elapsed_time': 0.3597078323364258}
+flask-client   | Requisição 169/500 concluída: {'client_id': 168, 'file_size': 175.42, 'status_code': 200, 'elapsed_time': 0.14894700050354004}
+flask-client   | Requisição 170/500 concluída: {'client_id': 169, 'file_size': 826.05, 'status_code': 200, 'elapsed_time': 0.37291693687438965}
+flask-client   | Requisição 171/500 concluída: {'client_id': 170, 'file_size': 648.39, 'status_code': 200, 'elapsed_time': 0.29861927032470703}
+flask-client   | Requisição 172/500 concluída: {'client_id': 171, 'file_size': 55.63, 'status_code': 200, 'elapsed_time': 0.09493470191955566}
+flask-client   | Requisição 173/500 concluída: {'client_id': 172, 'file_size': 718.09, 'status_code': 200, 'elapsed_time': 0.37430405616760254}
+flask-client   | Requisição 174/500 concluída: {'client_id': 173, 'file_size': 662.95, 'status_code': 200, 'elapsed_time': 0.3396286964416504}
+flask-client   | Requisição 175/500 concluída: {'client_id': 174, 'file_size': 407.43, 'status_code': 200, 'elapsed_time': 0.24738359451293945}
+flask-client   | Requisição 176/500 concluída: {'client_id': 175, 'file_size': 28.02, 'status_code': 200, 'elapsed_time': 0.13428282737731934}
+flask-client   | Requisição 177/500 concluída: {'client_id': 176, 'file_size': 830.27, 'status_code': 200, 'elapsed_time': 0.4696378707885742}
+flask-client   | Requisição 178/500 concluída: {'client_id': 177, 'file_size': 669.33, 'status_code': 200, 'elapsed_time': 0.35407590866088867}
+flask-client   | Requisição 179/500 concluída: {'client_id': 178, 'file_size': 290.54, 'status_code': 200, 'elapsed_time': 0.2204890251159668}
+flask-client   | Requisição 180/500 concluída: {'client_id': 179, 'file_size': 612.81, 'status_code': 200, 'elapsed_time': 0.35659265518188477}
+flask-client   | Requisição 181/500 concluída: {'client_id': 180, 'file_size': 913.78, 'status_code': 200, 'elapsed_time': 0.5029308795928955}
+flask-client   | Requisição 182/500 concluída: {'client_id': 181, 'file_size': 479.87, 'status_code': 200, 'elapsed_time': 0.32109522819519043}
+flask-client   | Requisição 183/500 concluída: {'client_id': 182, 'file_size': 4624.189739564806, 'status_code': 200, 'elapsed_time': 2.3937265872955322}
+flask-client   | Requisição 184/500 concluída: {'client_id': 183, 'file_size': 156.71, 'status_code': 200, 'elapsed_time': 0.1524336338043213}
+flask-client   | Requisição 185/500 concluída: {'client_id': 184, 'file_size': 1611.2961469332222, 'status_code': 200, 'elapsed_time': 0.7572789192199707}
+flask-client   | Requisição 186/500 concluída: {'client_id': 185, 'file_size': 259.66, 'status_code': 200, 'elapsed_time': 0.19237828254699707}
+flask-client   | Requisição 187/500 concluída: {'client_id': 186, 'file_size': 164.03, 'status_code': 200, 'elapsed_time': 0.19488286972045898}
+flask-client   | Requisição 188/500 concluída: {'client_id': 187, 'file_size': 524.7, 'status_code': 200, 'elapsed_time': 0.2977631092071533}
+flask-client   | Requisição 189/500 concluída: {'client_id': 188, 'file_size': 53.32, 'status_code': 200, 'elapsed_time': 0.1098935604095459}
+flask-client   | Requisição 190/500 concluída: {'client_id': 189, 'file_size': 844.3, 'status_code': 200, 'elapsed_time': 0.4856452941894531}
+flask-client   | Requisição 191/500 concluída: {'client_id': 190, 'file_size': 945.89, 'status_code': 200, 'elapsed_time': 0.47924160957336426}
+flask-client   | Requisição 192/500 concluída: {'client_id': 191, 'file_size': 795.16, 'status_code': 200, 'elapsed_time': 0.402662992477417}
+flask-client   | Requisição 193/500 concluída: {'client_id': 192, 'file_size': 780.23, 'status_code': 200, 'elapsed_time': 0.4235217571258545}
+flask-client   | Requisição 194/500 concluída: {'client_id': 193, 'file_size': 592.61, 'status_code': 200, 'elapsed_time': 0.292222261428833}
+flask-client   | Requisição 195/500 concluída: {'client_id': 194, 'file_size': 798.17, 'status_code': 200, 'elapsed_time': 0.37869977951049805}
+flask-client   | Requisição 196/500 concluída: {'client_id': 195, 'file_size': 291.83, 'status_code': 200, 'elapsed_time': 0.22548794746398926}
+flask-client   | Requisição 197/500 concluída: {'client_id': 196, 'file_size': 686.37, 'status_code': 200, 'elapsed_time': 0.38430309295654297}
+flask-client   | Requisição 198/500 concluída: {'client_id': 197, 'file_size': 552.09, 'status_code': 200, 'elapsed_time': 0.374558687210083}
+flask-client   | Requisição 199/500 concluída: {'client_id': 198, 'file_size': 942.26, 'status_code': 200, 'elapsed_time': 0.48941850662231445}
+flask-client   | Requisição 200/500 concluída: {'client_id': 199, 'file_size': 783.65, 'status_code': 200, 'elapsed_time': 0.4460318088531494}
+flask-client   | Requisição 201/500 concluída: {'client_id': 200, 'file_size': 133.02, 'status_code': 200, 'elapsed_time': 0.18061161041259766}
+flask-client   | Requisição 202/500 concluída: {'client_id': 201, 'file_size': 886.83, 'status_code': 200, 'elapsed_time': 0.4695558547973633}
+flask-client   | Requisição 203/500 concluída: {'client_id': 202, 'file_size': 505.5, 'status_code': 200, 'elapsed_time': 0.3065488338470459}
+flask-client   | Requisição 204/500 concluída: {'client_id': 203, 'file_size': 764.04, 'status_code': 200, 'elapsed_time': 0.4546842575073242}
+flask-client   | Requisição 205/500 concluída: {'client_id': 204, 'file_size': 3565.9677908817825, 'status_code': 200, 'elapsed_time': 1.6243064403533936}
+flask-client   | Requisição 206/500 concluída: {'client_id': 205, 'file_size': 793.51, 'status_code': 200, 'elapsed_time': 0.40608668327331543}
+flask-client   | Requisição 207/500 concluída: {'client_id': 206, 'file_size': 83.43, 'status_code': 200, 'elapsed_time': 0.14661622047424316}
+flask-client   | Requisição 208/500 concluída: {'client_id': 207, 'file_size': 549.8, 'status_code': 200, 'elapsed_time': 0.34943056106567383}
+flask-client   | Requisição 209/500 concluída: {'client_id': 208, 'file_size': 747.76, 'status_code': 200, 'elapsed_time': 0.42430877685546875}
+flask-client   | Requisição 210/500 concluída: {'client_id': 209, 'file_size': 522.5, 'status_code': 200, 'elapsed_time': 0.3781769275665283}
+flask-client   | Requisição 211/500 concluída: {'client_id': 210, 'file_size': 216.86, 'status_code': 200, 'elapsed_time': 0.20203137397766113}
+flask-client   | Requisição 212/500 concluída: {'client_id': 211, 'file_size': 184.09, 'status_code': 200, 'elapsed_time': 0.18830561637878418}
+flask-client   | Requisição 213/500 concluída: {'client_id': 212, 'file_size': 617.42, 'status_code': 200, 'elapsed_time': 0.29056596755981445}
+flask-client   | Requisição 214/500 concluída: {'client_id': 213, 'file_size': 214.34, 'status_code': 200, 'elapsed_time': 0.19083189964294434}
+flask-client   | Requisição 215/500 concluída: {'client_id': 214, 'file_size': 383.62, 'status_code': 200, 'elapsed_time': 0.2906351089477539}
+flask-client   | Requisição 216/500 concluída: {'client_id': 215, 'file_size': 968.31, 'status_code': 200, 'elapsed_time': 0.47446560859680176}
+flask-client   | Requisição 217/500 concluída: {'client_id': 216, 'file_size': 915.97, 'status_code': 200, 'elapsed_time': 0.483642578125}
+flask-client   | Requisição 218/500 concluída: {'client_id': 217, 'file_size': 639.61, 'status_code': 200, 'elapsed_time': 0.37234997749328613}
+flask-client   | Requisição 219/500 concluída: {'client_id': 218, 'file_size': 237.56, 'status_code': 200, 'elapsed_time': 0.2100052833557129}
+flask-client   | Requisição 220/500 concluída: {'client_id': 219, 'file_size': 505.52, 'status_code': 200, 'elapsed_time': 0.31800317764282227}
+flask-client   | Requisição 221/500 concluída: {'client_id': 220, 'file_size': 708.33, 'status_code': 200, 'elapsed_time': 0.3226051330566406}
+flask-client   | Requisição 222/500 concluída: {'client_id': 221, 'file_size': 99.37, 'status_code': 200, 'elapsed_time': 0.1633601188659668}
+flask-client   | Requisição 223/500 concluída: {'client_id': 222, 'file_size': 2764.233724041293, 'status_code': 200, 'elapsed_time': 1.4152235984802246}
+flask-client   | Requisição 224/500 concluída: {'client_id': 223, 'file_size': 284.78, 'status_code': 200, 'elapsed_time': 0.21073031425476074}
+flask-client   | Requisição 225/500 concluída: {'client_id': 224, 'file_size': 222.56, 'status_code': 200, 'elapsed_time': 0.19415855407714844}
+flask-client   | Requisição 226/500 concluída: {'client_id': 225, 'file_size': 974.48, 'status_code': 200, 'elapsed_time': 0.4836416244506836}
+flask-client   | Requisição 227/500 concluída: {'client_id': 226, 'file_size': 115.57, 'status_code': 200, 'elapsed_time': 0.16178035736083984}
+flask-client   | Requisição 228/500 concluída: {'client_id': 227, 'file_size': 226.43, 'status_code': 200, 'elapsed_time': 0.20036721229553223}
+flask-client   | Requisição 229/500 concluída: {'client_id': 228, 'file_size': 110.77, 'status_code': 200, 'elapsed_time': 0.1519331932067871}
+flask-client   | Requisição 230/500 concluída: {'client_id': 229, 'file_size': 949.06, 'status_code': 200, 'elapsed_time': 0.5061585903167725}
+flask-client   | Requisição 231/500 concluída: {'client_id': 230, 'file_size': 903.09, 'status_code': 200, 'elapsed_time': 0.4654242992401123}
+flask-client   | Requisição 232/500 concluída: {'client_id': 231, 'file_size': 957.93, 'status_code': 200, 'elapsed_time': 0.49031805992126465}
+flask-client   | Requisição 233/500 concluída: {'client_id': 232, 'file_size': 87.4, 'status_code': 200, 'elapsed_time': 0.16276764869689941}
+flask-client   | Requisição 234/500 concluída: {'client_id': 233, 'file_size': 567.67, 'status_code': 200, 'elapsed_time': 0.3325378894805908}
+flask-client   | Requisição 235/500 concluída: {'client_id': 234, 'file_size': 35.32, 'status_code': 200, 'elapsed_time': 0.09274125099182129}
+flask-client   | Requisição 236/500 concluída: {'client_id': 235, 'file_size': 28.84, 'status_code': 200, 'elapsed_time': 0.10648965835571289}
+flask-client   | Requisição 237/500 concluída: {'client_id': 236, 'file_size': 813.0, 'status_code': 200, 'elapsed_time': 0.3534412384033203}
+flask-client   | Requisição 238/500 concluída: {'client_id': 237, 'file_size': 261.5, 'status_code': 200, 'elapsed_time': 0.1963798999786377}
+flask-client   | Requisição 239/500 concluída: {'client_id': 238, 'file_size': 775.93, 'status_code': 200, 'elapsed_time': 0.43000173568725586}
+flask-client   | Requisição 240/500 concluída: {'client_id': 239, 'file_size': 520.68, 'status_code': 200, 'elapsed_time': 0.3300778865814209}
+flask-client   | Requisição 241/500 concluída: {'client_id': 240, 'file_size': 995.88, 'status_code': 200, 'elapsed_time': 0.47262120246887207}
+flask-client   | Requisição 242/500 concluída: {'client_id': 241, 'file_size': 453.37, 'status_code': 200, 'elapsed_time': 0.27802276611328125}
+flask-client   | Requisição 243/500 concluída: {'client_id': 242, 'file_size': 559.63, 'status_code': 200, 'elapsed_time': 0.27371978759765625}
+flask-client   | Requisição 244/500 concluída: {'client_id': 243, 'file_size': 683.47, 'status_code': 200, 'elapsed_time': 0.3174262046813965}
+flask-client   | Requisição 245/500 concluída: {'client_id': 244, 'file_size': 936.51, 'status_code': 200, 'elapsed_time': 0.43076300621032715}
+flask-client   | Requisição 246/500 concluída: {'client_id': 245, 'file_size': 276.19, 'status_code': 200, 'elapsed_time': 0.16150641441345215}
+flask-client   | Requisição 247/500 concluída: {'client_id': 246, 'file_size': 915.21, 'status_code': 200, 'elapsed_time': 0.4397163391113281}
+flask-client   | Requisição 248/500 concluída: {'client_id': 247, 'file_size': 748.47, 'status_code': 200, 'elapsed_time': 0.42131924629211426}
+flask-client   | Requisição 249/500 concluída: {'client_id': 248, 'file_size': 326.26, 'status_code': 200, 'elapsed_time': 0.23891782760620117}
+flask-client   | Requisição 250/500 concluída: {'client_id': 249, 'file_size': 514.92, 'status_code': 200, 'elapsed_time': 0.3057281970977783}
+flask-client   | Requisição 251/500 concluída: {'client_id': 250, 'file_size': 951.21, 'status_code': 200, 'elapsed_time': 0.4474773406982422}
+flask-client   | Requisição 252/500 concluída: {'client_id': 251, 'file_size': 736.95, 'status_code': 200, 'elapsed_time': 0.42545557022094727}
+flask-client   | Requisição 253/500 concluída: {'client_id': 252, 'file_size': 55.54, 'status_code': 200, 'elapsed_time': 0.11436796188354492}
+flask-client   | Requisição 254/500 concluída: {'client_id': 253, 'file_size': 568.06, 'status_code': 200, 'elapsed_time': 0.37498903274536133}
+flask-client   | Requisição 255/500 concluída: {'client_id': 254, 'file_size': 89.01, 'status_code': 200, 'elapsed_time': 0.1470637321472168}
+flask-client   | Requisição 256/500 concluída: {'client_id': 255, 'file_size': 719.26, 'status_code': 200, 'elapsed_time': 0.3889613151550293}
+flask-client   | Requisição 257/500 concluída: {'client_id': 256, 'file_size': 835.5, 'status_code': 200, 'elapsed_time': 0.44236207008361816}
+flask-client   | Requisição 258/500 concluída: {'client_id': 257, 'file_size': 371.56, 'status_code': 200, 'elapsed_time': 0.237382173538208}
+flask-client   | Requisição 259/500 concluída: {'client_id': 258, 'file_size': 43.27, 'status_code': 200, 'elapsed_time': 0.14420413970947266}
+flask-client   | Requisição 260/500 concluída: {'client_id': 259, 'file_size': 282.48, 'status_code': 200, 'elapsed_time': 0.2849140167236328}
+flask-client   | Requisição 261/500 concluída: {'client_id': 260, 'file_size': 586.55, 'status_code': 200, 'elapsed_time': 0.4159524440765381}
+flask-client   | Requisição 262/500 concluída: {'client_id': 261, 'file_size': 993.86, 'status_code': 200, 'elapsed_time': 0.49381184577941895}
+flask-client   | Requisição 263/500 concluída: {'client_id': 262, 'file_size': 641.75, 'status_code': 200, 'elapsed_time': 0.36017394065856934}
+flask-client   | Requisição 264/500 concluída: {'client_id': 263, 'file_size': 801.96, 'status_code': 200, 'elapsed_time': 0.49568843841552734}
+flask-client   | Requisição 265/500 concluída: {'client_id': 264, 'file_size': 459.81, 'status_code': 200, 'elapsed_time': 0.35791015625}
+flask-client   | Requisição 266/500 concluída: {'client_id': 265, 'file_size': 730.92, 'status_code': 200, 'elapsed_time': 0.4281289577484131}
+flask-client   | Requisição 267/500 concluída: {'client_id': 266, 'file_size': 526.2, 'status_code': 200, 'elapsed_time': 0.3378736972808838}
+flask-client   | Requisição 268/500 concluída: {'client_id': 267, 'file_size': 821.89, 'status_code': 200, 'elapsed_time': 0.4624612331390381}
+flask-client   | Requisição 269/500 concluída: {'client_id': 268, 'file_size': 281.13, 'status_code': 200, 'elapsed_time': 0.23008322715759277}
+flask-client   | Requisição 270/500 concluída: {'client_id': 269, 'file_size': 559.84, 'status_code': 200, 'elapsed_time': 0.3531022071838379}
+flask-client   | Requisição 271/500 concluída: {'client_id': 270, 'file_size': 734.04, 'status_code': 200, 'elapsed_time': 0.4351973533630371}
+flask-client   | Requisição 272/500 concluída: {'client_id': 271, 'file_size': 803.38, 'status_code': 200, 'elapsed_time': 0.5643260478973389}
+flask-client   | Requisição 273/500 concluída: {'client_id': 272, 'file_size': 495.74, 'status_code': 200, 'elapsed_time': 0.3050417900085449}
+flask-client   | Requisição 274/500 concluída: {'client_id': 273, 'file_size': 311.49, 'status_code': 200, 'elapsed_time': 0.2344050407409668}
+flask-client   | Requisição 275/500 concluída: {'client_id': 274, 'file_size': 940.64, 'status_code': 200, 'elapsed_time': 0.5407428741455078}
+flask-client   | Requisição 276/500 concluída: {'client_id': 275, 'file_size': 445.42, 'status_code': 200, 'elapsed_time': 0.2968018054962158}
+flask-client   | Requisição 277/500 concluída: {'client_id': 276, 'file_size': 647.74, 'status_code': 200, 'elapsed_time': 0.45976781845092773}
+flask-client   | Requisição 278/500 concluída: {'client_id': 277, 'file_size': 808.66, 'status_code': 200, 'elapsed_time': 0.3854973316192627}
+flask-client   | Requisição 279/500 concluída: {'client_id': 278, 'file_size': 381.68, 'status_code': 200, 'elapsed_time': 0.25516414642333984}
+flask-client   | Requisição 280/500 concluída: {'client_id': 279, 'file_size': 988.43, 'status_code': 200, 'elapsed_time': 0.5296449661254883}
+flask-client   | Requisição 281/500 concluída: {'client_id': 280, 'file_size': 425.57, 'status_code': 200, 'elapsed_time': 0.24434471130371094}
+flask-client   | Requisição 282/500 concluída: {'client_id': 281, 'file_size': 754.74, 'status_code': 200, 'elapsed_time': 0.3448460102081299}
+flask-client   | Requisição 283/500 concluída: {'client_id': 282, 'file_size': 100.73, 'status_code': 200, 'elapsed_time': 0.07676839828491211}
+flask-client   | Requisição 284/500 concluída: {'client_id': 283, 'file_size': 987.02, 'status_code': 200, 'elapsed_time': 0.5071399211883545}
+flask-client   | Requisição 285/500 concluída: {'client_id': 284, 'file_size': 514.15, 'status_code': 200, 'elapsed_time': 0.2908596992492676}
+flask-client   | Requisição 286/500 concluída: {'client_id': 285, 'file_size': 62.97, 'status_code': 200, 'elapsed_time': 0.1069326400756836}
+flask-client   | Requisição 287/500 concluída: {'client_id': 286, 'file_size': 815.72, 'status_code': 200, 'elapsed_time': 0.40372228622436523}
+flask-client   | Requisição 288/500 concluída: {'client_id': 287, 'file_size': 683.28, 'status_code': 200, 'elapsed_time': 0.3778960704803467}
+flask-client   | Requisição 289/500 concluída: {'client_id': 288, 'file_size': 1762.728585623283, 'status_code': 200, 'elapsed_time': 0.7431724071502686}
+flask-client   | Requisição 290/500 concluída: {'client_id': 289, 'file_size': 973.91, 'status_code': 200, 'elapsed_time': 0.5092766284942627}
+flask-client   | Requisição 291/500 concluída: {'client_id': 290, 'file_size': 88.56, 'status_code': 200, 'elapsed_time': 0.10295462608337402}
+flask-client   | Requisição 292/500 concluída: {'client_id': 291, 'file_size': 121.26, 'status_code': 200, 'elapsed_time': 0.13624095916748047}
+flask-client   | Requisição 293/500 concluída: {'client_id': 292, 'file_size': 63.7, 'status_code': 200, 'elapsed_time': 0.07015466690063477}
+flask-client   | Requisição 294/500 concluída: {'client_id': 293, 'file_size': 538.78, 'status_code': 200, 'elapsed_time': 0.32813143730163574}
+flask-client   | Requisição 295/500 concluída: {'client_id': 294, 'file_size': 484.33, 'status_code': 200, 'elapsed_time': 0.2678954601287842}
+flask-client   | Requisição 296/500 concluída: {'client_id': 295, 'file_size': 783.91, 'status_code': 200, 'elapsed_time': 0.4322540760040283}
+flask-client   | Requisição 297/500 concluída: {'client_id': 296, 'file_size': 696.99, 'status_code': 200, 'elapsed_time': 0.405686616897583}
+flask-client   | Requisição 298/500 concluída: {'client_id': 297, 'file_size': 935.06, 'status_code': 200, 'elapsed_time': 0.5461604595184326}
+flask-client   | Requisição 299/500 concluída: {'client_id': 298, 'file_size': 773.64, 'status_code': 200, 'elapsed_time': 0.3498263359069824}
+flask-client   | Requisição 300/500 concluída: {'client_id': 299, 'file_size': 487.17, 'status_code': 200, 'elapsed_time': 0.2582883834838867}
+flask-client   | Requisição 301/500 concluída: {'client_id': 300, 'file_size': 1989.7323596573356, 'status_code': 200, 'elapsed_time': 0.9987540245056152}
+flask-client   | Requisição 302/500 concluída: {'client_id': 301, 'file_size': 169.02, 'status_code': 200, 'elapsed_time': 0.1691758632659912}
+flask-client   | Requisição 303/500 concluída: {'client_id': 302, 'file_size': 697.02, 'status_code': 200, 'elapsed_time': 0.3432350158691406}
+flask-client   | Requisição 304/500 concluída: {'client_id': 303, 'file_size': 647.02, 'status_code': 200, 'elapsed_time': 0.3090963363647461}
+flask-client   | Requisição 305/500 concluída: {'client_id': 304, 'file_size': 470.26, 'status_code': 200, 'elapsed_time': 0.25222086906433105}
+flask-client   | Requisição 306/500 concluída: {'client_id': 305, 'file_size': 188.43, 'status_code': 200, 'elapsed_time': 0.18555212020874023}
+flask-client   | Requisição 307/500 concluída: {'client_id': 306, 'file_size': 121.5, 'status_code': 200, 'elapsed_time': 0.14973902702331543}
+flask-client   | Requisição 308/500 concluída: {'client_id': 307, 'file_size': 170.42, 'status_code': 200, 'elapsed_time': 0.18608641624450684}
+flask-client   | Requisição 309/500 concluída: {'client_id': 308, 'file_size': 639.23, 'status_code': 200, 'elapsed_time': 0.4910087585449219}
+flask-client   | Requisição 310/500 concluída: {'client_id': 309, 'file_size': 381.26, 'status_code': 200, 'elapsed_time': 0.2770378589630127}
+flask-client   | Requisição 311/500 concluída: {'client_id': 310, 'file_size': 555.52, 'status_code': 200, 'elapsed_time': 0.3855729103088379}
+flask-client   | Requisição 312/500 concluída: {'client_id': 311, 'file_size': 316.8, 'status_code': 200, 'elapsed_time': 0.24821758270263672}
+flask-client   | Requisição 313/500 concluída: {'client_id': 312, 'file_size': 974.65, 'status_code': 200, 'elapsed_time': 0.6392881870269775}
+flask-client   | Requisição 314/500 concluída: {'client_id': 313, 'file_size': 933.19, 'status_code': 200, 'elapsed_time': 0.5726134777069092}
+flask-client   | Requisição 315/500 concluída: {'client_id': 314, 'file_size': 77.8, 'status_code': 200, 'elapsed_time': 0.18965840339660645}
+flask-client   | Requisição 316/500 concluída: {'client_id': 315, 'file_size': 987.02, 'status_code': 200, 'elapsed_time': 0.6704292297363281}
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/229 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/993 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/211 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/911 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/628 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/190 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/833 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/897 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/887 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/252 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/805 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/456 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/295 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/903 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/727 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/955 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/151 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/701 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/55 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/561 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/160 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/522 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/21 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/833 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/108 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/84 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/26 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/464 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/697 HTTP/1.1" 200 -
+flask-server   | 172.19.0.3 - - [01/Feb/2025 21:15:12] "GET /file/214 HTTP/1.1" 200 -
+flask-client   | Requisição 317/500 concluída: {'client_id': 316, 'file_size': 424.04, 'status_code': 200, 'elapsed_time': 0.3328065872192383}
+flask-client   | Requisição 318/500 concluída: {'client_id': 317, 'file_size': 258.07, 'status_code': 200, 'elapsed_time': 0.2660694122314453}
+flask-client   | Requisição 319/500 concluída: {'client_id': 318, 'file_size': 754.28, 'status_code': 200, 'elapsed_time': 0.5415880680084229}
+flask-client   | Requisição 320/500 concluída: {'client_id': 319, 'file_size': 500.8, 'status_code': 200, 'elapsed_time': 0.35037922859191895}
+flask-client   | Requisição 321/500 concluída: {'client_id': 320, 'file_size': 177.32, 'status_code': 200, 'elapsed_time': 0.2551295757293701}
+flask-client   | Requisição 322/500 concluída: {'client_id': 321, 'file_size': 898.58, 'status_code': 200, 'elapsed_time': 0.6307065486907959}
+flask-client   | Requisição 323/500 concluída: {'client_id': 322, 'file_size': 387.97, 'status_code': 200, 'elapsed_time': 0.387958288192749}
+flask-client   | Requisição 324/500 concluída: {'client_id': 323, 'file_size': 184.53, 'status_code': 200, 'elapsed_time': 0.23340845108032227}
+flask-client   | Requisição 325/500 concluída: {'client_id': 324, 'file_size': 733.05, 'status_code': 200, 'elapsed_time': 0.41248536109924316}
+flask-client   | Requisição 326/500 concluída: {'client_id': 325, 'file_size': 727.9, 'status_code': 200, 'elapsed_time': 0.5425324440002441}
+flask-client   | Requisição 327/500 concluída: {'client_id': 326, 'file_size': 523.59, 'status_code': 200, 'elapsed_time': 0.4218437671661377}
+flask-client   | Requisição 328/500 concluída: {'client_id': 327, 'file_size': 310.89, 'status_code': 200, 'elapsed_time': 0.27374768257141113}
+flask-client   | Requisição 329/500 concluída: {'client_id': 328, 'file_size': 973.39, 'status_code': 200, 'elapsed_time': 0.6166269779205322}
+flask-client   | Requisição 330/500 concluída: {'client_id': 329, 'file_size': 369.12, 'status_code': 200, 'elapsed_time': 0.29260706901550293}
+flask-client   | Requisição 331/500 concluída: {'client_id': 330, 'file_size': 39.75, 'status_code': 200, 'elapsed_time': 0.16997241973876953}
+flask-client   | Requisição 332/500 concluída: {'client_id': 331, 'file_size': 952.13, 'status_code': 200, 'elapsed_time': 0.6107053756713867}
+flask-client   | Requisição 333/500 concluída: {'client_id': 332, 'file_size': 821.7, 'status_code': 200, 'elapsed_time': 0.5614562034606934}
+flask-client   | Requisição 334/500 concluída: {'client_id': 333, 'file_size': 317.04, 'status_code': 200, 'elapsed_time': 0.25975966453552246}
+flask-client   | Requisição 335/500 concluída: {'client_id': 334, 'file_size': 253.06, 'status_code': 200, 'elapsed_time': 0.2438831329345703}
+flask-client   | Requisição 336/500 concluída: {'client_id': 335, 'file_size': 888.26, 'status_code': 200, 'elapsed_time': 0.49796175956726074}
+flask-client   | Requisição 337/500 concluída: {'client_id': 336, 'file_size': 735.12, 'status_code': 200, 'elapsed_time': 0.5099341869354248}
+flask-client   | Requisição 338/500 concluída: {'client_id': 337, 'file_size': 691.77, 'status_code': 200, 'elapsed_time': 0.36688661575317383}
+flask-client   | Requisição 339/500 concluída: {'client_id': 338, 'file_size': 533.11, 'status_code': 200, 'elapsed_time': 0.4627814292907715}
+flask-client   | Requisição 340/500 concluída: {'client_id': 339, 'file_size': 2605.9370868751503, 'status_code': 200, 'elapsed_time': 1.4588291645050049}
+flask-client   | Requisição 341/500 concluída: {'client_id': 340, 'file_size': 339.66, 'status_code': 200, 'elapsed_time': 0.28908324241638184}
+flask-client   | Requisição 342/500 concluída: {'client_id': 341, 'file_size': 617.26, 'status_code': 200, 'elapsed_time': 0.3709084987640381}
+flask-client   | Requisição 343/500 concluída: {'client_id': 342, 'file_size': 823.7, 'status_code': 200, 'elapsed_time': 0.5737285614013672}
+flask-client   | Requisição 344/500 concluída: {'client_id': 343, 'file_size': 996.7, 'status_code': 200, 'elapsed_time': 0.662388801574707}
+flask-client   | Requisição 345/500 concluída: {'client_id': 344, 'file_size': 389.14, 'status_code': 200, 'elapsed_time': 0.28075098991394043}
+flask-client   | Requisição 346/500 concluída: {'client_id': 345, 'file_size': 455.5, 'status_code': 200, 'elapsed_time': 0.4016556739807129}
+flask-client   | Requisição 347/500 concluída: {'client_id': 346, 'file_size': 702.64, 'status_code': 200, 'elapsed_time': 0.48838138580322266}
+flask-client   | Requisição 348/500 concluída: {'client_id': 347, 'file_size': 866.2, 'status_code': 200, 'elapsed_time': 0.5481503009796143}
+flask-client   | Requisição 349/500 concluída: {'client_id': 348, 'file_size': 516.99, 'status_code': 200, 'elapsed_time': 0.3879408836364746}
+flask-client   | Requisição 350/500 concluída: {'client_id': 349, 'file_size': 195.17, 'status_code': 200, 'elapsed_time': 0.22378230094909668}
+flask-client   | Requisição 351/500 concluída: {'client_id': 350, 'file_size': 3571.809150467193, 'status_code': 200, 'elapsed_time': 1.4614052772521973}
+flask-client   | Requisição 352/500 concluída: {'client_id': 351, 'file_size': 422.81, 'status_code': 200, 'elapsed_time': 0.34415769577026367}
+flask-client   | Requisição 353/500 concluída: {'client_id': 352, 'file_size': 419.41, 'status_code': 200, 'elapsed_time': 0.4599616527557373}
+flask-client   | Requisição 354/500 concluída: {'client_id': 353, 'file_size': 166.04, 'status_code': 200, 'elapsed_time': 0.24465441703796387}
+flask-client   | Requisição 355/500 concluída: {'client_id': 354, 'file_size': 258.17, 'status_code': 200, 'elapsed_time': 0.3193786144256592}
+flask-client   | Requisição 356/500 concluída: {'client_id': 355, 'file_size': 837.4, 'status_code': 200, 'elapsed_time': 0.6217391490936279}
+flask-client   | Requisição 357/500 concluída: {'client_id': 356, 'file_size': 501.42, 'status_code': 200, 'elapsed_time': 0.37623000144958496}
+flask-client   | Requisição 358/500 concluída: {'client_id': 357, 'file_size': 213.89, 'status_code': 200, 'elapsed_time': 0.2859768867492676}
+flask-client   | Requisição 359/500 concluída: {'client_id': 358, 'file_size': 715.54, 'status_code': 200, 'elapsed_time': 0.4439728260040283}
+flask-client   | Requisição 360/500 concluída: {'client_id': 359, 'file_size': 666.19, 'status_code': 200, 'elapsed_time': 0.5230522155761719}
+flask-client   | Requisição 361/500 concluída: {'client_id': 360, 'file_size': 120.28, 'status_code': 200, 'elapsed_time': 0.18876147270202637}
+flask-client   | Requisição 362/500 concluída: {'client_id': 361, 'file_size': 60.32, 'status_code': 200, 'elapsed_time': 0.15787863731384277}
+flask-client   | Requisição 363/500 concluída: {'client_id': 362, 'file_size': 719.39, 'status_code': 200, 'elapsed_time': 0.45354127883911133}
+flask-client   | Requisição 364/500 concluída: {'client_id': 363, 'file_size': 964.99, 'status_code': 200, 'elapsed_time': 0.6679027080535889}
+flask-client   | Requisição 365/500 concluída: {'client_id': 364, 'file_size': 680.07, 'status_code': 200, 'elapsed_time': 0.3907809257507324}
+flask-client   | Requisição 366/500 concluída: {'client_id': 365, 'file_size': 190.56, 'status_code': 200, 'elapsed_time': 0.16760563850402832}
+flask-client   | Requisição 367/500 concluída: {'client_id': 366, 'file_size': 877.14, 'status_code': 200, 'elapsed_time': 0.5505220890045166}
+flask-client   | Requisição 368/500 concluída: {'client_id': 367, 'file_size': 397.22, 'status_code': 200, 'elapsed_time': 0.3142721652984619}
+flask-client   | Requisição 369/500 concluída: {'client_id': 368, 'file_size': 292.69, 'status_code': 200, 'elapsed_time': 0.24036741256713867}
+flask-client   | Requisição 370/500 concluída: {'client_id': 369, 'file_size': 821.35, 'status_code': 200, 'elapsed_time': 0.5379652976989746}
+flask-client   | Requisição 371/500 concluída: {'client_id': 370, 'file_size': 47.32, 'status_code': 200, 'elapsed_time': 0.09094858169555664}
+flask-client   | Requisição 372/500 concluída: {'client_id': 371, 'file_size': 495.41, 'status_code': 200, 'elapsed_time': 0.3746604919433594}
+flask-client   | Requisição 373/500 concluída: {'client_id': 372, 'file_size': 297.64, 'status_code': 200, 'elapsed_time': 0.26961660385131836}
+flask-client   | Requisição 374/500 concluída: {'client_id': 373, 'file_size': 135.0, 'status_code': 200, 'elapsed_time': 0.14118266105651855}
+flask-client   | Requisição 375/500 concluída: {'client_id': 374, 'file_size': 52.82, 'status_code': 200, 'elapsed_time': 0.12108230590820312}
+flask-client   | Requisição 376/500 concluída: {'client_id': 375, 'file_size': 944.67, 'status_code': 200, 'elapsed_time': 0.6156644821166992}
+flask-client   | Requisição 377/500 concluída: {'client_id': 376, 'file_size': 79.03, 'status_code': 200, 'elapsed_time': 0.17567944526672363}
+flask-client   | Requisição 378/500 concluída: {'client_id': 377, 'file_size': 366.07, 'status_code': 200, 'elapsed_time': 0.2570936679840088}
+flask-client   | Requisição 379/500 concluída: {'client_id': 378, 'file_size': 76.12, 'status_code': 200, 'elapsed_time': 0.1113581657409668}
+flask-client   | Requisição 380/500 concluída: {'client_id': 379, 'file_size': 431.52, 'status_code': 200, 'elapsed_time': 0.2757134437561035}
+flask-client   | Requisição 381/500 concluída: {'client_id': 380, 'file_size': 73.82, 'status_code': 200, 'elapsed_time': 0.15382766723632812}
+flask-client   | Requisição 382/500 concluída: {'client_id': 381, 'file_size': 786.24, 'status_code': 200, 'elapsed_time': 0.4707672595977783}
+flask-client   | Requisição 383/500 concluída: {'client_id': 382, 'file_size': 894.55, 'status_code': 200, 'elapsed_time': 0.5187230110168457}
+flask-client   | Requisição 384/500 concluída: {'client_id': 383, 'file_size': 577.72, 'status_code': 200, 'elapsed_time': 0.4142613410949707}
+flask-client   | Requisição 385/500 concluída: {'client_id': 384, 'file_size': 632.54, 'status_code': 200, 'elapsed_time': 0.44281911849975586}
+flask-client   | Requisição 386/500 concluída: {'client_id': 385, 'file_size': 212.49, 'status_code': 200, 'elapsed_time': 0.19191575050354004}
+flask-client   | Requisição 387/500 concluída: {'client_id': 386, 'file_size': 799.79, 'status_code': 200, 'elapsed_time': 0.5345096588134766}
+flask-client   | Requisição 388/500 concluída: {'client_id': 387, 'file_size': 629.92, 'status_code': 200, 'elapsed_time': 0.47216320037841797}
+flask-client   | Requisição 389/500 concluída: {'client_id': 388, 'file_size': 892.85, 'status_code': 200, 'elapsed_time': 0.5289342403411865}
+flask-client   | Requisição 390/500 concluída: {'client_id': 389, 'file_size': 163.21, 'status_code': 200, 'elapsed_time': 0.1587989330291748}
+flask-client   | Requisição 391/500 concluída: {'client_id': 390, 'file_size': 745.85, 'status_code': 200, 'elapsed_time': 0.49947452545166016}
+flask-client   | Requisição 392/500 concluída: {'client_id': 391, 'file_size': 979.72, 'status_code': 200, 'elapsed_time': 0.5718526840209961}
+flask-client   | Requisição 393/500 concluída: {'client_id': 392, 'file_size': 553.71, 'status_code': 200, 'elapsed_time': 0.41687893867492676}
+flask-client   | Requisição 394/500 concluída: {'client_id': 393, 'file_size': 37.81, 'status_code': 200, 'elapsed_time': 0.12152910232543945}
+flask-client   | Requisição 395/500 concluída: {'client_id': 394, 'file_size': 418.37, 'status_code': 200, 'elapsed_time': 0.3088521957397461}
+flask-client   | Requisição 396/500 concluída: {'client_id': 395, 'file_size': 202.99, 'status_code': 200, 'elapsed_time': 0.1940898895263672}
+flask-client   | Requisição 397/500 concluída: {'client_id': 396, 'file_size': 122.8, 'status_code': 200, 'elapsed_time': 0.1591780185699463}
+flask-client   | Requisição 398/500 concluída: {'client_id': 397, 'file_size': 331.82, 'status_code': 200, 'elapsed_time': 0.3205142021179199}
+flask-client   | Requisição 399/500 concluída: {'client_id': 398, 'file_size': 933.88, 'status_code': 200, 'elapsed_time': 0.5648643970489502}
+flask-client   | Requisição 400/500 concluída: {'client_id': 399, 'file_size': 541.08, 'status_code': 200, 'elapsed_time': 0.42007946968078613}
+flask-client   | Requisição 401/500 concluída: {'client_id': 400, 'file_size': 782.58, 'status_code': 200, 'elapsed_time': 0.5288012027740479}
+flask-client   | Requisição 402/500 concluída: {'client_id': 401, 'file_size': 837.76, 'status_code': 200, 'elapsed_time': 0.5148017406463623}
+flask-client   | Requisição 403/500 concluída: {'client_id': 402, 'file_size': 452.21, 'status_code': 200, 'elapsed_time': 0.3726348876953125}
+flask-client   | Requisição 404/500 concluída: {'client_id': 403, 'file_size': 999.27, 'status_code': 200, 'elapsed_time': 0.5692389011383057}
+flask-client   | Requisição 405/500 concluída: {'client_id': 404, 'file_size': 708.5, 'status_code': 200, 'elapsed_time': 0.4562840461730957}
+flask-client   | Requisição 406/500 concluída: {'client_id': 405, 'file_size': 206.06, 'status_code': 200, 'elapsed_time': 0.26929593086242676}
+flask-client   | Requisição 407/500 concluída: {'client_id': 406, 'file_size': 668.21, 'status_code': 200, 'elapsed_time': 0.502007246017456}
+flask-client   | Requisição 408/500 concluída: {'client_id': 407, 'file_size': 194.99, 'status_code': 200, 'elapsed_time': 0.2645432949066162}
+flask-client   | Requisição 409/500 concluída: {'client_id': 408, 'file_size': 585.36, 'status_code': 200, 'elapsed_time': 0.40419435501098633}
+flask-client   | Requisição 410/500 concluída: {'client_id': 409, 'file_size': 732.28, 'status_code': 200, 'elapsed_time': 0.5293326377868652}
+flask-client   | Requisição 411/500 concluída: {'client_id': 410, 'file_size': 794.73, 'status_code': 200, 'elapsed_time': 0.4616434574127197}
+flask-client   | Requisição 412/500 concluída: {'client_id': 411, 'file_size': 145.15, 'status_code': 200, 'elapsed_time': 0.254730224609375}
+flask-client   | Requisição 413/500 concluída: {'client_id': 412, 'file_size': 2927.8053723443027, 'status_code': 200, 'elapsed_time': 0.968186616897583}
+flask-client   | Requisição 414/500 concluída: {'client_id': 413, 'file_size': 322.65, 'status_code': 200, 'elapsed_time': 0.3474748134613037}
+flask-client   | Requisição 415/500 concluída: {'client_id': 414, 'file_size': 4356.192378640977, 'status_code': 200, 'elapsed_time': 0.965904951095581}
+flask-client   | Requisição 416/500 concluída: {'client_id': 415, 'file_size': 15.94, 'status_code': 200, 'elapsed_time': 0.17661023139953613}
+flask-client   | Requisição 417/500 concluída: {'client_id': 416, 'file_size': 537.7, 'status_code': 200, 'elapsed_time': 0.4267268180847168}
+flask-client   | Requisição 418/500 concluída: {'client_id': 417, 'file_size': 843.46, 'status_code': 200, 'elapsed_time': 0.660212516784668}
+flask-client   | Requisição 419/500 concluída: {'client_id': 418, 'file_size': 118.13, 'status_code': 200, 'elapsed_time': 0.2808713912963867}
+flask-client   | Requisição 420/500 concluída: {'client_id': 419, 'file_size': 349.41, 'status_code': 200, 'elapsed_time': 0.348527193069458}
+flask-client   | Requisição 421/500 concluída: {'client_id': 420, 'file_size': 753.4, 'status_code': 200, 'elapsed_time': 0.5380687713623047}
+flask-client   | Requisição 422/500 concluída: {'client_id': 421, 'file_size': 2808.0484346330923, 'status_code': 200, 'elapsed_time': 0.9040243625640869}
+flask-client   | Requisição 423/500 concluída: {'client_id': 422, 'file_size': 814.84, 'status_code': 200, 'elapsed_time': 0.5929522514343262}
+flask-client   | Requisição 424/500 concluída: {'client_id': 423, 'file_size': 699.09, 'status_code': 200, 'elapsed_time': 0.5166542530059814}
+flask-client   | Requisição 425/500 concluída: {'client_id': 424, 'file_size': 403.28, 'status_code': 200, 'elapsed_time': 0.34195470809936523}
+flask-client   | Requisição 426/500 concluída: {'client_id': 425, 'file_size': 174.6, 'status_code': 200, 'elapsed_time': 0.2569901943206787}
+flask-client   | Requisição 427/500 concluída: {'client_id': 426, 'file_size': 494.49, 'status_code': 200, 'elapsed_time': 0.3857574462890625}
+flask-client   | Requisição 428/500 concluída: {'client_id': 427, 'file_size': 228.68, 'status_code': 200, 'elapsed_time': 0.2141427993774414}
+flask-client   | Requisição 429/500 concluída: {'client_id': 428, 'file_size': 382.74, 'status_code': 200, 'elapsed_time': 0.30516886711120605}
+flask-client   | Requisição 430/500 concluída: {'client_id': 429, 'file_size': 267.59, 'status_code': 200, 'elapsed_time': 0.21917295455932617}
+flask-client   | Requisição 431/500 concluída: {'client_id': 430, 'file_size': 390.64, 'status_code': 200, 'elapsed_time': 0.29708313941955566}
+flask-client   | Requisição 432/500 concluída: {'client_id': 431, 'file_size': 412.17, 'status_code': 200, 'elapsed_time': 0.32404255867004395}
+flask-client   | Requisição 433/500 concluída: {'client_id': 432, 'file_size': 625.35, 'status_code': 200, 'elapsed_time': 0.35789990425109863}
+flask-client   | Requisição 434/500 concluída: {'client_id': 433, 'file_size': 39.52, 'status_code': 200, 'elapsed_time': 0.1009988784790039}
+flask-client   | Requisição 435/500 concluída: {'client_id': 434, 'file_size': 760.55, 'status_code': 200, 'elapsed_time': 0.523773193359375}
+flask-client   | Requisição 436/500 concluída: {'client_id': 435, 'file_size': 907.89, 'status_code': 200, 'elapsed_time': 0.5717353820800781}
+flask-client   | Requisição 437/500 concluída: {'client_id': 436, 'file_size': 106.87, 'status_code': 200, 'elapsed_time': 0.1425626277923584}
+flask-client   | Requisição 438/500 concluída: {'client_id': 437, 'file_size': 931.53, 'status_code': 200, 'elapsed_time': 0.603421688079834}
+flask-client   | Requisição 439/500 concluída: {'client_id': 438, 'file_size': 148.75, 'status_code': 200, 'elapsed_time': 0.14027190208435059}
+flask-client   | Requisição 440/500 concluída: {'client_id': 439, 'file_size': 995.97, 'status_code': 200, 'elapsed_time': 0.6222643852233887}
+flask-client   | Requisição 441/500 concluída: {'client_id': 440, 'file_size': 848.92, 'status_code': 200, 'elapsed_time': 0.5111687183380127}
+flask-client   | Requisição 442/500 concluída: {'client_id': 441, 'file_size': 755.63, 'status_code': 200, 'elapsed_time': 0.48046135902404785}
+flask-client   | Requisição 443/500 concluída: {'client_id': 442, 'file_size': 308.1, 'status_code': 200, 'elapsed_time': 0.21345996856689453}
+flask-client   | Requisição 444/500 concluída: {'client_id': 443, 'file_size': 440.53, 'status_code': 200, 'elapsed_time': 0.3322145938873291}
+flask-client   | Requisição 445/500 concluída: {'client_id': 444, 'file_size': 633.83, 'status_code': 200, 'elapsed_time': 0.3692612648010254}
+flask-client   | Requisição 446/500 concluída: {'client_id': 445, 'file_size': 878.06, 'status_code': 200, 'elapsed_time': 0.4774808883666992}
+flask-client   | Requisição 447/500 concluída: {'client_id': 446, 'file_size': 604.02, 'status_code': 200, 'elapsed_time': 0.4105851650238037}
+flask-client   | Requisição 448/500 concluída: {'client_id': 447, 'file_size': 767.72, 'status_code': 200, 'elapsed_time': 0.49802708625793457}
+flask-client   | Requisição 449/500 concluída: {'client_id': 448, 'file_size': 462.39, 'status_code': 200, 'elapsed_time': 0.35112857818603516}
+flask-client   | Requisição 450/500 concluída: {'client_id': 449, 'file_size': 343.88, 'status_code': 200, 'elapsed_time': 0.27091217041015625}
+flask-client   | Requisição 451/500 concluída: {'client_id': 450, 'file_size': 769.88, 'status_code': 200, 'elapsed_time': 0.495485782623291}
+flask-client   | Requisição 452/500 concluída: {'client_id': 451, 'file_size': 423.73, 'status_code': 200, 'elapsed_time': 0.2705395221710205}
+flask-client   | Requisição 453/500 concluída: {'client_id': 452, 'file_size': 190.77, 'status_code': 200, 'elapsed_time': 0.2396085262298584}
+flask-client   | Requisição 454/500 concluída: {'client_id': 453, 'file_size': 868.46, 'status_code': 200, 'elapsed_time': 0.5195660591125488}
+flask-client   | Requisição 455/500 concluída: {'client_id': 454, 'file_size': 666.99, 'status_code': 200, 'elapsed_time': 0.4938969612121582}
+flask-client   | Requisição 456/500 concluída: {'client_id': 455, 'file_size': 331.91, 'status_code': 200, 'elapsed_time': 0.34390854835510254}
+flask-client   | Requisição 457/500 concluída: {'client_id': 456, 'file_size': 512.69, 'status_code': 200, 'elapsed_time': 0.4612283706665039}
+flask-client   | Requisição 458/500 concluída: {'client_id': 457, 'file_size': 707.58, 'status_code': 200, 'elapsed_time': 0.4927546977996826}
+flask-client   | Requisição 459/500 concluída: {'client_id': 458, 'file_size': 646.99, 'status_code': 200, 'elapsed_time': 0.4648158550262451}
+flask-client   | Requisição 460/500 concluída: {'client_id': 459, 'file_size': 597.51, 'status_code': 200, 'elapsed_time': 0.4575648307800293}
+flask-client   | Requisição 461/500 concluída: {'client_id': 460, 'file_size': 755.34, 'status_code': 200, 'elapsed_time': 0.4949462413787842}
+flask-client   | Requisição 462/500 concluída: {'client_id': 461, 'file_size': 310.57, 'status_code': 200, 'elapsed_time': 0.26177334785461426}
+flask-client   | Requisição 463/500 concluída: {'client_id': 462, 'file_size': 302.68, 'status_code': 200, 'elapsed_time': 0.2926204204559326}
+flask-client   | Requisição 464/500 concluída: {'client_id': 463, 'file_size': 17.36, 'status_code': 200, 'elapsed_time': 0.14344453811645508}
+flask-client   | Requisição 465/500 concluída: {'client_id': 464, 'file_size': 42.94, 'status_code': 200, 'elapsed_time': 0.1949446201324463}
+flask-client   | Requisição 466/500 concluída: {'client_id': 465, 'file_size': 2009.0924142086387, 'status_code': 200, 'elapsed_time': 0.5133156776428223}
+flask-client   | Requisição 467/500 concluída: {'client_id': 466, 'file_size': 563.0, 'status_code': 200, 'elapsed_time': 0.4243202209472656}
+flask-client   | Requisição 468/500 concluída: {'client_id': 467, 'file_size': 341.05, 'status_code': 200, 'elapsed_time': 0.3308999538421631}
+flask-client   | Requisição 469/500 concluída: {'client_id': 468, 'file_size': 230.59, 'status_code': 200, 'elapsed_time': 0.30486488342285156}
+flask-client   | Requisição 470/500 concluída: {'client_id': 469, 'file_size': 229.71, 'status_code': 200, 'elapsed_time': 0.30751824378967285}
+flask-client   | Requisição 471/500 concluída: {'client_id': 470, 'file_size': 993.06, 'status_code': 200, 'elapsed_time': 0.46393632888793945}
+flask-client   | Requisição 472/500 concluída: {'client_id': 471, 'file_size': 79.02, 'status_code': 200, 'elapsed_time': 0.20674419403076172}
+flask-client   | Requisição 473/500 concluída: {'client_id': 472, 'file_size': 190.02, 'status_code': 200, 'elapsed_time': 0.26224446296691895}
+flask-client   | Requisição 474/500 concluída: {'client_id': 473, 'file_size': 211.37, 'status_code': 200, 'elapsed_time': 0.25545692443847656}
+flask-client   | Requisição 475/500 concluída: {'client_id': 474, 'file_size': 911.14, 'status_code': 200, 'elapsed_time': 0.42650318145751953}
+flask-client   | Requisição 476/500 concluída: {'client_id': 475, 'file_size': 628.92, 'status_code': 200, 'elapsed_time': 0.368349552154541}
+flask-client   | Requisição 477/500 concluída: {'client_id': 476, 'file_size': 897.77, 'status_code': 200, 'elapsed_time': 0.35836243629455566}
+flask-client   | Requisição 478/500 concluída: {'client_id': 477, 'file_size': 833.51, 'status_code': 200, 'elapsed_time': 0.34665393829345703}
+flask-client   | Requisição 479/500 concluída: {'client_id': 478, 'file_size': 252.99, 'status_code': 200, 'elapsed_time': 0.27309656143188477}
+flask-client   | Requisição 480/500 concluída: {'client_id': 479, 'file_size': 887.09, 'status_code': 200, 'elapsed_time': 0.3525710105895996}
+flask-client   | Requisição 481/500 concluída: {'client_id': 480, 'file_size': 805.29, 'status_code': 200, 'elapsed_time': 0.33528637886047363}
+flask-client   | Requisição 482/500 concluída: {'client_id': 481, 'file_size': 456.14, 'status_code': 200, 'elapsed_time': 0.2873232364654541}
+flask-client   | Requisição 483/500 concluída: {'client_id': 482, 'file_size': 955.46, 'status_code': 200, 'elapsed_time': 0.3100728988647461}
+flask-client   | Requisição 484/500 concluída: {'client_id': 483, 'file_size': 903.97, 'status_code': 200, 'elapsed_time': 0.3092982769012451}
+flask-client   | Requisição 485/500 concluída: {'client_id': 484, 'file_size': 727.33, 'status_code': 200, 'elapsed_time': 0.2877082824707031}
+flask-client   | Requisição 486/500 concluída: {'client_id': 485, 'file_size': 151.88, 'status_code': 200, 'elapsed_time': 0.18450117111206055}
+flask-client   | Requisição 487/500 concluída: {'client_id': 486, 'file_size': 55.74, 'status_code': 200, 'elapsed_time': 0.19227933883666992}
+flask-client   | Requisição 488/500 concluída: {'client_id': 487, 'file_size': 295.73, 'status_code': 200, 'elapsed_time': 0.19800543785095215}
+flask-client   | Requisição 489/500 concluída: {'client_id': 488, 'file_size': 160.63, 'status_code': 200, 'elapsed_time': 0.18934106826782227}
+flask-client   | Requisição 490/500 concluída: {'client_id': 489, 'file_size': 21.62, 'status_code': 200, 'elapsed_time': 0.16547012329101562}
+flask-client   | Requisição 491/500 concluída: {'client_id': 490, 'file_size': 561.26, 'status_code': 200, 'elapsed_time': 0.23635101318359375}
+flask-client   | Requisição 492/500 concluída: {'client_id': 491, 'file_size': 701.17, 'status_code': 200, 'elapsed_time': 0.2364799976348877}
+flask-client   | Requisição 493/500 concluída: {'client_id': 492, 'file_size': 108.38, 'status_code': 200, 'elapsed_time': 0.16752195358276367}
+flask-client   | Requisição 494/500 concluída: {'client_id': 493, 'file_size': 522.51, 'status_code': 200, 'elapsed_time': 0.19168353080749512}
+flask-client   | Requisição 495/500 concluída: {'client_id': 494, 'file_size': 464.17, 'status_code': 200, 'elapsed_time': 0.19019389152526855}
+flask-client   | Requisição 496/500 concluída: {'client_id': 495, 'file_size': 833.72, 'status_code': 200, 'elapsed_time': 0.20094847679138184}
+flask-client   | Requisição 497/500 concluída: {'client_id': 496, 'file_size': 26.69, 'status_code': 200, 'elapsed_time': 0.11014938354492188}
+flask-client   | Requisição 498/500 concluída: {'client_id': 497, 'file_size': 84.99, 'status_code': 200, 'elapsed_time': 0.10967421531677246}
+flask-client   | Requisição 499/500 concluída: {'client_id': 498, 'file_size': 697.68, 'status_code': 200, 'elapsed_time': 0.17795753479003906}
+flask-client   | Requisição 500/500 concluída: {'client_id': 499, 'file_size': 214.72, 'status_code': 200, 'elapsed_time': 0.13190007209777832}
+flask-client   | Logs salvos em /app/output/requests_log.json
+[Kflask-client exited with code 0
+data-analyzer  | Arquivo detectado (Tamanho: 69726 bytes)
+data-analyzer  | ✓ Arquivo estável. Iniciando análise...
+Gracefully stopping... (press Ctrl+C again to force)
+ Container data-analyzer  Stopping
