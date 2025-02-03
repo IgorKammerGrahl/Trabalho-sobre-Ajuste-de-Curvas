@@ -97,9 +97,7 @@ if __name__ == "__main__":
         
         if data is None or len(data) == 0:
             raise ValueError("Dados pré-processados inválidos!")
-        
-        # ... resto do código
-        
+                
     except Exception as e:
         print(f"ERRO CRÍTICO: {str(e)}", flush=True)
         exit(1)

@@ -3,10 +3,69 @@ import time
 import json
 import os
 import math
+import traceback
 from metodos_numericos import gauss_pivoteamento, jacobi, gauss_seidel
 from clustering import preprocess_logs, apply_clustering
 
 print("=== INICIANDO AJUSTE DE CURVAS ===", flush=True)
+
+# Função nova para cálculo de métricas de erro
+def calcular_metricas_erro(y_true, y_pred):
+    """Calcula MAE, RMSE e R²."""
+    if len(y_true) != len(y_pred) or len(y_true) == 0:
+        return {'mae': 0, 'rmse': 0, 'r2': 0}
+    
+    n = len(y_true)
+    mae = sum(abs(a - b) for a, b in zip(y_true, y_pred)) / n
+    mse = sum((a - b)**2 for a, b in zip(y_true, y_pred)) / n
+    rmse = math.sqrt(mse)
+    
+    y_mean = sum(y_true) / n
+    ss_total = sum((a - y_mean)**2 for a in y_true)
+    ss_res = sum((a - b)**2 for a, b in zip(y_true, y_pred))
+    
+    r2 = 1 - (ss_res / ss_total) if ss_total != 0 else 0
+    
+    return {
+        'mae': mae,
+        'rmse': rmse,
+        'r2': r2
+    }
+
+# Função nova para validação dos resultados
+def validar_resultados(resultados):
+    """Realiza validação cruzada dos resultados obtidos."""
+    relatorio = {
+        'checks': [],
+        'metodos_comparacao': {}
+    }
+    
+    metodos = [m for m in resultados if resultados[m]['erro'] is None]
+    
+    if len(metodos) > 1:
+        try:
+            dif_rmse = abs(resultados[metodos[0]]['rmse'] - resultados[metodos[1]]['rmse'])
+            relatorio['checks'].append({
+                'check': 'Consistência entre métodos',
+                'status': 'OK' if dif_rmse < 0.001 else 'ALERTA',
+                'detalhes': f"Diferença de RMSE: {dif_rmse:.4f}"
+            })
+        except:
+            pass
+    
+    for metodo in metodos:
+        try:
+            r2 = resultados[metodo]['r2']
+            status = 'OK' if r2 > 0.7 else 'ALERTA'
+            relatorio['checks'].append({
+                'check': f'Qualidade do Ajuste ({metodo})',
+                'status': status,
+                'detalhes': f"R² = {r2:.4f} (>= 0.7 considerado bom)"
+            })
+        except:
+            pass
+    
+    return relatorio
 
 def carregar_dados():
     """Carrega dados do experimento atual"""
@@ -71,15 +130,13 @@ def ajuste_minimos_quadrados(X, y, metodo='gauss'):
             ATA[i][j] = sum(a[i] * a[j] for a in A)
         ATB[i] = sum(a[i] * y_val for a, y_val in zip(A, y))
     
-    # Regularização adaptativa (sem numpy)
-    lambda_reg_value = 1e-1 * n  # Volte ao valor original mas com verificação
-    min_diagonal = 1e-4 * n
+    # Regularização adaptativa
+    lambda_reg_value = 1e-1 * n
     for i in range(4):
         ATA[i][i] += lambda_reg_value
-        # Garante dominância diagonal
         row_sum = sum(abs(ATA[i][j]) for j in range(4) if j != i)
         if ATA[i][i] < row_sum:
-            ATA[i][i] += row_sum * 1.1  # Torna diagonal dominante
+            ATA[i][i] += row_sum * 1.1
     
     # Resolver sistema
     try:
@@ -93,14 +150,9 @@ def ajuste_minimos_quadrados(X, y, metodo='gauss'):
             raise ValueError(f"Método desconhecido: {metodo}")
     except Exception as e:
         print(f"Erro no método {metodo}: {str(e)}")
-        theta = [0, 0, 0, 0]  # 4 elementos para os 4 parâmetros
+        theta = [0, 0, 0, 0]
     
     return theta
-
-
-def is_finite(x):
-    # Verifica se x não é NaN (já que NaN != NaN) e se não é infinito
-    return x == x and x != float('inf') and x != -float('inf')
 
 def comparar_metodos(X, y):
     """Compara os métodos numéricos para ajuste de curvas."""
@@ -109,197 +161,149 @@ def comparar_metodos(X, y):
     
     for metodo in metodos:
         try:
-            # Validação preliminar dos dados
             if not X or any(len(row) != 3 for row in X):
-                raise ValueError("Dados de entrada inválidos ou inconsistentes")
+                raise ValueError("Dados de entrada inválidos")
             
             inicio = time.time()
             theta = ajuste_minimos_quadrados(X, y, metodo)
             
-            # Verificação numérica rigorosa
             if any(not math.isfinite(t) for t in theta):
-                invalid = [t for t in theta if not math.isfinite(t)]
-                raise ValueError(f"Parâmetros não finitos detectados: {invalid}")
+                raise ValueError("Parâmetros não finitos detectados")
                 
-            # Verificação de magnitude dos parâmetros
             if any(abs(t) > 1e6 for t in theta):
-                large_params = [t for t in theta if abs(t) > 1e6]
-                raise ValueError(f"Parâmetros com magnitude excessiva: {large_params}")
+                raise ValueError("Parâmetros com magnitude excessiva")
             
             tempo = time.time() - inicio
             
-            # Cálculo do resíduo com tratamento seguro
-            residuo = 0.0
-            count = 0
-            invalid_predictions = 0
+            # Cálculo das predições
+            y_pred = []
+            y_true_valid = []
+            invalid_count = 0
             
             for i, x_row in enumerate(X):
                 try:
-                    # Verificação da estrutura dos dados
-                    if len(x_row) != 3:
-                        raise ValueError(f"Elemento X[{i}] com dimensão inválida: {len(x_row)}")
-                    
                     pred = (theta[0] * x_row[0] + 
                             theta[1] * x_row[1] + 
                             theta[2] * x_row[2] + 
                             theta[3])
                     
-                    # Verificação da predição
                     if not math.isfinite(pred):
-                        invalid_predictions += 1
+                        invalid_count += 1
                         continue
                         
-                    residuo += (y[i] - pred)**2
-                    count += 1
+                    y_pred.append(pred)
+                    y_true_valid.append(y[i])
                 
-                except (IndexError, TypeError) as e:
-                    print(f"Erro no ponto {i}: {str(e)}")
-                    continue
+                except Exception as e:
+                    invalid_count += 1
             
-            if invalid_predictions > 0:
-                print(f"Aviso: {invalid_predictions} predições inválidas descartadas")
-                
-            if count < len(X)//2:
-                raise ValueError(f"Mais de 50% dos pontos inválidos ({count}/{len(X)} válidos)")
-                
-            if count == 0:
-                raise ValueError("Nenhum ponto válido para cálculo do resíduo")
-                
-            residuo = (residuo/count)**0.5  # RMSE normalizado
+            # Cálculo das métricas
+            metricas = calcular_metricas_erro(y_true_valid, y_pred)
             
             resultados[metodo] = {
                 'theta': theta,
                 'tempo': tempo,
-                'residuo': residuo,
-                'pontos_validos': f"{count}/{len(X)}"
+                'mae': metricas['mae'],
+                'rmse': metricas['rmse'],
+                'r2': metricas['r2'],
+                'pontos_validos': f"{len(y_pred)}/{len(X)}",
+                'erro': None
             }
             
         except Exception as e:
             print(f"Erro crítico em {metodo}: {str(e)}")
-            traceback.print_exc()
             resultados[metodo] = {
                 'theta': [0, 0, 0, 0],
                 'tempo': -1,
-                'residuo': -1,
+                'mae': -1,
+                'rmse': -1,
+                'r2': -1,
+                'pontos_validos': "0/0",
                 'erro': str(e)
             }
     
     return resultados
 
-def plot_resultados(X, y, resultados, caminho_saida='/app/output/resultados.png'):
-    """Salva os gráficos em arquivo usando apenas listas nativas."""
+def plot_resultados(X, y, resultados, caminho_saida):
+    """Salva os gráficos em arquivo."""
     plt.figure(figsize=(15, 10))
     
-    # Filtrar métodos válidos
-    metodos_validos = [m for m, res in resultados.items() if res['residuo'] > 0]
+    metodos_validos = [m for m, res in resultados.items() if res['erro'] is None]
     if not metodos_validos:
-        print("Nenhum método válido para plotar!")
         return
     
-    # Dados reais
+    # Gráfico 3D
+    ax1 = plt.subplot(121, projection='3d')
     x1 = [row[0] for row in X]
     x2 = [row[1] for row in X]
     clusters = [row[2] for row in X]
     
-    # Criar subplots
-    ax1 = plt.subplot(121, projection='3d')
-    ax2 = plt.subplot(122)
-
-    # Funções auxiliares sem numpy
-    def linspace(start, stop, n):
-        return [start + (stop - start) * i / (n-1) for i in range(n)]
-    
-    def meshgrid(x_vals, y_vals):
-        return [[x for _ in y_vals] for x in x_vals], [[y for y in y_vals] for _ in x_vals]
-    
-    # Gerar superfícies manualmente
-    for metodo in metodos_validos:
-        res = resultados[metodo]
-        X1 = linspace(min(x1), max(x1), 20)
-        X2 = linspace(min(x2), max(x2), 20)
-        grid_x, grid_y = meshgrid(X1, X2)
-        
-        # Calcular Z manualmente
-        Z = []
-        for i in range(len(grid_x)):
-            z_row = []
-            for j in range(len(grid_x[0])):
-                z = (res['theta'][0] * grid_x[i][j] + 
-                     res['theta'][1] * grid_y[i][j] + 
-                     res['theta'][2] * 0 +  # Cluster fixo para simplificar
-                     res['theta'][3])
-                z_row.append(z)
-            Z.append(z_row)
-        
-        # Gráfico de dispersão 2D:
-        ax1.scatter(x1, x2, y, c=clusters, cmap='viridis')
-        ax1.set_xlabel('Tamanho (KB)')
-        ax1.set_ylabel('Req/min')
-
     ax1.scatter(x1, x2, y, c=clusters, cmap='viridis')
     ax1.set_xlabel('Tamanho (KB)')
     ax1.set_ylabel('Req/min')
     ax1.set_zlabel('Latência (ms)')
-
-    # Gráfico 2D
-    tempos = [resultados[m]['tempo'] for m in metodos_validos]
-    ax2.bar(metodos_validos, tempos, color=['blue','green','orange'])
-    ax2.set_title('Tempo por Método')
-    ax2.set_ylabel('Segundos')
-
-    plt.tight_layout()
     
-    try:
-        plt.savefig(caminho_saida, dpi=150)
-        print(f"Gráfico salvo em {caminho_saida}")
-    except Exception as e:
-        print(f"Erro ao salvar gráfico: {str(e)}")
-        raise
-    finally:
-        plt.close()
+    # Gráfico de Métricas
+    ax2 = plt.subplot(122)
+    metodos = [m for m in metodos_validos]
+    rmses = [resultados[m]['rmse'] for m in metodos]
+    maes = [resultados[m]['mae'] for m in metodos]
+    
+    bar_width = 0.35
+    index = range(len(metodos))
+    
+    ax2.bar(index, rmses, bar_width, label='RMSE')
+    ax2.bar([i + bar_width for i in index], maes, bar_width, label='MAE')
+    
+    ax2.set_xlabel('Métodos')
+    ax2.set_ylabel('Valor')
+    ax2.set_title('Comparação de Métricas de Erro')
+    ax2.set_xticks([i + bar_width/2 for i in index])
+    ax2.set_xticklabels(metodos)
+    ax2.legend()
+    
+    plt.tight_layout()
+    plt.savefig(caminho_saida, dpi=150)
+    plt.close()
 
 if __name__ == "__main__":
     print("=== INICIANDO ANALYZER ===")
     experiment_id = os.getenv("EXPERIMENT_ID", "default")
-    print(f"Experiment ID: {experiment_id}")
+    output_dir = os.path.join("/app/output", experiment_id)
     
     try:
-        # Pipeline principal com try externo
-        output_dir = os.path.join("/app/output", experiment_id)
-        print(f"[DEBUG] Output dir: {output_dir}")
         os.makedirs(output_dir, exist_ok=True)
         
-        print("[DEBUG] Carregando dados...")
+        # Carregar e processar dados
         X, y = carregar_dados()
-        
-        print(f"[DEBUG] Dados carregados. X: {len(X)}, y: {len(y)}")
-        
-        # Verificação de dados
-        if not X or not y:
-            raise ValueError("Dados vazios ou inválidos")
-            
-        print("[DEBUG] Processando métodos...")
         resultados = comparar_metodos(X, y)
         
-        print("[DEBUG] Salvando métricas...")
+        # Salvar métricas
         with open(f"{output_dir}/metricas.txt", 'w') as f:
             for metodo, res in resultados.items():
                 f.write(
                     f"Método: {metodo}\n"
                     f"Parâmetros: {res['theta']}\n"
-                    f"Tempo: {res['tempo']:.4f}s\n"
-                    f"Resíduo: {res['residuo']:.4f}\n\n"
+                    f"MAE: {res['mae']:.4f}\n"
+                    f"RMSE: {res['rmse']:.4f}\n"
+                    f"R²: {res['r2']:.4f}\n"
+                    f"Pontos válidos: {res['pontos_validos']}\n"
+                    f"Tempo: {res['tempo']:.4f}s\n\n"
                 )
-                
-        print("[DEBUG] Gerando gráficos...")
+        
+        # Gerar gráficos
         plot_resultados(X, y, resultados, f"{output_dir}/resultados.png")
+        
+        # Gerar e salvar relatório de validação
+        relatorio = validar_resultados(resultados)
+        with open(f"{output_dir}/relatorio_validacao.json", 'w') as f:
+            json.dump(relatorio, f, indent=4)
         
         print(f"✅ Análise concluída! Resultados em {output_dir}")
         
     except Exception as e:
         print(f"⛔ ERRO CRÍTICO: {str(e)}")
-        import traceback
-        traceback.print_exc()  # Adiciona stack trace
+        traceback.print_exc()
         exit(1)
 
-print("Gráficos salvos com sucesso!", flush=True)
+print("Processamento finalizado com sucesso!", flush=True)

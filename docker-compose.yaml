@@ -14,9 +14,9 @@ services:
   client:
     build: ./client
     environment:
-      - TOTAL_REQS=1000
-      - CONCURRENT_CLIENTS=100
-      - EXPERIMENT_ID=exp1
+      - TOTAL_REQS=5000
+      - CONCURRENT_CLIENTS=200
+      - EXPERIMENT_ID=exp2
     volumes:
       - ./data/logs:/app/output
     depends_on:

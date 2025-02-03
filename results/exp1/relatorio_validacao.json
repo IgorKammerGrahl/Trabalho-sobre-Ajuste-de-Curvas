@@ -1,0 +1,25 @@
+{
+    "checks": [
+        {
+            "check": "Consist\u00eancia entre m\u00e9todos",
+            "status": "OK",
+            "detalhes": "Diferen\u00e7a de RMSE: 0.0000"
+        },
+        {
+            "check": "Qualidade do Ajuste (gauss)",
+            "status": "ALERTA",
+            "detalhes": "R\u00b2 = 0.1170 (>= 0.7 considerado bom)"
+        },
+        {
+            "check": "Qualidade do Ajuste (jacobi)",
+            "status": "ALERTA",
+            "detalhes": "R\u00b2 = 0.1170 (>= 0.7 considerado bom)"
+        },
+        {
+            "check": "Qualidade do Ajuste (gauss_seidel)",
+            "status": "ALERTA",
+            "detalhes": "R\u00b2 = 0.1170 (>= 0.7 considerado bom)"
+        }
+    ],
+    "metodos_comparacao": {}
+}
