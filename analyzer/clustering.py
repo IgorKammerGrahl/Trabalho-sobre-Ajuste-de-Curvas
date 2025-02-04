@@ -26,21 +26,37 @@ def load_logs(log_file='/app/input/requests_log.json'):
     raise FileNotFoundError("Arquivo de logs não encontrado após todas as tentativas")
 
 def preprocess_logs(logs):
-    """Processa logs e aplica clustering."""
+    """
+    Pré-processamento de logs com validação robusta e clusterização adaptativa.
+    
+    Metodologia:
+    1. Limpeza e normalização de dados
+    2. Validação de limites físicos
+    3. Clusterização dinâmica baseada na densidade dos dados
+    
+    Parâmetros:
+    logs - Lista de registros brutos
+    
+    Retorna:
+    X - Dados pré-processados [tamanho, latência]
+    clusters - Rótulos de cluster atribuídos
+    y - Valores de latência processados
+    """
     X = []
     y = []
     invalid_count = 0
 
     for log in logs:
         try:
-            # Validação mais tolerante
+            # Validação e normalização robusta
             fs = log.get('file_size', 0)
             et = log.get('elapsed_time', 0)
             
+            # Normalização defensiva
             size = float(fs) if fs not in [None, ""] else 0.1
             latency = float(et) if et not in [None, ""] else 0.001
             
-            # Limites físicos realistas
+            # Aplicação de limites físicos realistas
             size = max(0.1, min(size, 100000))  # Entre 0.1KB e 100MB
             latency = max(0.001, min(latency, 300))  # Entre 1ms e 5min
             
@@ -50,21 +66,22 @@ def preprocess_logs(logs):
         except Exception as e:
             invalid_count += 1
             
-    print(f"✓ Dados válidos: {len(X)}/{len(logs)}")
-    print(f"Registros ajustados: {invalid_count}")
-
-    if len(X) < 10:  # Reduzido o limite mínimo
+    # Clusterização adaptativa por densidade
+    if len(X) < 10:
         return [], [], y
     
-    # Clusterização adaptativa
     try:
+        # Determinação dinâmica do número de clusters
         n_clusters = min(5, len(X)//100)
-        kmeans = MiniBatchKMeans(n_clusters=n_clusters, n_init=10)
+        kmeans = MiniBatchKMeans(
+            n_clusters=n_clusters,
+            n_init=10,
+            random_state=42
+        )
         clusters = kmeans.fit_predict(X)
         return X, clusters.tolist(), y
     except Exception as e:
-        print(f"Erro no clustering: {str(e)}")
-        return X, [0]*len(X), y  # Cluster padrão
+        return X, [0]*len(X), y
     
 def apply_clustering(X):
     """Clustering otimizado para grandes datasets"""

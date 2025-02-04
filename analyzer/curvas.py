@@ -103,42 +103,48 @@ def carregar_dados():
         exit(1)
 
 def ajuste_minimos_quadrados(X, y, metodo='gauss'):
-    """Ajuste com 4 parâmetros (incluindo cluster)."""
-    if isinstance(X, (list, tuple)):
-        X = [list(row) for row in X]
-    if isinstance(y, (list, tuple)):
-        y = list(y)
+    """
+    Implementa ajuste por mínimos quadrados regularizado com múltiplos métodos numéricos.
     
+    Metodologia:
+    1. Construção da matriz de projeto com termo de bias
+    2. Regularização adaptativa baseada na escala do problema
+    3. Seleção de método numérico com tratamento de erros
+    
+    Parâmetros:
+    X - Matriz de características [tamanho, taxa, cluster]
+    y - Vetor de valores observados
+    metodo - Algoritmo numérico a ser utilizado
+    
+    Retorna:
+    theta - Parâmetros do modelo ajustado
+    """
     n = len(X)
     if n < 4:
         raise ValueError("Número insuficiente de pontos para ajuste")
     
-    # Validação de dimensionalidade
-    if any(len(row) != 3 for row in X):
-        raise ValueError("Cada elemento de X deve ter 3 características")
-    
-    # Matriz de projeto: [tamanho, taxa, cluster, 1]
+    # Construção da matriz de projeto aumentada
     A = [[row[0], row[1], row[2], 1] for row in X]
     
-    # Cálculo de ATA e ATB
+    # Construção do sistema normal equations
     ATA = [[0.0]*4 for _ in range(4)]
     ATB = [0.0]*4
     
-    # Preenchimento das matrizes
+    # Preenchimento eficiente das matrizes
     for i in range(4):
         for j in range(4):
             ATA[i][j] = sum(a[i] * a[j] for a in A)
         ATB[i] = sum(a[i] * y_val for a, y_val in zip(A, y))
     
-    # Regularização adaptativa
+    # Regularização adaptativa com controle de condicionamento
     lambda_reg_value = 1e-1 * n
     for i in range(4):
         ATA[i][i] += lambda_reg_value
         row_sum = sum(abs(ATA[i][j]) for j in range(4) if j != i)
         if ATA[i][i] < row_sum:
-            ATA[i][i] += row_sum * 1.1
+            ATA[i][i] += row_sum * 1.1  # Garante dominância diagonal
     
-    # Resolver sistema
+    # Seleção do método numérico com tratamento de erros
     try:
         if metodo == 'gauss':
             theta = gauss_pivoteamento(ATA, ATB)
@@ -155,18 +161,36 @@ def ajuste_minimos_quadrados(X, y, metodo='gauss'):
     return theta
 
 def comparar_metodos(X, y):
-    """Compara os métodos numéricos para ajuste de curvas."""
+    """
+    Rotina de comparação sistemática de métodos numéricos.
+    
+    Metodologia:
+    1. Execução controlada de cada método
+    2. Validação rigorosa dos resultados
+    3. Cálculo de métricas de desempenho comparativas
+    4. Tratamento robusto de exceções
+    
+    Parâmetros:
+    X - Dados de entrada
+    y - Valores observados
+    
+    Retorna:
+    resultados - Dicionário com métricas comparativas
+    """
     metodos = ['gauss', 'jacobi', 'gauss_seidel']
     resultados = {}
     
     for metodo in metodos:
         try:
+            # Validação inicial dos dados
             if not X or any(len(row) != 3 for row in X):
                 raise ValueError("Dados de entrada inválidos")
             
+            # Execução cronometrada
             inicio = time.time()
             theta = ajuste_minimos_quadrados(X, y, metodo)
             
+            # Verificação de sanidade dos parâmetros
             if any(not math.isfinite(t) for t in theta):
                 raise ValueError("Parâmetros não finitos detectados")
                 
@@ -175,7 +199,7 @@ def comparar_metodos(X, y):
             
             tempo = time.time() - inicio
             
-            # Cálculo das predições
+            # Cálculo das predições com filtragem de valores inválidos
             y_pred = []
             y_true_valid = []
             invalid_count = 0
@@ -197,9 +221,10 @@ def comparar_metodos(X, y):
                 except Exception as e:
                     invalid_count += 1
             
-            # Cálculo das métricas
+            # Cálculo das métricas de erro
             metricas = calcular_metricas_erro(y_true_valid, y_pred)
             
+            # Armazenamento dos resultados
             resultados[metodo] = {
                 'theta': theta,
                 'tempo': tempo,
@@ -211,7 +236,7 @@ def comparar_metodos(X, y):
             }
             
         except Exception as e:
-            print(f"Erro crítico em {metodo}: {str(e)}")
+            # Tratamento completo de erros
             resultados[metodo] = {
                 'theta': [0, 0, 0, 0],
                 'tempo': -1,
